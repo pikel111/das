@@ -1,0 +1,734 @@
+[23:24:20] [main/INFO]: Loading Minecraft 1.20.1 with Fabric Loader 0.17.2
+[23:24:23] [ForkJoinPool-1-worker-3/WARN]: The mod "betterstats" contains invalid entries in its mod json:
+- Unsupported root entry "" at line 26 column 4
+- Unsupported root entry "" at line 26 column 92
+- Unsupported root entry "" at line 28 column 4
+- Unsupported root entry "" at line 28 column 24
+[23:24:23] [ForkJoinPool-1-worker-4/WARN]: The mod "tcdcommons" contains invalid entries in its mod json:
+- Unsupported root entry "" at line 27 column 4
+- Unsupported root entry "" at line 27 column 198
+- Unsupported root entry "" at line 29 column 4
+- Unsupported root entry "" at line 29 column 24
+[23:24:26] [ForkJoinPool-1-worker-4/WARN]: Mod mr_dungeons_andtaverns uses the version 3.0.3.f which isn't compatible with Loader's extended semantic version format (Could not parse version number component 'f'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
+[23:24:27] [ForkJoinPool-1-worker-2/WARN]: Mod mr_stellarity uses the version 2.0e which isn't compatible with Loader's extended semantic version format (Could not parse version number component '0e'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
+[23:24:27] [main/INFO]: Loading 202 mods:
+	- accessories 1.0.0-beta.47+1.20.1
+	   |-- io_wispforest_endec 0.1.8
+	   |-- io_wispforest_endec_gson 0.1.5
+	   \-- io_wispforest_endec_netty 0.1.4
+	- appleskin 2.5.1+mc1.20
+	- architectury 9.2.14
+	- bclib 3.0.14
+	   \-- wunderlib 1.1.5
+	- betterdeserttemples 1.20-Fabric-3.0.3
+	   \-- org_reflections_reflections 0.10.2
+	- betterend 4.0.11
+	- betterendisland 1.20-Fabric-2.0.6
+	- betterfortresses 1.20-Fabric-2.0.6
+	- betteroceanmonuments 1.20-Fabric-3.0.4
+	- betterstats 3.12.6+fabric-1.20.1
+	- bettervillage 3.3.0
+	- bigendcitiesmod 1.20.1-1.0.4
+	- bodiesbodies 1.0.1
+	- cardinal-components 5.2.3
+	   |-- cardinal-components-base 5.2.3
+	   |-- cardinal-components-block 5.2.3
+	   |-- cardinal-components-chunk 5.2.3
+	   |-- cardinal-components-entity 5.2.3
+	   |-- cardinal-components-item 5.2.3
+	   |-- cardinal-components-level 5.2.3
+	   |-- cardinal-components-scoreboard 5.2.3
+	   \-- cardinal-components-world 5.2.3
+	- cavedust 3.0.0
+	   \-- kirin 1.15.6+1.20.1
+	- cloth-config 11.1.136
+	   \-- cloth-basic-math 0.6.1
+	- collective 8.3
+	- creeperoverhaul 3.0.2
+	- crops_love_rain 1.4.0
+	   \-- cactusconfig 2.1.1+knot+1.20.1
+	        |-- fabric-rendering-v1 3.0.6+b3afc78b77
+	        \-- spruceui 5.0.0+1.20
+	- ctov 3.4.14
+	- customizableelytra 2.1.2+1.20
+	- deeperdarker 1.3.3
+	   \-- customportalapi 0.0.1-beta64-1.20
+	- easyshulkerboxes 8.0.2
+	   \-- puzzlesapi 8.1.6
+	        \-- puzzlesaccessapi 8.0.9
+	- ecologics 2.2.2
+	- endermanoverhaul 1.0.4
+	- endrem 5.2.4
+	- entityculling 1.7.0
+	- fabric-api 0.92.6+1.20.1
+	   |-- fabric-api-base 0.4.32+1802ada577
+	   |-- fabric-api-lookup-api-v1 1.6.37+1802ada577
+	   |-- fabric-biome-api-v1 13.0.14+1802ada577
+	   |-- fabric-block-api-v1 1.0.12+1802ada577
+	   |-- fabric-block-view-api-v2 1.0.3+924f046a77
+	   |-- fabric-blockrenderlayer-v1 1.1.42+1802ada577
+	   |-- fabric-client-tags-api-v1 1.1.3+1802ada577
+	   |-- fabric-command-api-v1 1.2.35+f71b366f77
+	   |-- fabric-command-api-v2 2.2.14+1802ada577
+	   |-- fabric-commands-v0 0.2.52+df3654b377
+	   |-- fabric-containers-v0 0.1.67+df3654b377
+	   |-- fabric-content-registries-v0 4.0.13+1802ada577
+	   |-- fabric-convention-tags-v1 1.5.6+1802ada577
+	   |-- fabric-crash-report-info-v1 0.2.20+1802ada577
+	   |-- fabric-data-attachment-api-v1 1.0.2+de0fd6d177
+	   |-- fabric-data-generation-api-v1 12.3.7+1802ada577
+	   |-- fabric-dimensions-v1 2.1.55+1802ada577
+	   |-- fabric-entity-events-v1 1.6.1+1c78457f77
+	   |-- fabric-events-interaction-v0 0.6.5+13a40c6677
+	   |-- fabric-events-lifecycle-v0 0.2.64+df3654b377
+	   |-- fabric-game-rule-api-v1 1.0.41+1802ada577
+	   |-- fabric-item-api-v1 2.1.29+1802ada577
+	   |-- fabric-item-group-api-v1 4.0.14+1802ada577
+	   |-- fabric-key-binding-api-v1 1.0.38+1802ada577
+	   |-- fabric-keybindings-v0 0.2.36+df3654b377
+	   |-- fabric-lifecycle-events-v1 2.2.23+1802ada577
+	   |-- fabric-loot-api-v2 1.2.3+1802ada577
+	   |-- fabric-loot-tables-v1 1.1.47+9e7660c677
+	   |-- fabric-message-api-v1 5.1.10+1802ada577
+	   |-- fabric-mining-level-api-v1 2.1.52+1802ada577
+	   |-- fabric-model-loading-api-v1 1.0.4+1802ada577
+	   |-- fabric-models-v0 0.4.3+9386d8a777
+	   |-- fabric-networking-api-v1 1.3.14+a158aa0477
+	   |-- fabric-networking-v0 0.3.54+df3654b377
+	   |-- fabric-object-builder-api-v1 11.1.5+e35120df77
+	   |-- fabric-particles-v1 1.1.3+1802ada577
+	   |-- fabric-recipe-api-v1 1.0.24+1802ada577
+	   |-- fabric-registry-sync-v0 2.3.6+1802ada577
+	   |-- fabric-renderer-api-v1 3.2.2+1802ada577
+	   |-- fabric-renderer-indigo 1.5.3+85287f9f77
+	   |-- fabric-renderer-registries-v1 3.2.47+df3654b377
+	   |-- fabric-rendering-data-attachment-v1 0.3.39+92a0d36777
+	   |-- fabric-rendering-fluids-v1 3.0.29+1802ada577
+	   |-- fabric-rendering-v0 1.1.50+df3654b377
+	   |-- fabric-rendering-v1 3.0.9+1802ada577
+	   |-- fabric-resource-conditions-api-v1 2.3.9+1802ada577
+	   |-- fabric-resource-loader-v0 0.11.12+fb82e9d777
+	   |-- fabric-screen-api-v1 2.0.9+1802ada577
+	   |-- fabric-screen-handler-api-v1 1.3.33+1802ada577
+	   |-- fabric-sound-api-v1 1.0.14+1802ada577
+	   |-- fabric-transfer-api-v1 3.3.6+8dd72ea377
+	   \-- fabric-transitive-access-wideners-v1 4.3.2+1802ada577
+	- fabric-language-kotlin 1.13.6+kotlin.2.2.20
+	   |-- org_jetbrains_kotlin_kotlin-reflect 2.2.20
+	   |-- org_jetbrains_kotlin_kotlin-stdlib 2.2.20
+	   |-- org_jetbrains_kotlin_kotlin-stdlib-jdk7 2.2.20
+	   |-- org_jetbrains_kotlin_kotlin-stdlib-jdk8 2.2.20
+	   |-- org_jetbrains_kotlinx_atomicfu-jvm 0.29.0
+	   |-- org_jetbrains_kotlinx_kotlinx-coroutines-core-jvm 1.10.2
+	   |-- org_jetbrains_kotlinx_kotlinx-coroutines-jdk8 1.10.2
+	   |-- org_jetbrains_kotlinx_kotlinx-datetime-jvm 0.7.1
+	   |-- org_jetbrains_kotlinx_kotlinx-io-bytestring-jvm 0.8.0
+	   |-- org_jetbrains_kotlinx_kotlinx-io-core-jvm 0.8.0
+	   |-- org_jetbrains_kotlinx_kotlinx-serialization-cbor-jvm 1.9.0
+	   |-- org_jetbrains_kotlinx_kotlinx-serialization-core-jvm 1.9.0
+	   \-- org_jetbrains_kotlinx_kotlinx-serialization-json-jvm 1.9.0
+	- fabricloader 0.17.2
+	   \-- mixinextras 0.5.0
+	- ferritecore 6.0.1
+	- forgeconfigapiport 8.0.2
+	- formations 1.0.3
+	- formationsnether 1.0.5
+	- formationsoverworld 1.0.4
+	- friendsandfoes 3.0.9
+	   \-- reach-entity-attributes 2.4.0
+	- fzzy_config 0.7.2+1.20.1
+	   |-- blue_endless_jankson 1.2.3
+	   |-- fabric-permissions-api-v0 0.3.1
+	   \-- net_peanuuutz_tomlkt_tomlkt-jvm 0.3.7
+	- geckolib 4.8.2
+	   \-- com_eliotlash_mclib_mclib 20
+	- glowing-torchflower 1.1.0
+	- grindenchantments 3.1.4+1.20.1
+	   \-- codec-config-api 3.0.1+1.20.1
+	- hopobettermineshaft 1.2.2
+	- hopobetterruinedportal 1.3.7
+	- hopobetterunderwaterruins 1.1.5
+	- horsebuff 2.1.2
+	   \-- fabric-screen-api-v1 2.0.6+b3afc78b27
+	- iceberg 1.1.25
+	- incendium 5.3.5
+	- jade 11.13.1+fabric
+	- jamlib 0.6.1+1.20.x
+	- java 21
+	- ksyxis 1.3.4
+	- lazydfu 0.1.3
+	- libraryferret 4.0.0
+	- lithium 0.11.2
+	- lithostitched 1.4.7
+	- mediumcore 1.0.0
+	- mes 1.4.6-1.20-fabric
+	- minecraft 1.20.1
+	- mns 1.0.1-1.20-fabric
+	- modernfix 5.19.4+mc1.20.1
+	- moremobvariants 1.3.1
+	- mr_dungeons_andtaverns 3.0.3.f
+	- mr_dungeons_andtavernsstrongholdrework 1
+	- mr_edf_remastered 4.3
+	- mr_mastercutter 1.1
+	- mr_stellarity 2.0e
+	- mr_true_ending 1-v1.1.0c
+	- netherexp 2.1.3
+	- no-resource-pack-warnings 1.3.0
+	- noisium 2.3.0+mc1.20-1.20.1
+	- notenoughanimations 1.7.6
+	- nullscape 1.2.7
+	- owo 0.11.2+1.20
+	- paraglider 20.1.3
+	- platform 1.2.10.1
+	- puzzleslib 8.1.24
+	- radiantgear 2.1.6+1.20.1
+	- resourcefulconfig 2.1.3
+	- resourcefullib 2.1.29
+	   |-- com_teamresourceful_bytecodecs 1.0.2
+	   \-- com_teamresourceful_yabn 1.0.3
+	- rightclickharvest 3.2.3+1.19.x-1.20.1-fabric
+	- roughlyenoughitems 12.1.785
+	   \-- error_notifier 1.0.9
+	- simplemod 1.20.1
+	- skin_changer 0.6.6
+	- skinlayers3d 1.6.7
+	- starlight 1.1.2+fabric.dbc156f
+	- subtle_effects 1.12.1
+	- sushi_bar 0.2.2+1.20
+	   \-- com_moulberry_mixinconstraints 1.0.1
+	- tcdcommons 3.12.3+fabric-1.20.1
+	- terrablender 3.0.1.10
+	   |-- com_electronwill_night-config_core 3.6.7
+	   \-- com_electronwill_night-config_toml 3.6.7
+	- terralith 2.5.4
+	- threadtweak 1.20.2-0.1.1
+	- toggleableitemframes 5.1.0-1.20.1
+	- travelersbackpack 9.1.36
+	   \-- reach-entity-attributes 2.4.0
+	- treeharvester 9.1
+	- trinkets 3.7.2
+	- txnilib 1.0.24
+	- u_desert 1.6.0
+	- unwrecked_ships_plus 2.0.5
+	- visibletraders 0.0.4
+	- visualoverhaul 5.0.1
+	   \-- midnightlib 1.4.1
+	- visualworkbench 8.0.1
+	- vmp 0.2.0+beta.7.102
+	- wabi_sabi_structures 2.0.0-1.20
+	- xaerominimap 25.2.6
+	- xaeroworldmap 1.39.9
+	- yet_another_config_lib_v3 3.6.6+1.20.1-fabric
+	   |-- com_twelvemonkeys_common_common-image 3.12.0
+	   |-- com_twelvemonkeys_common_common-io 3.12.0
+	   |-- com_twelvemonkeys_common_common-lang 3.12.0
+	   |-- com_twelvemonkeys_imageio_imageio-core 3.12.0
+	   |-- com_twelvemonkeys_imageio_imageio-metadata 3.12.0
+	   |-- com_twelvemonkeys_imageio_imageio-webp 3.12.0
+	   |-- org_quiltmc_parsers_gson 0.2.1
+	   \-- org_quiltmc_parsers_json 0.2.1
+	- yungsapi 1.20-Fabric-4.0.6
+	   \-- org_javassist_javassist 3.29.2-GA
+	- yungscavebiomes 1.20.1-Fabric-2.0.5
+	- yungsextras 1.20-Fabric-4.0.3
+[23:24:28] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/das/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.16.3+mixin.0.8.7/sponge-mixin-0.16.3+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[23:24:29] [main/INFO]: Compatibility level set to JAVA_17
+[23:24:29] [main/INFO]: Compatibility level set to JAVA_21
+[23:24:29] [main/WARN]: Reference map '[common]ctov-common-refmap.json' for ctov-common.mixins.json could not be read. If this is a development environment you can ignore this message
+[23:24:29] [main/WARN]: Reference map 'formationsnether.mixins.refmap.json' for formationsnether.mixins.json could not be read. If this is a development environment you can ignore this message
+[23:24:29] [main/WARN]: Reference map 'formationsoverworld.mixins.refmap.json' for formationsoverworld.mixins.json could not be read. If this is a development environment you can ignore this message
+[23:24:29] [main/INFO]: Loaded configuration file for Lithium: 115 options available, 2 override(s) found
+[23:24:29] [main/INFO]: Loaded configuration file for ModernFix 5.19.4+mc1.20.1: 61 options available, 1 override(s) found
+[23:24:29] [main/WARN]: Option 'mixin.perf.thread_priorities' overriden (by mods [threadtweak]) to 'false'
+[23:24:29] [main/INFO]: Applying Nashorn fix
+[23:24:29] [main/INFO]: Successfully started async appender with [ServerGuiConsole, SysOut, File]
+[23:24:29] [main/WARN]: Reference map 'yungsextras.refmap.json' for yungsextras.mixins.json could not be read. If this is a development environment you can ignore this message
+[23:24:29] [main/WARN]: Reference map 'yungsextras.refmap.json' for yungsextras_fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[23:24:29] [main/WARN]: Error loading class: net/minecraft/class_761 (java.lang.ClassNotFoundException: net/minecraft/class_761)
+[23:24:29] [main/WARN]: @Mixin target net.minecraft.class_761 was not found accessories-common.mixins.json:LevelRendererAccessor from mod accessories
+[23:24:30] [main/WARN]: Error loading class: net/minecraft/class_638$class_5271 (java.lang.ClassNotFoundException: net/minecraft/class_638$class_5271)
+[23:24:30] [main/WARN]: @Mixin target net.minecraft.class_638$class_5271 was not found cavedust.mixins.json:ClientWorldAccessor from mod cavedust
+[23:24:30] [main/WARN]: Error loading class: net/minecraft/class_340 (java.lang.ClassNotFoundException: net/minecraft/class_340)
+[23:24:30] [main/WARN]: @Mixin target net.minecraft.class_340 was not found cavedust.mixins.json:MixinDebugScreenOverlay from mod cavedust
+[23:24:30] [main/WARN]: Force-disabling mixin 'alloc.blockstate.StateMixin' as rule 'mixin.alloc.blockstate' (added by mods [ferritecore]) disables it and children
+[23:24:30] [main/WARN]: Force-disabling mixin 'world.player_chunk_tick.ThreadedAnvilChunkStorageMixin' as rule 'mixin.world.player_chunk_tick' (added by mods [vmp]) disables it and children
+[23:24:30] [main/WARN]: Error loading class: fr/catcore/server/translations/api/resource/language/SystemDelegatedLanguage (java.lang.ClassNotFoundException: fr/catcore/server/translations/api/resource/language/SystemDelegatedLanguage)
+[23:24:31] [main/WARN]: Error loading class: com/ishland/c2me/notickvd/common/NoTickChunkSendingInterceptor (java.lang.ClassNotFoundException: com/ishland/c2me/notickvd/common/NoTickChunkSendingInterceptor)
+[23:24:31] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.5.0).
+[23:24:31] [main/INFO]: ThreadTweak config initialized
+[23:24:33] [main/WARN]: @ModifyVariable(@At("INVOKE")) Shift.BY=2 on accessories-fabric.mixins.json:LivingEntityMixin from mod accessories::localvar$zza000$accessories$adjustLooting exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
+[23:24:34] [main/INFO]: Injecting BlockStateBase cache population hook into getNeighborPathNodeType from me.jellysquid.mods.lithium.mixin.ai.pathing.AbstractBlockStateMixin
+[23:24:34] [main/INFO]: Injecting BlockStateBase cache population hook into getPathNodeType from me.jellysquid.mods.lithium.mixin.ai.pathing.AbstractBlockStateMixin
+[23:24:34] [main/INFO]: Injecting BlockStateBase cache population hook into getOpacityIfCached from ca.spottedleaf.starlight.mixin.common.blockstate.BlockStateBaseMixin
+[23:24:34] [main/INFO]: Injecting BlockStateBase cache population hook into isConditionallyFullOpaque from ca.spottedleaf.starlight.mixin.common.blockstate.BlockStateBaseMixin
+[23:24:34] [main/INFO]: Injecting BlockStateBase cache population hook into getAllFlags from me.jellysquid.mods.lithium.mixin.util.block_tracking.AbstractBlockStateMixin
+[23:24:35] [main/WARN]: @Inject(@At("INVOKE")) Shift.BY=2 on accessories-common.mixins.json:NbtCompoundMixin from mod accessories::handler$zzl000$accessories$adjustCheckForListVariants exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
+[23:24:36] [main/WARN]: Method overwrite conflict for method_21740 in modernfix-common.mixins.json:perf.remove_biome_temperature_cache.BiomeMixin from mod modernfix, previously written by me.jellysquid.mods.lithium.mixin.world.temperature_cache.BiomeMixin. Skipping method.
+[23:24:36] [main/INFO]: Vanilla bootstrap took 5064 milliseconds
+[23:24:37] [main/INFO]: Registering Listeners!
+[23:24:37] [main/INFO]: [bclib] Added Config bclib.generator to auto sync (file hash)
+[23:24:37] [main/INFO]: [bclib] Added Config bclib.main to auto sync (content diff)
+[23:24:37] [main/INFO]: [bclib] Added Config bclib.biomes to auto sync (file hash)
+[23:24:37] [main/INFO]: Reflections took 35 ms to scan 1 urls, producing 1 keys and 2 values
+[23:24:37] [main/INFO]: Reflections took 3 ms to scan 1 urls, producing 1 keys and 2 values
+[23:24:37] [main/INFO]: [bclib] Added Config betterend.entities to auto sync (file hash)
+[23:24:37] [main/INFO]: [bclib] Added Config betterend.blocks to auto sync (file hash)
+[23:24:37] [main/INFO]: [bclib] Added Config betterend.items to auto sync (file hash)
+[23:24:37] [main/INFO]: [bclib] Added Config betterend.biomes to auto sync (file hash)
+[23:24:37] [main/INFO]: [bclib] Added Config betterend.recipes to auto sync (file hash)
+[23:24:37] [main/INFO]: [bclib] Added Config betterend.enchantments to auto sync (file hash)
+[23:24:38] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 2 values
+[23:24:38] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 2 values
+[23:24:38] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 1 values
+[23:24:38] [main/INFO]: Reflections took 3 ms to scan 1 urls, producing 1 keys and 1 values
+[23:24:38] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 1 values
+[23:24:38] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 1 values
+[23:24:38] [main/INFO]: [STDOUT]: All 6 have been set properly
+[23:24:38] [main/INFO]: Cactus Config is being initialized.
+[23:24:38] [main/INFO]: Loading Collective version 8.3.
+[23:24:38] [main/INFO]: general
+[23:24:38] [main/INFO]: individual
+[23:24:38] [main/INFO]: Bypassed Mojang DFU
+[23:24:38] [main/INFO]: Instantiating Mojang DFU
+[23:24:38] [main/ERROR]: No data fixer registered for crystallized_amber
+[23:24:38] [main/ERROR]: No data fixer registered for sculk_jaw
+[23:24:38] [main/INFO]: Constructing common components for easyshulkerboxes:main
+[23:24:39] [main/INFO]: Horse Buff Initialized
+[23:24:39] [main/INFO]: [jamlib] Mod initialized!
+[23:24:39] [main/INFO]: Ksyxis: Booting... (platform: Fabric/KFabric, manual: false)
+[23:24:39] [main/INFO]: Ksyxis: Ready. As always, this mod will speed up your world loading and might or might not break it. (mixinVersion: 0.8.7, time: 0 ms)
+[23:24:39] [main/INFO]: Initialize mod Library Ferret
+[23:24:39] [main/INFO]: Initialized mod Library Ferret
+[23:24:39] [main/INFO]: Created game rule mediumcoreMode
+[23:24:40] [main/INFO]: Giving mobs a fresh coat of paint...
+[23:24:40] [main/INFO]: Loading Noisium.
+[23:24:40] [main/INFO]: Did you know that Air is made of 78 percent nitrogen and 21 percent oxygen?
+[23:24:40] [main/INFO]: Constructing common components for puzzlesapi:iteminteractions
+[23:24:40] [main/INFO]: Constructing common components for puzzlesapi:slotcycling
+[23:24:40] [main/INFO]: Constructing common components for puzzlesapi:limitlesscontainers
+[23:24:40] [main/INFO]: Constructing common components for puzzlesapi:statues
+[23:24:40] [main/INFO]: Constructing common components for puzzleslib:main
+[23:24:40] [main/INFO]: [rightclickharvest] Initializing VersionUtils
+[23:24:40] [main/INFO]: [rightclickharvest] VersionUtils initialized successfully
+[23:24:40] [main/INFO]: [jamlib] Registered config for rightclickharvest
+[23:24:40] [main/INFO]: [rightclickharvest] Mod initialized!
+[23:24:40] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:request_tags_c2s
+[23:24:40] [main/INFO]: [REI] Registered plugin provider DefaultPlugin [roughlyenoughitems] for REIPlugin
+[23:24:40] [main/INFO]: [REI] Registered plugin provider DefaultRuntimePlugin [roughlyenoughitems] for REIPlugin
+[23:24:40] [main/INFO]: [REI] Registered plugin provider DefaultPlugin [roughlyenoughitems] for REIServerPlugin
+[23:24:40] [main/INFO]: [REI] Registered plugin provider DefaultRuntimePlugin [roughlyenoughitems] for REIServerPlugin
+[23:24:40] [main/INFO]: [REI] Registered plugin provider FabricFluidAPISupportPlugin for REIServerPlugin
+[23:24:40] [main/INFO]: [REI] Registered plugin provider FabricFluidAPISupportPlugin for REIPlugin
+[23:24:40] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:delete_item
+[23:24:40] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:create_item
+[23:24:40] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:create_item_grab
+[23:24:40] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:create_item_hotbar
+[23:24:40] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:move_items
+[23:24:40] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:move_items_new
+[23:24:40] [main/INFO]: Hello Fabric world!
+[23:24:40] [main/INFO]: Sushi of the day: Negitoro maki
+[23:24:40] [main/INFO]: Registered region minecraft:overworld to index 0 for type OVERWORLD
+[23:24:40] [main/INFO]: Registered region minecraft:nether to index 0 for type NETHER
+[23:24:40] [main/INFO]: Registered region yungscavebiomes:overworld to index 1 for type OVERWORLD
+[23:24:40] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:water for Water (Fluid Amount Required: 81000) with the ID 0
+[23:24:40] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:lava for Lava (Fluid Amount Required: 81000) with the ID 1
+[23:24:40] [main/INFO]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for block.travelersbackpack.potion_still (Fluid Amount Required: 27000) with the ID 2
+[23:24:40] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:milk for Air (Fluid Amount Required: 81000) with the ID 3
+[23:24:41] [main/INFO]: [STDOUT]: TxniLib onInitialize!
+[23:24:41] [main/INFO]: Constructing common components for visualworkbench:main
+[23:24:41] [main/INFO]: Wabi-Sabi Structures initialized
+[23:24:41] [main/INFO]: Reflections took 6 ms to scan 1 urls, producing 1 keys and 4 values
+[23:24:41] [main/INFO]: Reflections took 4 ms to scan 1 urls, producing 1 keys and 4 values
+[23:24:41] [main/INFO]: Reflections took 34 ms to scan 1 urls, producing 5 keys and 65 values
+[23:24:41] [main/INFO]: Reflections took 21 ms to scan 1 urls, producing 5 keys and 65 values
+[23:24:41] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 2 values
+[23:24:42] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 2 values
+[23:24:42] [main/INFO]: Registering C2S receiver with id skin_changer:mbechannel/c6416779da663f62836ae72f0509aa3e
+[23:24:42] [main/INFO]: Registering C2S receiver with id skin_changer:mbechannel/8489ea5ae87e3a6199b65ea21ca8f8c8
+[23:24:42] [main/INFO]: Initializing 'Better Statistics Screen' as 'BetterStatsServer'.
+[23:24:42] [main/INFO]: Initializing 'TCD Commons API' 3.12.3+fabric-1.20.1 as 'TCDCommonsServer'.
+[23:24:42] [main/INFO]: Loading Xaero's Minimap - Stage 1/2 (Server)
+[23:24:42] [main/INFO]: Loading Xaero's World Map - Stage 1/2 (Server)
+[23:24:42] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[23:24:42] [main/INFO]: [DataFixerAPI] Applying Patch{bclib:3.0.11:12582923}
+[23:24:42] [main/INFO]: [bclib] Running Pre Patchers on ./world/.
+[23:24:42] [main/WARN]: [bclib] Applying Fixes on Level
+[23:24:42] [main/INFO]: [bclib] Patcher Stage... Reading Data%
+[23:24:42] [main/INFO]: [bclib] Patcher Stage... Fixing Players%
+[23:24:42] [main/INFO]: [DataFixerAPI] Inspecting ./world/./playerdata/afc4c9dd-8d66-358b-8b8b-98baedbba298.dat
+[23:24:42] [main/INFO]: [bclib] Patcher Stage... Applying Patches to level.dat%
+[23:24:42] [main/INFO]: [DataFixerAPI] Inspecting level.dat in ./world/.
+[23:24:42] [main/INFO]: [bclib] Patcher Stage... Patching Custom World-Data%
+[23:24:42] [main/INFO]: [bclib] Patcher Stage... Repairing all Regions%
+[23:24:42] [main/INFO]: [DataFixerAPI] Inspecting ./world/./entities/r.-1.0.mca
+[23:24:42] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./poi/r.0.-1.mca
+[23:24:42] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.0.0.mca
+[23:24:42] [ForkJoinPool.commonPool-worker-3/INFO]: [DataFixerAPI] Inspecting ./world/./poi/r.0.0.mca
+[23:24:42] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./poi/r.-1.0.mca
+[23:24:42] [ForkJoinPool.commonPool-worker-3/INFO]: [DataFixerAPI] Inspecting ./world/./poi/r.-1.-1.mca
+[23:24:42] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-1.0.mca
+[23:24:42] [ForkJoinPool.commonPool-worker-3/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.0.-1.mca
+[23:24:42] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/region/r.0.0.mca
+[23:24:42] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/region/r.-1.-1.mca
+[23:24:42] [main/INFO]: [DataFixerAPI] Inspecting ./world/./entities/r.0.-1.mca
+[23:24:42] [main/INFO]: [DataFixerAPI] Inspecting ./world/./entities/r.0.0.mca
+[23:24:42] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/entities/r.0.0.mca
+[23:24:42] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/entities/r.-1.0.mca
+[23:24:42] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/entities/r.0.-1.mca
+[23:24:42] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/region/r.-1.0.mca
+[23:24:43] [main/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/region/r.0.-1.mca
+[23:24:43] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-1.-1.mca
+[23:24:43] [ForkJoinPool.commonPool-worker-3/INFO]: [bclib] Patching... 79%
+[23:24:43] [ForkJoinPool.commonPool-worker-3/INFO]: [DataFixerAPI] Inspecting ./world/./entities/r.-1.-1.mca
+[23:24:43] [main/INFO]: [bclib] Patcher Stage... Saving Patch State%
+[23:24:43] [main/INFO]: [DataFixerAPI] Updating Patch-Level for 'bclib' from 0.0.0 to 3.0.11
+[23:24:43] [main/INFO]: [bclib] Did not manage biome betterend:empty_aurora_cave
+[23:24:43] [main/INFO]: [bclib] Did not manage biome betterend:empty_end_cave
+[23:24:43] [main/INFO]: [bclib] Did not manage biome betterend:empty_smaragdant_cave
+[23:24:43] [main/INFO]: [bclib] Did not manage biome betterend:jade_cave
+[23:24:43] [main/INFO]: [bclib] Did not manage biome betterend:lush_aurora_cave
+[23:24:43] [main/INFO]: [bclib] Did not manage biome betterend:lush_smaragdant_cave
+[23:24:43] [main/INFO]: [bclib] Did not manage biome betterend:megalake_grove
+[23:24:43] [main/INFO]: [bclib] Did not manage biome betterend:neon_oasis
+[23:24:43] [main/INFO]: [bclib] Did not manage biome betterend:painted_mountains
+[23:24:43] [main/ERROR]: Invalid path in mod resource-pack mr_stellarity: fokastudio:worldgen/biome/README.md, ignoring
+[23:24:44] [main/INFO]: StructureSet modified for minecraft:village : Now using custom village configuration (can be disabled in the better villages config: boolean.villages.enabled_custom_config).
+[23:24:45] [main/INFO]: [bclib] Updating Pickers for BCLib - The End  BiomeSource (6e56ed6d)
+[23:24:45] [main/INFO]: [bclib] Unable to build Biome List yet
+[23:24:45] [main/INFO]: [bclib] No Void Biomes found. Disabling by using barrens
+[23:24:45] [main/INFO]: [bclib] No Barrens Biomes found. Disabling by using land Biomes
+[23:24:45] [main/WARN]: [bclib] No Center Island Biomes found. Forcing use of vanilla center.
+[23:24:45] [main/INFO]: [bclib] Make sure features are loaded from terrablender:org.betterx.bclib.api.v2.generator.BCLibEndBiomeSource
+[23:24:45] [main/INFO]: [bclib] Updating Pickers for BCLib - Nether BiomeSource (3986968)
+[23:24:45] [main/INFO]: [bclib] Unable to build Biome List yet
+[23:24:45] [main/INFO]: [bclib] Make sure features are loaded from terrablender:org.betterx.bclib.api.v2.generator.BCLibNetherBiomeSource
+[23:24:45] [main/INFO]: [bclib] Updating Pickers for BCLib - The End  BiomeSource (6b354a67)
+[23:24:45] [main/INFO]: [bclib] Unable to build Biome List yet
+[23:24:45] [main/INFO]: [bclib] No Void Biomes found. Disabling by using barrens
+[23:24:45] [main/INFO]: [bclib] No Barrens Biomes found. Disabling by using land Biomes
+[23:24:45] [main/WARN]: [bclib] No Center Island Biomes found. Forcing use of vanilla center.
+[23:24:45] [main/INFO]: [bclib] Make sure features are loaded from terrablender:org.betterx.bclib.api.v2.generator.BCLibEndBiomeSource
+[23:24:45] [main/INFO]: [bclib] Updating Pickers for BCLib - Nether BiomeSource (f3466d2)
+[23:24:45] [main/INFO]: [bclib] Unable to build Biome List yet
+[23:24:45] [main/INFO]: [bclib] Make sure features are loaded from terrablender:org.betterx.bclib.api.v2.generator.BCLibNetherBiomeSource
+[23:24:45] [main/INFO]: [bclib] Updating Pickers for BCLib - The End  BiomeSource (3ad33c)
+[23:24:45] [main/INFO]: [bclib] Unable to build Biome List yet
+[23:24:45] [main/INFO]: [bclib] No Void Biomes found. Disabling by using barrens
+[23:24:45] [main/INFO]: [bclib] No Barrens Biomes found. Disabling by using land Biomes
+[23:24:45] [main/WARN]: [bclib] No Center Island Biomes found. Forcing use of vanilla center.
+[23:24:45] [main/INFO]: [bclib] Make sure features are loaded from terrablender:org.betterx.bclib.api.v2.generator.BCLibEndBiomeSource
+[23:24:45] [main/INFO]: [bclib] Updating Pickers for BCLib - Nether BiomeSource (27ef1b66)
+[23:24:45] [main/INFO]: [bclib] Unable to build Biome List yet
+[23:24:45] [main/INFO]: [bclib] Make sure features are loaded from terrablender:org.betterx.bclib.api.v2.generator.BCLibNetherBiomeSource
+[23:24:45] [main/INFO]: [bclib] Updating Pickers for BCLib - The End  BiomeSource (525c80f6)
+[23:24:45] [main/INFO]: [bclib] Unable to build Biome List yet
+[23:24:45] [main/INFO]: [bclib] No Void Biomes found. Disabling by using barrens
+[23:24:45] [main/INFO]: [bclib] No Barrens Biomes found. Disabling by using land Biomes
+[23:24:45] [main/WARN]: [bclib] No Center Island Biomes found. Forcing use of vanilla center.
+[23:24:45] [main/INFO]: [bclib] Make sure features are loaded from terrablender:org.betterx.bclib.api.v2.generator.BCLibEndBiomeSource
+[23:24:45] [main/INFO]: [bclib] Updating Pickers for BCLib - Nether BiomeSource (62924bcb)
+[23:24:45] [main/INFO]: [bclib] Unable to build Biome List yet
+[23:24:45] [main/INFO]: [bclib] Make sure features are loaded from terrablender:org.betterx.bclib.api.v2.generator.BCLibNetherBiomeSource
+[23:24:45] [main/WARN]: [bclib] No valid BCLBiome Registry available!
+[23:24:45] [main/WARN]: [bclib] No valid Biome Registry available!
+[23:24:46] [main/INFO]: [fabric-registry-sync] Loaded registry data [file 1/4]
+[23:24:46] [main/INFO]: [bclib] Updating Pickers for BCLib - Nether BiomeSource (5008c52d)
+[23:24:46] [main/INFO]: [bclib] Unable to build Biome List yet
+[23:24:46] [main/INFO]: [bclib] Make sure features are loaded from terrablender:org.betterx.bclib.api.v2.generator.BCLibNetherBiomeSource
+[23:24:46] [main/INFO]: [bclib] Updating Pickers for BCLib - The End  BiomeSource (1186768e)
+[23:24:46] [main/INFO]: [bclib] Unable to build Biome List yet
+[23:24:46] [main/INFO]: [bclib] No Void Biomes found. Disabling by using barrens
+[23:24:46] [main/INFO]: [bclib] No Barrens Biomes found. Disabling by using land Biomes
+[23:24:46] [main/WARN]: [bclib] No Center Island Biomes found. Forcing use of vanilla center.
+[23:24:46] [main/INFO]: [bclib] Make sure features are loaded from terrablender:org.betterx.bclib.api.v2.generator.BCLibEndBiomeSource
+[23:24:46] [Worker-Main-2/ERROR]: Couldn't load tag create:pressurized_air_sources as it is missing following references: deeperdarker:warden_backtank (from fabric)
+[23:24:47] [Worker-Main-1/ERROR]: Couldn't parse element loot_tables:deeperdarker:blocks/warden_backtank
+com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'deeperdarker:warden_backtank'
+	at net.minecraft.class_3518.method_17995(class_3518.java:145) ~[server-intermediary.jar:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.class_3518.method_15256(class_3518.java:145) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3518.method_15288(class_3518.java:153) ~[server-intermediary.jar:?]
+	at net.minecraft.class_77$class_78.method_413(class_77.java:55) ~[server-intermediary.jar:?]
+	at net.minecraft.class_77$class_78.method_443(class_77.java:40) ~[server-intermediary.jar:?]
+	at net.minecraft.class_85$class_90.method_441(class_85.java:151) ~[server-intermediary.jar:?]
+	at net.minecraft.class_85$class_90.method_424(class_85.java:129) ~[server-intermediary.jar:?]
+	at net.minecraft.class_79$class_5337.method_29319(class_79.java:86) ~[server-intermediary.jar:?]
+	at net.minecraft.class_79$class_5337.method_517(class_79.java:74) ~[server-intermediary.jar:?]
+	at net.minecraft.class_5330$class_5333.deserialize(class_5330.java:102) ~[server-intermediary.jar:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:40) ~[gson-2.10.jar:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.10.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1290) ~[gson-2.10.jar:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:179) ~[gson-2.10.jar:?]
+	at net.minecraft.class_3518.method_15291(class_3518.java:463) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3518.method_15272(class_3518.java:471) ~[server-intermediary.jar:?]
+	at net.minecraft.class_55$class_57.method_358(class_55.java:173) ~[server-intermediary.jar:?]
+	at net.minecraft.class_55$class_57.deserialize(class_55.java:169) ~[server-intermediary.jar:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:40) ~[gson-2.10.jar:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.10.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1290) ~[gson-2.10.jar:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:179) ~[gson-2.10.jar:?]
+	at net.minecraft.class_3518.method_15291(class_3518.java:463) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3518.method_15283(class_3518.java:481) ~[server-intermediary.jar:?]
+	at net.minecraft.class_52$class_54.method_340(class_52.java:250) ~[server-intermediary.jar:?]
+	at net.minecraft.class_52$class_54.deserialize(class_52.java:246) ~[server-intermediary.jar:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1261) ~[gson-2.10.jar:?]
+	at net.minecraft.class_8490.method_51205(class_8490.java:64) ~[server-intermediary.jar:?]
+	at net.minecraft.class_8490.method_51204(class_8490.java:48) ~[server-intermediary.jar:?]
+	at net.minecraft.class_60.method_51195(class_60.java:55) ~[server-intermediary.jar:?]
+	at java.util.HashMap.forEach(HashMap.java:1429) ~[?:?]
+	at net.minecraft.class_60.method_51189(class_60.java:55) ~[server-intermediary.jar:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:387) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1312) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) ~[?:?]
+[23:24:47] [main/INFO]: [bclib] Disabling Recipe: bclib:test_star
+[23:24:47] [main/ERROR]: Parsing error loading recipe deeperdarker:warden_diving_boots_smithing
+com.google.gson.JsonSyntaxException: Unknown item 'create:netherite_diving_boots'
+	at net.minecraft.class_1869.method_17878(class_1869.java:272) ~[server-intermediary.jar:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.class_1869.method_8155(class_1869.java:272) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1856.method_8107(class_1856.java:160) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1856.method_8102(class_1856.java:143) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1856.method_52177(class_1856.java:135) ~[server-intermediary.jar:?]
+	at net.minecraft.class_8060$class_8061.method_48455(class_8060.java:88) ~[server-intermediary.jar:?]
+	at net.minecraft.class_8060$class_8061.method_8121(class_8060.java:84) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1863.method_17720(class_1863.java:135) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1863.method_20705(class_1863.java:56) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1863.method_18788(class_1863.java:35) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4080.method_18790(class_4080.java:13) ~[server-intermediary.jar:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.class_4014.method_18365(class_4014.java:69) ~[server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43498(class_156.java:950) ~[server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43499(class_156.java:938) ~[server-intermediary.jar:?]
+	at net.minecraft.server.Main.main(Main.java:160) ~[server-intermediary.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:506) ~[fabric-loader-0.17.2.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:72) ~[fabric-loader-0.17.2.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) ~[fabric-loader-0.17.2.jar:?]
+	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) ~[fabric-loader-0.17.2.jar:?]
+	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) ~[fabric-server-launch.jar:1.0.1]
+[23:24:47] [main/ERROR]: Parsing error loading recipe deeperdarker:warden_backtank_smithing
+com.google.gson.JsonSyntaxException: Unknown item 'create:netherite_backtank'
+	at net.minecraft.class_1869.method_17878(class_1869.java:272) ~[server-intermediary.jar:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.class_1869.method_8155(class_1869.java:272) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1856.method_8107(class_1856.java:160) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1856.method_8102(class_1856.java:143) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1856.method_52177(class_1856.java:135) ~[server-intermediary.jar:?]
+	at net.minecraft.class_8060$class_8061.method_48455(class_8060.java:88) ~[server-intermediary.jar:?]
+	at net.minecraft.class_8060$class_8061.method_8121(class_8060.java:84) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1863.method_17720(class_1863.java:135) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1863.method_20705(class_1863.java:56) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1863.method_18788(class_1863.java:35) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4080.method_18790(class_4080.java:13) ~[server-intermediary.jar:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.class_4014.method_18365(class_4014.java:69) ~[server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43498(class_156.java:950) ~[server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43499(class_156.java:938) ~[server-intermediary.jar:?]
+	at net.minecraft.server.Main.main(Main.java:160) ~[server-intermediary.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:506) ~[fabric-loader-0.17.2.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:72) ~[fabric-loader-0.17.2.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) ~[fabric-loader-0.17.2.jar:?]
+	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) ~[fabric-loader-0.17.2.jar:?]
+	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) ~[fabric-server-launch.jar:1.0.1]
+[23:24:47] [main/ERROR]: Parsing error loading recipe betterend:guide_book
+com.google.gson.JsonSyntaxException: Unknown item 'betterend:guidebook'
+	at net.minecraft.class_1869.method_17878(class_1869.java:272) ~[server-intermediary.jar:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.class_1869.method_8155(class_1869.java:272) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1869.method_35228(class_1869.java:259) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1869$class_1870.method_8164(class_1869.java:293) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1869$class_1870.method_8121(class_1869.java:279) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1863.method_17720(class_1863.java:135) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1863.method_20705(class_1863.java:56) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1863.method_18788(class_1863.java:35) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4080.method_18790(class_4080.java:13) ~[server-intermediary.jar:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.class_4014.method_18365(class_4014.java:69) ~[server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43498(class_156.java:950) ~[server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43499(class_156.java:938) ~[server-intermediary.jar:?]
+	at net.minecraft.server.Main.main(Main.java:160) ~[server-intermediary.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:506) ~[fabric-loader-0.17.2.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:72) ~[fabric-loader-0.17.2.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) ~[fabric-loader-0.17.2.jar:?]
+	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) ~[fabric-loader-0.17.2.jar:?]
+	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) ~[fabric-server-launch.jar:1.0.1]
+[23:24:47] [main/ERROR]: Parsing error loading recipe deeperdarker:warden_diving_helmet_smithing
+com.google.gson.JsonSyntaxException: Unknown item 'create:netherite_diving_helmet'
+	at net.minecraft.class_1869.method_17878(class_1869.java:272) ~[server-intermediary.jar:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.class_1869.method_8155(class_1869.java:272) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1856.method_8107(class_1856.java:160) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1856.method_8102(class_1856.java:143) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1856.method_52177(class_1856.java:135) ~[server-intermediary.jar:?]
+	at net.minecraft.class_8060$class_8061.method_48455(class_8060.java:88) ~[server-intermediary.jar:?]
+	at net.minecraft.class_8060$class_8061.method_8121(class_8060.java:84) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1863.method_17720(class_1863.java:135) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1863.method_20705(class_1863.java:56) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1863.method_18788(class_1863.java:35) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4080.method_18790(class_4080.java:13) ~[server-intermediary.jar:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.class_4014.method_18365(class_4014.java:69) ~[server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43498(class_156.java:950) ~[server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43499(class_156.java:938) ~[server-intermediary.jar:?]
+	at net.minecraft.server.Main.main(Main.java:160) ~[server-intermediary.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:506) ~[fabric-loader-0.17.2.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:72) ~[fabric-loader-0.17.2.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) ~[fabric-loader-0.17.2.jar:?]
+	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) ~[fabric-loader-0.17.2.jar:?]
+	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) ~[fabric-server-launch.jar:1.0.1]
+[23:24:47] [main/INFO]: Loaded 11 recipes
+[23:24:48] [main/INFO]: Loaded 3212 advancements
+[23:24:48] [main/INFO]: Reloading config...
+[23:24:48] [main/INFO]: [REI] @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+[23:24:48] [main/INFO]: [REI] REIPlugin starting main-reload for START.
+[23:24:48] [main/INFO]: [REI] Plugins (3):
+[23:24:48] [main/INFO]: [REI]  - (-100.00) DefaultPlugin of DefaultPlugin [roughlyenoughitems]
+[23:24:48] [main/INFO]: [REI]  - (0.00) FabricFluidAPISupportPlugin
+[23:24:48] [main/INFO]: [REI]  - (0.00) DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]
+[23:24:48] [main/INFO]: [REI] @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+[23:24:48] [main/INFO]: [REI] ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[23:24:48] [main/INFO]: [REI] REIServerPlugin starting main-reload for START.
+[23:24:48] [main/INFO]: [REI] Plugins (3):
+[23:24:48] [main/INFO]: [REI]  - (-100.00) DefaultPlugin of DefaultPlugin [roughlyenoughitems]
+[23:24:48] [main/INFO]: [REI]  - (0.00) FabricFluidAPISupportPlugin
+[23:24:48] [main/INFO]: [REI]  - (0.00) DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]
+[23:24:48] [main/INFO]: [REI] ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[23:24:48] [main/INFO]: [REI] REIPlugin finished post-reload for START in 2.108 ms, totaling 30.10 ms.
+[23:24:48] [main/INFO]: [REI] REIServerPlugin finished post-reload for START in 481.8 μs, totaling 6.106 ms.
+[23:24:48] [main/INFO]: [REI] ########################################
+[23:24:48] [main/INFO]: [REI] REIPlugin starting main-reload for END.
+[23:24:48] [main/INFO]: [REI] Plugins (3):
+[23:24:48] [main/INFO]: [REI]  - (-100.00) DefaultPlugin of DefaultPlugin [roughlyenoughitems]
+[23:24:48] [main/INFO]: [REI]  - (0.00) FabricFluidAPISupportPlugin
+[23:24:48] [main/INFO]: [REI]  - (0.00) DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]
+[23:24:48] [main/INFO]: [REI] ########################################
+[23:24:48] [main/INFO]: [REI] @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+[23:24:48] [main/INFO]: [REI] REIServerPlugin starting main-reload for END.
+[23:24:48] [main/INFO]: [REI] Plugins (3):
+[23:24:48] [main/INFO]: [REI]  - (-100.00) DefaultPlugin of DefaultPlugin [roughlyenoughitems]
+[23:24:48] [main/INFO]: [REI]  - (0.00) FabricFluidAPISupportPlugin
+[23:24:48] [main/INFO]: [REI]  - (0.00) DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]
+[23:24:48] [main/INFO]: [REI] @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+[23:24:48] [main/INFO]: [REI] REIPlugin finished post-reload for END in 1.293 ms, totaling 30.99 ms.
+[23:24:48] [main/INFO]: [REI] REIServerPlugin finished post-reload for END in 819.1 μs, totaling 9.168 ms.
+[23:24:48] [main/ERROR]: [worlds_together] Unable to parse Version in jar:file:///workspaces/das/servidor_minecraft/mods/dungeons-and-taverns-3.0.3.f.jar
+[23:24:48] [main/ERROR]: [worlds_together] Unable to parse Version in jar:file:///workspaces/das/servidor_minecraft/mods/Stellarity-v2-0e.jar
+[23:24:48] [main/INFO]: [bclib] Enforcing Correct Generator for minecraft:the_nether.
+[23:24:48] [main/INFO]: [bclib] Updating Pickers for BCLib - Nether BiomeSource (62924bcb)
+[23:24:48] [main/INFO]: [bclib] Make sure features are loaded from terrablender:org.betterx.bclib.api.v2.generator.BCLibNetherBiomeSource
+[23:24:48] [main/INFO]: [bclib] Enforcing Correct Generator for minecraft:the_end.
+[23:24:48] [main/INFO]: [bclib] Updating Pickers for BCLib - The End  BiomeSource (525c80f6)
+[23:24:48] [main/INFO]: [bclib] Make sure features are loaded from terrablender:org.betterx.bclib.api.v2.generator.BCLibEndBiomeSource
+[23:24:48] [main/INFO]: [worlds_together] Loading originally configured Dimensions in World.
+[23:24:48] [main/INFO]: Initialized TerraBlender biomes for level stem minecraft:overworld
+[23:24:48] [main/INFO]: Applied 1343 biome modifications to 236 of 236 new biomes in 85.03 ms
+[23:24:48] [Server thread/INFO]: Loading server config for puzzlesapi
+[23:24:48] [Thread-5/INFO]: Reloading server config for puzzlesapi
+[23:24:48] [Thread-5/INFO]: Reloading server config for puzzlesapi
+[23:24:48] [Server thread/INFO]: Reading config.
+[23:24:48] [Server thread/INFO]: Starting minecraft server version 1.20.1
+[23:24:48] [Server thread/INFO]: Loading properties
+[23:24:48] [Server thread/INFO]: Default game type: SURVIVAL
+[23:24:48] [Server thread/INFO]: Generating keypair
+[23:24:48] [Server thread/INFO]: Starting Minecraft server on *:25565
+[23:24:49] [Server thread/INFO]: Using epoll channel type
+[23:24:49] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[23:24:49] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[23:24:49] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[23:24:49] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[23:24:49] [Server thread/INFO]: Preparing level "world"
+[23:24:49] [Server thread/INFO]: [bclib] 
+Apply Modifications for deeperdarker:otherside
+    class_4766 (f721e98)
+        biomes     = 4
+        namespaces = deeperdarker(4)
+[23:24:49] [Server thread/INFO]: [bclib] 
+Apply Modifications for minecraft:the_nether
+    BCLib - Nether BiomeSource (62924bcb)
+        biomes     = 13
+        namespaces = incendium(8), minecraft(5)
+        seed       = 0
+        height     = 192
+        config     = BCLibNetherBiomeSourceConfig{mapVersion=hex, useVerticalBiomes=true, amplified=false, biomeSize=256, biomeSizeVertical=86}
+[23:24:49] [Server thread/INFO]: [bclib] 
+Apply Modifications for minecraft:the_end
+    BCLib - The End  BiomeSource (525c80f6)
+        biomes     = 42
+        namespaces = stellarity(7), betterend(19), far_end(8), nullscape(3), minecraft(5)
+        seed       = 0
+        height     = 288
+        deciders   = 0
+        config     = BCLEndBiomeSourceConfig{mapVersion=hex, generatorVersion=vanilla, withVoidBiomes=true, innerVoidRadiusSquared=1048576, voidBiomesSize=256, centerBiomesSize=256, landBiomesSize=256, barrensBiomesSize=256}
+[23:24:49] [Server thread/INFO]: [bclib] 
+Apply Modifications for minecraft:overworld
+    class_4766 (4123d11)
+        biomes     = 149
+        namespaces = minecraft(53), terralith(94), yungscavebiomes(2)
+[23:24:49] [Server thread/INFO]: [bclib] World Dimensions: 
+ - deeperdarker:otherside: 
+     net.minecraft.class_3754@1626b367 
+     class_4766 (f721e98)
+         biomes     = 4
+         namespaces = deeperdarker(4)
+ - minecraft:the_nether: 
+     BCLib - Chunk Generator (136b5100) 
+     BCLib - Nether BiomeSource (62924bcb)
+         biomes     = 13
+         namespaces = incendium(8), minecraft(5)
+         seed       = 0
+         height     = 192
+         config     = BCLibNetherBiomeSourceConfig{mapVersion=hex, useVerticalBiomes=true, amplified=false, biomeSize=256, biomeSizeVertical=86}
+ - minecraft:the_end: 
+     BCLib - Chunk Generator (7540d7fd) 
+     BCLib - The End  BiomeSource (525c80f6)
+         biomes     = 42
+         namespaces = stellarity(7), betterend(19), far_end(8), nullscape(3), minecraft(5)
+         seed       = 0
+         height     = 288
+         deciders   = 0
+         config     = BCLEndBiomeSourceConfig{mapVersion=hex, generatorVersion=vanilla, withVoidBiomes=true, innerVoidRadiusSquared=1048576, voidBiomesSize=256, centerBiomesSize=256, landBiomesSize=256, barrensBiomesSize=256}
+ - minecraft:overworld: 
+     net.minecraft.class_3754@536ce60e 
+     class_4766 (4123d11)
+         biomes     = 149
+         namespaces = minecraft(53), terralith(94), yungscavebiomes(2)
+[23:24:49] [Server thread/INFO]: [bclib] Merged 19 additional Surface Rules for 
+BCLib - The End  BiomeSource (525c80f6)
+    biomes     = 42
+    namespaces = stellarity(7), betterend(19), far_end(8), nullscape(3), minecraft(5)
+    seed       = 0
+    height     = 288
+    deciders   = 0
+    config     = BCLEndBiomeSourceConfig{mapVersion=hex, generatorVersion=vanilla, withVoidBiomes=true, innerVoidRadiusSquared=1048576, voidBiomesSize=256, centerBiomesSize=256, landBiomesSize=256, barrensBiomesSize=256} => 22
+[23:24:49] [Server thread/INFO]: Changing watch distance to 10
+[23:24:49] [Server thread/INFO]: Changing watch distance to 10
+[23:24:49] [Server thread/INFO]: Changing watch distance to 10
+[23:24:49] [Server thread/INFO]: Changing watch distance to 10
+[23:24:49] [Server thread/INFO]: Ksyxis: Hey. This is Ksyxis. We will now load the world and will try to do it quickly. If the game is not responding after this, it's probably us to blame or delete for good. This message appears always, even if the mod works flawlessly. (injector: modern, ci: CallbackInfo[TYPE=CallbackInfo,NAME=method_3774,CANCELLABLE=false], server: net.minecraft.class_3176@ff9e95d)
+[23:24:49] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[23:24:49] [Server thread/WARN]: Method overwrite conflict for removeIf in modernfix-common.mixins.json:bugfix.paper_chunk_patches.SortedArraySetMixin from mod modernfix, previously written by me.jellysquid.mods.lithium.mixin.world.chunk_tickets.SortedArraySetMixin. Skipping method.
+[23:24:49] [Server thread/INFO]: Time elapsed: 49 ms
+[23:24:49] [Server thread/INFO]: Done (0.705s)! For help, type "help"
+[23:24:49] [Server thread/WARN]: Dedicated server took 37.545 seconds to load
+[23:24:49] [Server thread/INFO]: [STDOUT]: PREPARING FOR RELOAD
+[23:24:49] [Server thread/INFO]: Start loading plugin from Jade
+[23:24:49] [Server thread/INFO]: Start loading plugin from Jade
+[23:24:49] [Server thread/INFO]: Start loading plugin from Jade
+[23:24:49] [Server thread/INFO]: Loading Xaero's Minimap - Stage 2/2 (Server)
+[23:24:49] [Server thread/INFO]: Loading Xaero's World Map - Stage 2/2 (Server)

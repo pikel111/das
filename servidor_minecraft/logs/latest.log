@@ -1220,3 +1220,26 @@ BCLib - The End  BiomeSource (16f8b4a5)
 [21:05:49] [Server thread/INFO]: Pikel_03 left the game
 [21:05:49] [Server thread/INFO]: Removing session data for player Pikel_03[afc4c9dd-8d66-358b-8b8b-98baedbba298]
 [21:09:33] [Server thread/INFO]: DinokoMC has made the advancement [What a Deal!]
+[21:14:07] [Server thread/INFO]: Pikel_03[/127.219.55.4:60627] logged in with entity id 5331 at (-1313.3062787724987, 71.0, 287.1397299829354)
+[21:14:07] [Server thread/INFO]: Syncing config to Pikel_03 (afc4c9dd-8d66-358b-8b8b-98baedbba298)
+[21:14:07] [Server thread/INFO]: Loading config from file...
+[21:14:07] [Server thread/INFO]: Pikel_03 joined the game
+[21:14:07] [Server thread/INFO]: Player Pikel_03 just logged in with id afc4c9dd-8d66-358b-8b8b-98baedbba298
+[21:14:07] [ForkJoinPool-5-worker-3/INFO]: Loading local skin for player Pikel_03[afc4c9dd-8d66-358b-8b8b-98baedbba298]
+[21:14:07] [Server thread/INFO]: Async chunk loading for player Pikel_03 completed
+[21:14:07] [ForkJoinPool-5-worker-3/INFO]: File https://playerdb.co/api/player/minecraft/Pikel_03 downloaded
+[21:14:10] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[21:14:10] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[21:14:10] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[21:14:10] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[21:14:10] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[21:14:10] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[21:14:10] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[21:14:10] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[21:14:10] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[21:14:10] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[21:14:10] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/das/servidor_minecraft/bclib-sync (allowDelete=true)
+[21:21:52] [Server thread/INFO]: Pikel_03 lost connection: Disconnected
+[21:21:52] [Server thread/INFO]: Pikel_03 left the game
+[21:21:52] [Server thread/INFO]: Removing session data for player Pikel_03[afc4c9dd-8d66-358b-8b8b-98baedbba298]
+[21:21:52] [Server thread/WARN]: handleDisconnection() called twice

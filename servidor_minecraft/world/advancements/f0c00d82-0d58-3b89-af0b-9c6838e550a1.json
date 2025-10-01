@@ -1012,10 +1012,12 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-10-01 21:54:24 +0000",
       "cooked_mutton": "2025-10-01 21:23:12 +0000",
       "cooked_beef": "2025-10-01 20:02:02 +0000",
       "apple": "2025-10-01 18:53:55 +0000",
       "bread": "2025-10-01 18:47:58 +0000",
+      "golden_apple": "2025-10-01 21:52:09 +0000",
       "golden_carrot": "2025-10-01 19:50:31 +0000"
     },
     "done": false
@@ -2167,6 +2169,7 @@
       "minecraft:ghast": "2025-10-01 21:45:45 +0000",
       "minecraft:spider": "2025-10-01 19:35:10 +0000",
       "minecraft:creeper": "2025-10-01 19:20:20 +0000",
+      "minecraft:slime": "2025-10-01 21:54:29 +0000",
       "minecraft:zombie": "2025-10-01 19:20:42 +0000",
       "minecraft:zombie_villager": "2025-10-01 20:06:38 +0000"
     },
@@ -3384,6 +3387,78 @@
     },
     "done": true
   },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-10-01 21:58:26 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-10-01 21:58:26 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-10-01 21:58:26 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-10-01 21:58:26 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-10-01 21:58:26 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-10-01 21:58:26 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-10-01 21:58:26 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-10-01 21:58:26 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-10-01 21:58:26 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-10-01 21:58:26 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-10-01 21:58:26 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-10-01 21:58:26 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/brick_wall": {
     "criteria": {
       "has_bricks": "2025-10-01 21:38:48 +0000"
@@ -3414,9 +3489,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cyan_glazed_terracotta": {
+    "criteria": {
+      "has_cyan_terracotta": "2025-10-01 21:53:03 +0000"
+    },
+    "done": true
+  },
   "incendium:toxic_heap/root": {
     "criteria": {
       "requirement": "2025-10-01 21:44:35 +0000"
+    },
+    "done": true
+  },
+  "stellarity:events/on_death": {
+    "criteria": {
+      "requirement": "2025-10-01 21:48:30 +0000"
     },
     "done": true
   },
@@ -3429,6 +3516,12 @@
   "incendium:misc/root": {
     "criteria": {
       "incendium:infernal_dunes": "2025-10-01 21:44:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2025-10-01 21:54:30 +0000"
     },
     "done": true
   },
@@ -3457,9 +3550,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2025-10-01 21:57:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2025-10-01 21:48:11 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/standard_smithing": {
+    "criteria": {
+      "has_standard": "2025-10-01 21:51:11 +0000"
     },
     "done": true
   },
@@ -3469,9 +3574,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_glazed_terracotta": {
+    "criteria": {
+      "has_red_terracotta": "2025-10-01 21:53:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brick_slab_from_bricks_stonecutting": {
     "criteria": {
       "has_bricks": "2025-10-01 21:38:48 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/misc/soul_magma_block": {
+    "criteria": {
+      "has_item": "2025-10-01 21:57:02 +0000"
     },
     "done": true
   },
@@ -3487,6 +3604,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-10-01 21:54:30 +0000"
+    },
+    "done": true
+  },
   "yungscavebiomes:recipes/building_blocks/brittle_red_sandstone": {
     "criteria": {
       "has_sand": "2025-10-01 21:44:56 +0000"
@@ -3496,6 +3619,18 @@
   "ecologics:recipes/ecologics/pot": {
     "criteria": {
       "has_terracotta": "2025-10-01 21:47:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-10-01 21:54:30 +0000"
+    },
+    "done": true
+  },
+  "incendium:toxic_heap/slime_poison": {
+    "criteria": {
+      "poison": "2025-10-01 21:53:05 +0000"
     },
     "done": true
   },
@@ -3526,6 +3661,12 @@
   "minecraft:recipes/decorations/brick_wall_from_bricks_stonecutting": {
     "criteria": {
       "has_bricks": "2025-10-01 21:38:48 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/magma_cube": {
+    "criteria": {
+      "has_magma_cream": "2025-10-01 21:57:02 +0000"
     },
     "done": true
   },

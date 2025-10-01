@@ -1243,3 +1243,26 @@ BCLib - The End  BiomeSource (16f8b4a5)
 [21:21:52] [Server thread/INFO]: Pikel_03 left the game
 [21:21:52] [Server thread/INFO]: Removing session data for player Pikel_03[afc4c9dd-8d66-358b-8b8b-98baedbba298]
 [21:21:52] [Server thread/WARN]: handleDisconnection() called twice
+[21:23:05] [Server thread/INFO]: Pikel_03[/127.219.55.4:48187] logged in with entity id 7940 at (-1278.2442033523264, 71.0, 295.2590175278707)
+[21:23:05] [Server thread/INFO]: Syncing config to Pikel_03 (afc4c9dd-8d66-358b-8b8b-98baedbba298)
+[21:23:05] [Server thread/INFO]: Loading config from file...
+[21:23:05] [Server thread/INFO]: Pikel_03 joined the game
+[21:23:05] [Server thread/INFO]: Player Pikel_03 just logged in with id afc4c9dd-8d66-358b-8b8b-98baedbba298
+[21:23:05] [ForkJoinPool-5-worker-4/INFO]: Loading local skin for player Pikel_03[afc4c9dd-8d66-358b-8b8b-98baedbba298]
+[21:23:05] [Server thread/INFO]: Async chunk loading for player Pikel_03 completed
+[21:23:05] [ForkJoinPool-5-worker-4/INFO]: File https://playerdb.co/api/player/minecraft/Pikel_03 downloaded
+[21:23:08] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[21:23:08] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[21:23:08] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[21:23:08] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[21:23:08] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[21:23:08] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[21:23:08] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[21:23:08] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[21:23:08] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[21:23:08] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[21:23:08] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/das/servidor_minecraft/bclib-sync (allowDelete=true)
+[21:26:57] [Server thread/INFO]: [Pikel_03: Teleported Pikel_03 to -1497.500000, 81.500000, 232.500000]
+[21:27:48] [Server thread/INFO]: Pikel_03 has made the advancement [Ice Bucket Challenge]
+[21:28:53] [Server thread/INFO]: Pikel_03 has made the advancement [Who is Cutting Onions?]
+[21:30:13] [Server thread/INFO]: Pikel_03 has made the advancement [Hot Stuff]

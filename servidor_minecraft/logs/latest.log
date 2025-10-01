@@ -1266,3 +1266,115 @@ BCLib - The End  BiomeSource (16f8b4a5)
 [21:27:48] [Server thread/INFO]: Pikel_03 has made the advancement [Ice Bucket Challenge]
 [21:28:53] [Server thread/INFO]: Pikel_03 has made the advancement [Who is Cutting Onions?]
 [21:30:13] [Server thread/INFO]: Pikel_03 has made the advancement [Hot Stuff]
+[21:33:39] [Server thread/INFO]: Portal not located for entity class_3222['Pikel_03'/7940, l='ServerLevel[world]', x=-1494.42, y=82.00, z=232.39] at null
+[21:34:00] [Server thread/INFO]: Pikel_03 has made the advancement [Incendium]
+[21:34:00] [Server thread/INFO]: Pikel_03 has made the advancement [We Need to Go Deeper]
+[21:34:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 39935ms or 798 ticks behind
+[21:34:21] [Server thread/INFO]: Pikel_03 has made the advancement [Radioactive]
+[21:34:36] [Server thread/INFO]: Pikel_03 has made the advancement [Strange Biomes]
+[21:34:36] [Server thread/INFO]: Pikel_03 has made the advancement [Darude - Firestorm]
+[21:34:43] [Server thread/INFO]: Pikel_03 has made the advancement [Hellish Paradise]
+[21:34:46] [Server thread/INFO]: [Pikel_03: Set own game mode to Creative Mode]
+[21:35:55] [Server thread/INFO]: Portal located for entity class_3222['Pikel_03'/7940, l='ServerLevel[world]', x=-184.74, y=49.00, z=29.94] at TeleportTarget{pitch=16.678291, position=(-1494.5, 82.0, 232.30214539725995), velocity=(0.0, -0.0784000015258789, 0.0), yaw=-60.004044}
+[21:36:09] [Server thread/INFO]: Portal located for entity class_3222['Pikel_03'/7940, l='ServerLevel[world]', x=-1494.36, y=82.00, z=230.65] at TeleportTarget{pitch=43.017227, position=(-184.5, 49.0, 29.410924987533416), velocity=(0.0, -0.0784000015258789, 0.0), yaw=98.894714}
+[21:36:20] [Server thread/INFO]: Pikel_03 has made the advancement [Night Sky Stalkers]
+[21:36:33] [Server thread/INFO]: Portal located for entity class_3222['Pikel_03'/7940, l='ServerLevel[world]', x=-185.12, y=49.00, z=30.09] at TeleportTarget{pitch=56.65033, position=(-1494.5, 82.0, 232.76953182051398), velocity=(0.0, -0.0784000015258789, 0.0), yaw=-96.02496}
+[21:36:37] [Server thread/INFO]: [Pikel_03: Set own game mode to Survival Mode]
+[21:36:59] [Server thread/INFO]: Portal located for entity class_3222['Pikel_03'/7940, l='ServerLevel[world]', x=-1494.79, y=82.00, z=233.89] at TeleportTarget{pitch=37.786022, position=(-184.5, 49.0, 30.442417748395115), velocity=(0.0, -0.0784000015258789, 0.0), yaw=-86.10974}
+[21:38:11] [Server thread/INFO]: DinokoMC lost connection: Disconnected
+[21:38:11] [Server thread/INFO]: DinokoMC left the game
+[21:38:17] [Server thread/INFO]: DinokoMC[/127.219.150.129:33261] logged in with entity id 27723 at (-1303.421008203293, 71.0, 297.91472615667)
+[21:38:17] [Server thread/INFO]: Syncing config to DinokoMC (f0c00d82-0d58-3b89-af0b-9c6838e550a1)
+[21:38:17] [Server thread/INFO]: Loading config from file...
+[21:38:17] [Server thread/INFO]: DinokoMC joined the game
+[21:38:17] [Server thread/INFO]: Player DinokoMC just logged in with id f0c00d82-0d58-3b89-af0b-9c6838e550a1
+[21:38:17] [Server thread/INFO]: Async chunk loading for player DinokoMC completed
+[21:38:17] [ForkJoinPool-5-worker-5/INFO]: Error downloading file https://playerdb.co/api/player/minecraft/DinokoMC
+[21:38:18] [ForkJoinPool-5-worker-5/INFO]: Error downloading file https://playerdb.co/api/player/minecraft/DinokoMC
+[21:38:18] [ForkJoinPool-5-worker-5/INFO]: Error downloading file https://playerdb.co/api/player/minecraft/DinokoMC
+[21:38:19] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[21:38:19] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[21:38:19] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[21:38:19] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[21:38:19] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[21:38:19] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[21:38:19] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[21:38:19] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[21:38:19] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[21:38:19] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[21:38:19] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/das/servidor_minecraft/bclib-sync (allowDelete=true)
+[21:39:47] [Server thread/INFO]: Named entity class_1545['Desert Blaze'/28849, l='ServerLevel[world]', x=-232.98, y=44.25, z=36.30] died: Desert Blaze was slain by Pikel_03
+[21:40:03] [Server thread/INFO]: Named entity class_1621['Toxic Slime'/26931, l='ServerLevel[world]', x=-290.55, y=-20.00, z=59.11] died: Toxic Slime was killed
+[21:41:49] [Server thread/INFO]: Pikel_03 has made the advancement [Light-Sensitive]
+[21:41:49] [Server thread/INFO]: Named entity class_1545['Desert Blaze'/30093, l='ServerLevel[world]', x=-231.70, y=58.02, z=19.30] died: Desert Blaze was slain by Pikel_03
+[21:41:58] [Server thread/INFO]: Pikel_03 has made the advancement [Pipe Dream]
+[21:43:15] [Server thread/INFO]: Named entity class_1545['Desert Blaze'/30971, l='ServerLevel[world]', x=-179.79, y=57.20, z=-17.31] died: Desert Blaze was slain by Pikel_03
+[21:43:17] [Server thread/INFO]: Named entity class_1621['Toxic Slime'/31392, l='ServerLevel[world]', x=-167.26, y=-20.00, z=-35.58] died: Toxic Slime was killed
+[21:43:24] [Server thread/INFO]: Named entity class_1545['Desert Blaze'/32657, l='ServerLevel[world]', x=-203.26, y=53.63, z=-13.38] died: Desert Blaze was slain by Pikel_03
+[21:43:28] [Server thread/INFO]: Named entity class_1621['Toxic Slime'/31595, l='ServerLevel[world]', x=-183.05, y=-20.00, z=20.18] died: Toxic Slime was killed
+[21:44:22] [Server thread/INFO]: Named entity class_1545['Desert Blaze'/33860, l='ServerLevel[world]', x=-198.21, y=52.91, z=-10.04] died: Desert Blaze was slain by Pikel_03
+[21:44:32] [Server thread/INFO]: Portal located for entity class_3222['DinokoMC'/27723, l='ServerLevel[world]', x=-1494.40, y=82.00, z=232.19] at TeleportTarget{pitch=34.466576, position=(-184.5, 49.0, 29.902570390483245), velocity=(0.0, -0.0784000015258789, 0.0), yaw=90.540405}
+[21:44:33] [Server thread/INFO]: Named entity class_1545['Desert Blaze'/33916, l='ServerLevel[world]', x=-206.03, y=52.36, z=-10.68] died: Desert Blaze was slain by Pikel_03
+[21:44:34] [Server thread/INFO]: DinokoMC has made the advancement [Incendium]
+[21:44:34] [Server thread/INFO]: DinokoMC has made the advancement [We Need to Go Deeper]
+[21:44:35] [Server thread/INFO]: DinokoMC has made the advancement [Radioactive]
+[21:44:45] [Server thread/INFO]: DinokoMC has made the advancement [Strange Biomes]
+[21:44:45] [Server thread/INFO]: DinokoMC has made the advancement [Darude - Firestorm]
+[21:45:03] [Server thread/INFO]: Named entity class_1621['Toxic Slime'/33358, l='ServerLevel[world]', x=-160.74, y=-20.00, z=12.97] died: Toxic Slime was killed
+[21:45:03] [Server thread/INFO]: Named entity class_1621['Toxic Slime'/33359, l='ServerLevel[world]', x=-193.69, y=-20.00, z=-13.12] died: Toxic Slime was killed
+[21:45:17] [Server thread/INFO]: Named entity class_1621['Toxic Slime'/33438, l='ServerLevel[world]', x=-226.26, y=-20.00, z=-87.74] died: Toxic Slime was killed
+[21:45:25] [Server thread/INFO]: Named entity class_1621['Toxic Slime'/33470, l='ServerLevel[world]', x=-177.26, y=-20.00, z=-11.26] died: Toxic Slime was killed
+[21:45:28] [Server thread/INFO]: Named entity class_1621['Toxic Slime'/33479, l='ServerLevel[world]', x=-174.98, y=-20.00, z=17.63] died: Toxic Slime was killed
+[21:45:33] [Server thread/INFO]: [Pikel_03: Teleported Pikel_03 to DinokoMC]
+[21:45:34] [Server thread/INFO]: [Not Secure] <DinokoMC> xaero-waypoint:Portal:P:-184:50:13:0:false:0:Internal-the-nether-waypoints
+[21:45:35] [Server thread/INFO]: Named entity class_1621['Toxic Slime'/33519, l='ServerLevel[world]', x=-236.64, y=-20.00, z=50.87] died: Toxic Slime was killed
+[21:45:35] [Server thread/INFO]: Named entity class_1621['Toxic Slime'/33520, l='ServerLevel[world]', x=-148.50, y=-20.00, z=32.03] died: Toxic Slime was killed
+[21:46:17] [Server thread/INFO]: Named entity class_1545['Desert Blaze'/33661, l='ServerLevel[world]', x=-192.60, y=49.69, z=15.40] died: Desert Blaze was slain by DinokoMC
+[21:46:26] [Server thread/INFO]: Portal located for entity class_3222['Pikel_03'/7940, l='ServerLevel[world]', x=-183.61, y=49.00, z=29.89] at TeleportTarget{pitch=41.976643, position=(-1494.5, 82.0, 232.14361191340217), velocity=(0.0, -0.0784000015258789, 0.0), yaw=20.008823}
+[21:46:34] [Server thread/INFO]: Portal located for entity class_3222['Pikel_03'/7940, l='ServerLevel[world]', x=-185.16, y=49.00, z=29.83] at TeleportTarget{pitch=40.552914, position=(-1494.5, 82.0, 231.95103544932144), velocity=(0.0, -0.0784000015258789, 0.0), yaw=-86.05877}
+[21:46:41] [Server thread/INFO]: Portal located for entity class_3222['Pikel_03'/7940, l='ServerLevel[world]', x=-1494.58, y=82.00, z=232.51] at TeleportTarget{pitch=40.55292, position=(-184.5, 49.0, 30.00391973237144), velocity=(0.0, -0.0784000015258789, 0.0), yaw=67.70356}
+[21:46:41] [Server thread/INFO]: DinokoMC has made the advancement [Pipe Dream]
+[21:47:00] [Server thread/INFO]: [Pikel_03: Teleported Pikel_03 to DinokoMC]
+[21:47:25] [Server thread/INFO]: DinokoMC has made the advancement [UNLIMITED POWER!!!]
+[21:47:26] [Server thread/INFO]: DinokoMC went off with a bang
+[21:47:26] [Server thread/INFO]: Created new backpack backup file for DinokoMC with unique ID travelersbackpack.skeleton_01.10.2025-21.47.26.dat
+[21:47:26] [Server thread/INFO]: [STDOUT]: Player class_3222['DinokoMC'/27723, l='ServerLevel[world]', x=-186.03, y=40.00, z=-6.32] died. Death ID: 3
+[21:47:30] [Server thread/INFO]: Pikel_03 has made the advancement [UNLIMITED POWER!!!]
+[21:47:34] [Server thread/INFO]: Async chunk loading for player DinokoMC completed
+[21:48:17] [Server thread/INFO]: [Pikel_03: Teleported DinokoMC to Pikel_03]
+[21:48:30] [Server thread/INFO]: DinokoMC was burnt to a crisp whilst fighting Pipeline Sentry
+[21:48:31] [Server thread/INFO]: Async chunk loading for player DinokoMC completed
+[21:48:33] [Server thread/INFO]: [Pikel_03: Teleported DinokoMC to Pikel_03]
+[21:49:06] [Server thread/INFO]: DinokoMC went off with a bang
+[21:49:06] [Server thread/INFO]: Created new backpack backup file for DinokoMC with unique ID travelersbackpack.skeleton_01.10.2025-21.49.06.dat
+[21:49:06] [Server thread/INFO]: [STDOUT]: Player class_3222['DinokoMC'/27723, l='ServerLevel[world]', x=-178.86, y=40.25, z=-5.56] died. Death ID: 4
+[21:49:09] [Server thread/INFO]: Async chunk loading for player DinokoMC completed
+[21:49:22] [Server thread/INFO]: [DinokoMC: Teleported DinokoMC to Pikel_03]
+[21:49:25] [Server thread/INFO]: Named entity class_1621['Toxic Slime'/35038, l='ServerLevel[world]', x=-142.09, y=-20.00, z=5.74] died: Toxic Slime was killed
+[21:49:33] [Server thread/INFO]: DinokoMC went off with a bang
+[21:49:33] [Server thread/INFO]: Pikel_03 went off with a bang
+[21:49:33] [Server thread/INFO]: Created new backpack backup file for Pikel_03 with unique ID travelersbackpack.standard_01.10.2025-21.49.33.dat
+[21:49:33] [Server thread/INFO]: [STDOUT]: Player class_3222['Pikel_03'/7940, l='ServerLevel[world]', x=-180.39, y=40.00, z=-6.02] died. Death ID: 5
+[21:49:35] [Server thread/INFO]: Async chunk loading for player DinokoMC completed
+[21:49:35] [Server thread/INFO]: Async chunk loading for player Pikel_03 completed
+[21:49:44] [Server thread/INFO]: [Pikel_03: Teleported Pikel_03 to -1497.500000, 81.500000, 232.500000]
+[21:49:47] [Server thread/INFO]: Portal located for entity class_3222['Pikel_03'/7940, l='ServerLevel[world]', x=-1494.16, y=82.00, z=233.79] at TeleportTarget{pitch=43.779564, position=(-184.5, 49.0, 30.410767902896605), velocity=(0.0, -0.0784000015258789, 0.0), yaw=-174.40639}
+[21:49:47] [Server thread/INFO]: [DinokoMC: Teleported DinokoMC to Pikel_03]
+[21:49:49] [Server thread/INFO]: Portal located for entity class_3222['DinokoMC'/27723, l='ServerLevel[world]', x=-1493.97, y=82.00, z=233.79] at TeleportTarget{pitch=58.446117, position=(-184.5, 49.0, 30.411833255348267), velocity=(0.011484085129754629, -0.0784000015258789, 0.011003409355680463), yaw=168.95512}
+[21:49:54] [Server thread/INFO]: [Pikel_03: Teleported Pikel_03 to -180.500000, 40.500000, -5.500000]
+[21:50:00] [Server thread/INFO]: DinokoMC tried to swim in lava
+[21:50:01] [Server thread/INFO]: Async chunk loading for player DinokoMC completed
+[21:50:02] [Server thread/INFO]: [DinokoMC: Teleported DinokoMC to Pikel_03]
+[21:50:15] [Server thread/INFO]: Named entity class_1621['Toxic Slime'/37551, l='ServerLevel[world]', x=-177.26, y=-20.00, z=-3.74] died: Toxic Slime was killed
+[21:50:41] [Server thread/INFO]: Named entity class_1621['Toxic Slime'/37550, l='ServerLevel[world]', x=-190.02, y=-20.00, z=-5.26] died: Toxic Slime was killed
+[21:50:42] [Server thread/INFO]: Named entity class_1621['Toxic Slime'/37585, l='ServerLevel[world]', x=-170.73, y=-20.00, z=-8.67] died: Toxic Slime was killed
+[21:51:01] [Server thread/INFO]: Named entity class_1621['Toxic Slime'/37568, l='ServerLevel[world]', x=-221.73, y=-20.00, z=34.08] died: Toxic Slime was killed
+[21:51:01] [Server thread/INFO]: Named entity class_1621['Toxic Slime'/37589, l='ServerLevel[world]', x=-163.20, y=-20.00, z=6.41] died: Toxic Slime was killed
+[21:51:31] [Server thread/INFO]: Named entity class_1621['Toxic Slime'/37546, l='ServerLevel[world]', x=-152.17, y=-20.00, z=-2.53] died: Toxic Slime was killed
+[21:51:31] [Server thread/INFO]: Named entity class_1621['Toxic Slime'/37580, l='ServerLevel[world]', x=-205.98, y=-20.00, z=8.85] died: Toxic Slime was killed
+[21:51:31] [Server thread/INFO]: Named entity class_1621['Toxic Slime'/37581, l='ServerLevel[world]', x=-191.79, y=-20.00, z=-10.98] died: Toxic Slime was killed
+[21:51:45] [Server thread/INFO]: Named entity class_1621['Toxic Slime'/37547, l='ServerLevel[world]', x=-256.26, y=-20.00, z=-2.75] died: Toxic Slime was killed
+[21:52:10] [Server thread/INFO]: Named entity class_1621['Toxic Slime'/37624, l='ServerLevel[world]', x=-173.12, y=-20.00, z=-45.93] died: Toxic Slime was killed
+[21:52:13] [Server thread/INFO]: [DinokoMC: Teleported DinokoMC to Pikel_03]
+[21:52:31] [Server thread/INFO]: Named entity class_1621['Toxic Slime'/37900, l='ServerLevel[world]', x=-197.74, y=-20.00, z=9.74] died: Toxic Slime was killed
+[21:52:31] [Server thread/INFO]: Named entity class_1621['Toxic Slime'/37901, l='ServerLevel[world]', x=-138.13, y=-20.00, z=-22.12] died: Toxic Slime was killed

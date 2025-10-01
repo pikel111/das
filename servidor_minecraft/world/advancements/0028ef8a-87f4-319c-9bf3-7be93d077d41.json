@@ -1,0 +1,39 @@
+{
+  "stellarity:cursed_tome/root": {
+    "criteria": {
+      "requirement": "2025-10-01 18:38:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2025-10-01 18:38:33 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/new_player": {
+    "criteria": {
+      "requirement": "2025-10-01 18:38:33 +0000"
+    },
+    "done": true
+  },
+  "stellarity:dragons_den/cursed_tome/root": {
+    "criteria": {
+      "requirement": "2025-10-01 18:38:33 +0000"
+    },
+    "done": true
+  },
+  "betterdeserttemples:root": {
+    "criteria": {
+      "always": "2025-10-01 18:38:33 +0000"
+    },
+    "done": true
+  },
+  "yungscavebiomes:root": {
+    "criteria": {
+      "always": "2025-10-01 18:38:33 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}

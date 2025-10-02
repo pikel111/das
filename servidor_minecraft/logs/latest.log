@@ -1257,3 +1257,14 @@ BCLib - The End  BiomeSource (7548d844)
 [17:04:24] [Server thread/INFO]: [Pikel_03: Set own game mode to Survival Mode]
 [17:04:35] [Server thread/INFO]: [Pikel_03: Set own game mode to Creative Mode]
 [17:04:42] [Server thread/INFO]: [Pikel_03: Set own game mode to Survival Mode]
+[17:11:07] [Server thread/INFO]: [Pikel_03: The difficulty has been set to Hard]
+[17:12:53] [Server thread/INFO]: Pikel_03 was shot by Skeleton
+[17:12:53] [Server thread/INFO]: Created new backpack backup file for Pikel_03 with unique ID travelersbackpack.standard_02.10.2025-17.12.53.dat
+[17:12:53] [Server thread/INFO]: [STDOUT]: Player class_3222['Pikel_03'/19694, l='ServerLevel[world]', x=-863.65, y=-41.75, z=741.68] died. Death ID: 8
+[17:12:56] [Server thread/INFO]: Async chunk loading for player Pikel_03 completed
+[17:13:02] [Server thread/INFO]: [Pikel_03: Teleported Pikel_03 to -862.500000, -43.500000, 742.500000]
+[17:13:11] [Server thread/INFO]: [Pikel_03: Set own game mode to Creative Mode]
+[17:13:41] [Server thread/INFO]: [Pikel_03: Set own game mode to Survival Mode]
+[17:13:47] [Server thread/INFO]: Pikel_03 lost connection: Disconnected
+[17:13:47] [Server thread/INFO]: Pikel_03 left the game
+[17:13:47] [Server thread/INFO]: Removing session data for player Pikel_03[afc4c9dd-8d66-358b-8b8b-98baedbba298]

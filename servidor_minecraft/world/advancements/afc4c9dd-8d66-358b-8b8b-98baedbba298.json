@@ -1696,6 +1696,7 @@
       "minecraft:blaze": "2025-10-01 21:39:47 +0000",
       "minecraft:skeleton": "2025-10-01 20:08:30 +0000",
       "minecraft:spider": "2025-10-01 20:08:18 +0000",
+      "minecraft:creeper": "2025-10-02 21:18:52 +0000",
       "minecraft:slime": "2025-10-01 21:53:36 +0000",
       "minecraft:phantom": "2025-10-01 21:36:20 +0000",
       "minecraft:zombie": "2025-10-01 19:35:50 +0000"
@@ -2576,7 +2577,8 @@
   },
   "deeperdarker:main/kill_all_sculk_mobs": {
     "criteria": {
-      "phantom": "2025-10-01 21:36:20 +0000"
+      "phantom": "2025-10-01 21:36:20 +0000",
+      "warden": "2025-10-02 21:16:56 +0000"
     },
     "done": false
   },
@@ -3516,6 +3518,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-10-02 21:17:19 +0000"
+    },
+    "done": true
+  },
   "stellarity:dragons_den/cursed_tome/items/unlock_sabrewing": {
     "criteria": {
       "requirement": "2025-10-02 21:08:24 +0000"
@@ -3531,6 +3539,12 @@
   "minecraft:recipes/misc/iron_ingot_from_iron_block": {
     "criteria": {
       "has_iron_block": "2025-10-02 21:15:01 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/combat/sonorous_staff": {
+    "criteria": {
+      "has_heart_of_the_deep": "2025-10-02 21:16:59 +0000"
     },
     "done": true
   },
@@ -3555,6 +3569,12 @@
   "minecraft:recipes/brewing/fermented_spider_eye": {
     "criteria": {
       "has_spider_eye": "2025-10-02 21:08:43 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:main/kill_warden": {
+    "criteria": {
+      "warden": "2025-10-02 21:16:56 +0000"
     },
     "done": true
   },

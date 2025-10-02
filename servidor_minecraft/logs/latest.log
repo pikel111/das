@@ -1206,3 +1206,7 @@ BCLib - The End  BiomeSource (7e77e8)
 [04:32:55] [Server thread/INFO]: Pikel_03 has made the advancement [What a Deal!]
 [04:41:37] [Server thread/INFO]: [Pikel_03: Set own game mode to Creative Mode]
 [04:41:45] [Server thread/INFO]: [Pikel_03: Set own game mode to Survival Mode]
+[04:48:24] [Server thread/INFO]: Pikel_03 lost connection: Disconnected
+[04:48:24] [Server thread/INFO]: Pikel_03 left the game
+[04:48:24] [Server thread/INFO]: Removing session data for player Pikel_03[afc4c9dd-8d66-358b-8b8b-98baedbba298]
+[04:48:24] [Server thread/WARN]: handleDisconnection() called twice

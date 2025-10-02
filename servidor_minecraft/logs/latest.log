@@ -1215,3 +1215,45 @@ BCLib - The End  BiomeSource (7548d844)
 [16:38:15] [Server thread/INFO]: [Pikel_03: Set own game mode to Survival Mode]
 [16:39:02] [Server thread/INFO]: [Pikel_03: Set own game mode to Creative Mode]
 [16:39:23] [Server thread/INFO]: [Pikel_03: Set own game mode to Survival Mode]
+[16:51:04] [Server thread/INFO]: Pikel_03 has made the advancement [Enchanter]
+[16:52:22] [Server thread/INFO]: [Pikel_03: Gave 100 experience points to Pikel_03]
+[16:52:23] [Server thread/INFO]: [Pikel_03: Gave 100 experience points to Pikel_03]
+[16:52:28] [Server thread/INFO]: [Pikel_03: Gave 300 experience points to Pikel_03]
+[16:52:30] [Server thread/INFO]: [Pikel_03: Gave 300 experience points to Pikel_03]
+[16:52:31] [Server thread/INFO]: [Pikel_03: Gave 300 experience points to Pikel_03]
+[16:52:32] [Server thread/INFO]: [Pikel_03: Gave 300 experience points to Pikel_03]
+[16:52:32] [Server thread/INFO]: [Pikel_03: Gave 300 experience points to Pikel_03]
+[16:52:32] [Server thread/INFO]: [Pikel_03: Gave 300 experience points to Pikel_03]
+[16:52:33] [Server thread/INFO]: [Pikel_03: Gave 300 experience points to Pikel_03]
+[16:52:33] [Server thread/INFO]: [Pikel_03: Gave 300 experience points to Pikel_03]
+[17:00:12] [Server thread/INFO]: [Pikel_03: Set own game mode to Creative Mode]
+[17:00:29] [Server thread/INFO]: [Pikel_03: Set own game mode to Survival Mode]
+[17:01:03] [Server thread/INFO]: Pikel_03 lost connection: Disconnected
+[17:01:03] [Server thread/INFO]: Pikel_03 left the game
+[17:01:03] [Server thread/INFO]: Removing session data for player Pikel_03[afc4c9dd-8d66-358b-8b8b-98baedbba298]
+[17:01:07] [Server thread/INFO]: Pikel_03[/127.219.55.4:56835] logged in with entity id 19694 at (-1305.3779733073277, 71.0, 294.21009600990357)
+[17:01:07] [Server thread/INFO]: Syncing config to Pikel_03 (afc4c9dd-8d66-358b-8b8b-98baedbba298)
+[17:01:07] [Server thread/INFO]: Loading config from file...
+[17:01:07] [Server thread/INFO]: Pikel_03 joined the game
+[17:01:07] [Server thread/INFO]: Player Pikel_03 just logged in with id afc4c9dd-8d66-358b-8b8b-98baedbba298
+[17:01:07] [ForkJoinPool-5-worker-2/INFO]: Loading local skin for player Pikel_03[afc4c9dd-8d66-358b-8b8b-98baedbba298]
+[17:01:07] [ForkJoinPool-5-worker-2/INFO]: File https://playerdb.co/api/player/minecraft/Pikel_03 downloaded
+[17:01:07] [Server thread/INFO]: Async chunk loading for player Pikel_03 completed
+[17:01:09] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[17:01:09] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[17:01:09] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[17:01:09] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[17:01:09] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[17:01:09] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[17:01:09] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[17:01:09] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[17:01:09] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[17:01:09] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[17:01:09] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/das/servidor_minecraft/bclib-sync (allowDelete=true)
+[17:01:53] [Server thread/INFO]: [Pikel_03: Set own game mode to Creative Mode]
+[17:04:04] [Server thread/INFO]: [Pikel_03: Applied enchantment Unbreaking III to Pikel_03's item]
+[17:04:08] [Server thread/INFO]: [Pikel_03: Applied enchantment Efficiency V to Pikel_03's item]
+[17:04:17] [Server thread/INFO]: [Pikel_03: Applied enchantment Fortune III to Pikel_03's item]
+[17:04:24] [Server thread/INFO]: [Pikel_03: Set own game mode to Survival Mode]
+[17:04:35] [Server thread/INFO]: [Pikel_03: Set own game mode to Creative Mode]
+[17:04:42] [Server thread/INFO]: [Pikel_03: Set own game mode to Survival Mode]

@@ -1,17 +1,17 @@
-[04:15:58] [main/INFO]: Loading Minecraft 1.20.1 with Fabric Loader 0.17.2
-[04:16:01] [ForkJoinPool-1-worker-4/WARN]: The mod "betterstats" contains invalid entries in its mod json:
-- Unsupported root entry "" at line 26 column 4
-- Unsupported root entry "" at line 26 column 92
-- Unsupported root entry "" at line 28 column 4
-- Unsupported root entry "" at line 28 column 24
-[04:16:01] [ForkJoinPool-1-worker-3/WARN]: The mod "tcdcommons" contains invalid entries in its mod json:
+[15:13:22] [main/INFO]: Loading Minecraft 1.20.1 with Fabric Loader 0.17.2
+[15:13:25] [ForkJoinPool-1-worker-4/WARN]: The mod "tcdcommons" contains invalid entries in its mod json:
 - Unsupported root entry "" at line 27 column 4
 - Unsupported root entry "" at line 27 column 198
 - Unsupported root entry "" at line 29 column 4
 - Unsupported root entry "" at line 29 column 24
-[04:16:04] [ForkJoinPool-1-worker-2/WARN]: Mod mr_dungeons_andtaverns uses the version 3.0.3.f which isn't compatible with Loader's extended semantic version format (Could not parse version number component 'f'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
-[04:16:05] [ForkJoinPool-1-worker-3/WARN]: Mod mr_stellarity uses the version 2.0e which isn't compatible with Loader's extended semantic version format (Could not parse version number component '0e'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
-[04:16:05] [main/INFO]: Loading 202 mods:
+[15:13:25] [ForkJoinPool-1-worker-4/WARN]: The mod "betterstats" contains invalid entries in its mod json:
+- Unsupported root entry "" at line 26 column 4
+- Unsupported root entry "" at line 26 column 92
+- Unsupported root entry "" at line 28 column 4
+- Unsupported root entry "" at line 28 column 24
+[15:13:27] [ForkJoinPool-1-worker-2/WARN]: Mod mr_dungeons_andtaverns uses the version 3.0.3.f which isn't compatible with Loader's extended semantic version format (Could not parse version number component 'f'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
+[15:13:28] [ForkJoinPool-1-worker-2/WARN]: Mod mr_stellarity uses the version 2.0e which isn't compatible with Loader's extended semantic version format (Could not parse version number component '0e'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
+[15:13:29] [main/INFO]: Loading 202 mods:
 	- accessories 1.0.0-beta.47+1.20.1
 	   |-- io_wispforest_endec 0.1.8
 	   |-- io_wispforest_endec_gson 0.1.5
@@ -231,670 +231,669 @@
 	   \-- org_javassist_javassist 3.29.2-GA
 	- yungscavebiomes 1.20.1-Fabric-2.0.5
 	- yungsextras 1.20-Fabric-4.0.3
-[04:16:06] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/das/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.16.3+mixin.0.8.7/sponge-mixin-0.16.3+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[04:16:06] [main/INFO]: Compatibility level set to JAVA_17
-[04:16:06] [main/INFO]: Compatibility level set to JAVA_21
-[04:16:06] [main/WARN]: Reference map '[common]ctov-common-refmap.json' for ctov-common.mixins.json could not be read. If this is a development environment you can ignore this message
-[04:16:06] [main/WARN]: Reference map 'formationsnether.mixins.refmap.json' for formationsnether.mixins.json could not be read. If this is a development environment you can ignore this message
-[04:16:06] [main/WARN]: Reference map 'formationsoverworld.mixins.refmap.json' for formationsoverworld.mixins.json could not be read. If this is a development environment you can ignore this message
-[04:16:07] [main/INFO]: Loaded configuration file for Lithium: 115 options available, 2 override(s) found
-[04:16:07] [main/INFO]: Loaded configuration file for ModernFix 5.19.4+mc1.20.1: 61 options available, 1 override(s) found
-[04:16:07] [main/WARN]: Option 'mixin.perf.thread_priorities' overriden (by mods [threadtweak]) to 'false'
-[04:16:07] [main/INFO]: Applying Nashorn fix
-[04:16:07] [main/INFO]: Successfully started async appender with [ServerGuiConsole, SysOut, File]
-[04:16:07] [main/WARN]: Reference map 'yungsextras.refmap.json' for yungsextras.mixins.json could not be read. If this is a development environment you can ignore this message
-[04:16:07] [main/WARN]: Reference map 'yungsextras.refmap.json' for yungsextras_fabric.mixins.json could not be read. If this is a development environment you can ignore this message
-[04:16:07] [main/WARN]: Error loading class: net/minecraft/class_761 (java.lang.ClassNotFoundException: net/minecraft/class_761)
-[04:16:07] [main/WARN]: @Mixin target net.minecraft.class_761 was not found accessories-common.mixins.json:LevelRendererAccessor from mod accessories
-[04:16:07] [main/WARN]: Error loading class: net/minecraft/class_638$class_5271 (java.lang.ClassNotFoundException: net/minecraft/class_638$class_5271)
-[04:16:07] [main/WARN]: @Mixin target net.minecraft.class_638$class_5271 was not found cavedust.mixins.json:ClientWorldAccessor from mod cavedust
-[04:16:07] [main/WARN]: Error loading class: net/minecraft/class_340 (java.lang.ClassNotFoundException: net/minecraft/class_340)
-[04:16:07] [main/WARN]: @Mixin target net.minecraft.class_340 was not found cavedust.mixins.json:MixinDebugScreenOverlay from mod cavedust
-[04:16:08] [main/WARN]: Force-disabling mixin 'alloc.blockstate.StateMixin' as rule 'mixin.alloc.blockstate' (added by mods [ferritecore]) disables it and children
-[04:16:08] [main/WARN]: Force-disabling mixin 'world.player_chunk_tick.ThreadedAnvilChunkStorageMixin' as rule 'mixin.world.player_chunk_tick' (added by mods [vmp]) disables it and children
-[04:16:08] [main/WARN]: Error loading class: fr/catcore/server/translations/api/resource/language/SystemDelegatedLanguage (java.lang.ClassNotFoundException: fr/catcore/server/translations/api/resource/language/SystemDelegatedLanguage)
-[04:16:08] [main/WARN]: Error loading class: com/ishland/c2me/notickvd/common/NoTickChunkSendingInterceptor (java.lang.ClassNotFoundException: com/ishland/c2me/notickvd/common/NoTickChunkSendingInterceptor)
-[04:16:08] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.5.0).
-[04:16:09] [main/INFO]: ThreadTweak config initialized
-[04:16:10] [main/WARN]: @ModifyVariable(@At("INVOKE")) Shift.BY=2 on accessories-fabric.mixins.json:LivingEntityMixin from mod accessories::localvar$zza000$accessories$adjustLooting exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
-[04:16:11] [main/INFO]: Injecting BlockStateBase cache population hook into getNeighborPathNodeType from me.jellysquid.mods.lithium.mixin.ai.pathing.AbstractBlockStateMixin
-[04:16:11] [main/INFO]: Injecting BlockStateBase cache population hook into getPathNodeType from me.jellysquid.mods.lithium.mixin.ai.pathing.AbstractBlockStateMixin
-[04:16:11] [main/INFO]: Injecting BlockStateBase cache population hook into getOpacityIfCached from ca.spottedleaf.starlight.mixin.common.blockstate.BlockStateBaseMixin
-[04:16:11] [main/INFO]: Injecting BlockStateBase cache population hook into isConditionallyFullOpaque from ca.spottedleaf.starlight.mixin.common.blockstate.BlockStateBaseMixin
-[04:16:11] [main/INFO]: Injecting BlockStateBase cache population hook into getAllFlags from me.jellysquid.mods.lithium.mixin.util.block_tracking.AbstractBlockStateMixin
-[04:16:13] [main/WARN]: @Inject(@At("INVOKE")) Shift.BY=2 on accessories-common.mixins.json:NbtCompoundMixin from mod accessories::handler$zzl000$accessories$adjustCheckForListVariants exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
-[04:16:14] [main/WARN]: Method overwrite conflict for method_21740 in modernfix-common.mixins.json:perf.remove_biome_temperature_cache.BiomeMixin from mod modernfix, previously written by me.jellysquid.mods.lithium.mixin.world.temperature_cache.BiomeMixin. Skipping method.
-[04:16:14] [main/INFO]: Vanilla bootstrap took 5106 milliseconds
-[04:16:14] [main/INFO]: Registering Listeners!
-[04:16:15] [main/INFO]: [bclib] Added Config bclib.generator to auto sync (file hash)
-[04:16:15] [main/INFO]: [bclib] Added Config bclib.main to auto sync (content diff)
-[04:16:15] [main/INFO]: [bclib] Added Config bclib.biomes to auto sync (file hash)
-[04:16:15] [main/INFO]: Reflections took 40 ms to scan 1 urls, producing 1 keys and 2 values
-[04:16:15] [main/INFO]: Reflections took 3 ms to scan 1 urls, producing 1 keys and 2 values
-[04:16:15] [main/INFO]: [bclib] Added Config betterend.entities to auto sync (file hash)
-[04:16:15] [main/INFO]: [bclib] Added Config betterend.blocks to auto sync (file hash)
-[04:16:15] [main/INFO]: [bclib] Added Config betterend.items to auto sync (file hash)
-[04:16:15] [main/INFO]: [bclib] Added Config betterend.biomes to auto sync (file hash)
-[04:16:15] [main/INFO]: [bclib] Added Config betterend.recipes to auto sync (file hash)
-[04:16:15] [main/INFO]: [bclib] Added Config betterend.enchantments to auto sync (file hash)
-[04:16:15] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 2 values
-[04:16:15] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 2 values
-[04:16:15] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 1 values
-[04:16:15] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 1 values
-[04:16:15] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 1 values
-[04:16:15] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 1 values
-[04:16:15] [main/INFO]: [STDOUT]: All 6 have been set properly
-[04:16:15] [main/INFO]: Cactus Config is being initialized.
-[04:16:15] [main/INFO]: Loading Collective version 8.3.
-[04:16:16] [main/INFO]: general
-[04:16:16] [main/INFO]: individual
-[04:16:16] [main/INFO]: Bypassed Mojang DFU
-[04:16:16] [main/INFO]: Instantiating Mojang DFU
-[04:16:16] [main/ERROR]: No data fixer registered for crystallized_amber
-[04:16:16] [main/ERROR]: No data fixer registered for sculk_jaw
-[04:16:16] [main/INFO]: Constructing common components for easyshulkerboxes:main
-[04:16:17] [main/INFO]: Horse Buff Initialized
-[04:16:17] [main/INFO]: [jamlib] Mod initialized!
-[04:16:17] [main/INFO]: Ksyxis: Booting... (platform: Fabric/KFabric, manual: false)
-[04:16:17] [main/INFO]: Ksyxis: Ready. As always, this mod will speed up your world loading and might or might not break it. (mixinVersion: 0.8.7, time: 0 ms)
-[04:16:17] [main/INFO]: Initialize mod Library Ferret
-[04:16:17] [main/INFO]: Initialized mod Library Ferret
-[04:16:17] [main/INFO]: Created game rule mediumcoreMode
-[04:16:17] [main/INFO]: Giving mobs a fresh coat of paint...
-[04:16:18] [main/INFO]: Loading Noisium.
-[04:16:18] [main/INFO]: chyz: How could you do this to me, Blod. I loved you like a guy I don't know in real life :(
-[04:16:18] [main/INFO]: Constructing common components for puzzlesapi:iteminteractions
-[04:16:18] [main/INFO]: Constructing common components for puzzlesapi:slotcycling
-[04:16:18] [main/INFO]: Constructing common components for puzzlesapi:limitlesscontainers
-[04:16:18] [main/INFO]: Constructing common components for puzzlesapi:statues
-[04:16:18] [main/INFO]: Constructing common components for puzzleslib:main
-[04:16:18] [main/INFO]: [rightclickharvest] Initializing VersionUtils
-[04:16:18] [main/INFO]: [rightclickharvest] VersionUtils initialized successfully
-[04:16:18] [main/INFO]: [jamlib] Registered config for rightclickharvest
-[04:16:18] [main/INFO]: [rightclickharvest] Mod initialized!
-[04:16:18] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:request_tags_c2s
-[04:16:18] [main/INFO]: [REI] Registered plugin provider DefaultPlugin [roughlyenoughitems] for REIPlugin
-[04:16:18] [main/INFO]: [REI] Registered plugin provider DefaultRuntimePlugin [roughlyenoughitems] for REIPlugin
-[04:16:18] [main/INFO]: [REI] Registered plugin provider DefaultPlugin [roughlyenoughitems] for REIServerPlugin
-[04:16:18] [main/INFO]: [REI] Registered plugin provider DefaultRuntimePlugin [roughlyenoughitems] for REIServerPlugin
-[04:16:18] [main/INFO]: [REI] Registered plugin provider FabricFluidAPISupportPlugin for REIServerPlugin
-[04:16:18] [main/INFO]: [REI] Registered plugin provider FabricFluidAPISupportPlugin for REIPlugin
-[04:16:18] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:delete_item
-[04:16:18] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:create_item
-[04:16:18] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:create_item_grab
-[04:16:18] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:create_item_hotbar
-[04:16:18] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:move_items
-[04:16:18] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:move_items_new
-[04:16:18] [main/INFO]: Hello Fabric world!
-[04:16:18] [main/INFO]: Sushi of the day: Kibinago nigiri
-[04:16:18] [main/INFO]: Registered region minecraft:overworld to index 0 for type OVERWORLD
-[04:16:18] [main/INFO]: Registered region minecraft:nether to index 0 for type NETHER
-[04:16:18] [main/INFO]: Registered region yungscavebiomes:overworld to index 1 for type OVERWORLD
-[04:16:18] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:water for Water (Fluid Amount Required: 81000) with the ID 0
-[04:16:18] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:lava for Lava (Fluid Amount Required: 81000) with the ID 1
-[04:16:18] [main/INFO]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for block.travelersbackpack.potion_still (Fluid Amount Required: 27000) with the ID 2
-[04:16:18] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:milk for Air (Fluid Amount Required: 81000) with the ID 3
-[04:16:19] [main/INFO]: [STDOUT]: TxniLib onInitialize!
-[04:16:19] [main/INFO]: Constructing common components for visualworkbench:main
-[04:16:19] [main/INFO]: Wabi-Sabi Structures initialized
-[04:16:19] [main/INFO]: Reflections took 10 ms to scan 1 urls, producing 1 keys and 4 values
-[04:16:19] [main/INFO]: Reflections took 6 ms to scan 1 urls, producing 1 keys and 4 values
-[04:16:19] [main/INFO]: Reflections took 38 ms to scan 1 urls, producing 5 keys and 65 values
-[04:16:19] [main/INFO]: Reflections took 27 ms to scan 1 urls, producing 5 keys and 65 values
-[04:16:19] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 2 values
-[04:16:19] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 2 values
-[04:16:19] [main/INFO]: Registering C2S receiver with id skin_changer:mbechannel/c6416779da663f62836ae72f0509aa3e
-[04:16:19] [main/INFO]: Registering C2S receiver with id skin_changer:mbechannel/8489ea5ae87e3a6199b65ea21ca8f8c8
-[04:16:19] [main/INFO]: Initializing 'Better Statistics Screen' as 'BetterStatsServer'.
-[04:16:19] [main/INFO]: Initializing 'TCD Commons API' 3.12.3+fabric-1.20.1 as 'TCDCommonsServer'.
-[04:16:20] [main/INFO]: Loading Xaero's Minimap - Stage 1/2 (Server)
-[04:16:20] [main/INFO]: Loading Xaero's World Map - Stage 1/2 (Server)
-[04:16:20] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[04:16:20] [main/INFO]: [DataFixerAPI] Applying Patch{bclib:3.0.11:12582923}
-[04:16:20] [main/INFO]: [bclib] Running Pre Patchers on ./world/.
-[04:16:20] [main/WARN]: [bclib] Applying Fixes on Level
-[04:16:20] [main/INFO]: [bclib] Patcher Stage... Reading Data%
-[04:16:20] [main/INFO]: [bclib] Patcher Stage... Fixing Players%
-[04:16:20] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./playerdata/afc4c9dd-8d66-358b-8b8b-98baedbba298.dat
-[04:16:20] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./playerdata/f0c00d82-0d58-3b89-af0b-9c6838e550a1.dat
-[04:16:20] [main/INFO]: [DataFixerAPI] Inspecting ./world/./playerdata/0028ef8a-87f4-319c-9bf3-7be93d077d41.dat
-[04:16:20] [main/INFO]: [bclib] Patcher Stage... Applying Patches to level.dat%
-[04:16:20] [main/INFO]: [DataFixerAPI] Inspecting level.dat in ./world/.
-[04:16:20] [main/INFO]: [bclib] Patcher Stage... Patching Custom World-Data%
-[04:16:20] [main/INFO]: [bclib] Patcher Stage... Repairing all Regions%
-[04:16:20] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-9.-2.mca
-[04:16:20] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-4.10.mca
-[04:16:20] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-17.-8.mca
-[04:16:20] [ForkJoinPool.commonPool-worker-3/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.3.6.mca
-[04:16:20] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.15.-17.mca
-[04:16:20] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-10.9.mca
-[04:16:20] [ForkJoinPool.commonPool-worker-3/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.18.-19.mca
-[04:16:20] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-5.-4.mca
-[04:16:20] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.1.-17.mca
-[04:16:20] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.0.2.mca
-[04:16:20] [ForkJoinPool.commonPool-worker-3/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-22.5.mca
-[04:16:20] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.13.11.mca
-[04:16:20] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-17.-2.mca
-[04:16:20] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.11.-7.mca
-[04:16:20] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-3.2.mca
-[04:16:20] [ForkJoinPool.commonPool-worker-3/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.0.4.mca
-[04:16:20] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-1.-4.mca
-[04:16:20] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.1.2.mca
-[04:16:20] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-3.-9.mca
-[04:16:20] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-4.0.mca
-[04:16:20] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.0.-4.mca
-[04:16:20] [ForkJoinPool.commonPool-worker-3/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-2.0.mca
-[04:16:20] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-4.-9.mca
-[04:16:20] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-4.-3.mca
-[04:16:20] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-17.-12.mca
-[04:16:20] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-22.-22.mca
-[04:16:20] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-7.20.mca
-[04:16:20] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.16.3.mca
-[04:16:20] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-5.1.mca
-[04:16:20] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-12.-7.mca
-[04:16:20] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-2.-5.mca
-[04:16:20] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-3.-2.mca
-[04:16:20] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.3.-9.mca
-[04:16:20] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.1.13.mca
-[04:16:20] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.1.-4.mca
-[04:16:20] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.0.-1.mca
-[04:16:22] [main/INFO]: [bclib] Patching... 8%
-[04:16:22] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-18.3.mca
-[04:16:22] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-15.-5.mca
-[04:16:22] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-14.-15.mca
-[04:16:22] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.13.21.mca
-[04:16:22] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.6.-4.mca
-[04:16:22] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-3.-12.mca
-[04:16:22] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.5.5.mca
-[04:16:22] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-14.-7.mca
-[04:16:22] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-15.8.mca
-[04:16:22] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-14.17.mca
-[04:16:22] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-22.-11.mca
-[04:16:22] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-24.11.mca
-[04:16:22] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.18.18.mca
-[04:16:22] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-1.20.mca
-[04:16:22] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-12.16.mca
-[04:16:22] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-5.16.mca
-[04:16:22] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-12.-14.mca
-[04:16:22] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.15.21.mca
-[04:16:22] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.5.2.mca
-[04:16:22] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.1.-7.mca
-[04:16:22] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-25.-4.mca
-[04:16:22] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.7.1.mca
-[04:16:22] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-22.13.mca
-[04:16:22] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-22.21.mca
-[04:16:22] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-1.-1.mca
-[04:16:22] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.13.-17.mca
-[04:16:22] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-8.-3.mca
-[04:16:22] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-15.15.mca
-[04:16:22] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-1.-2.mca
-[04:16:23] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-5.18.mca
-[04:16:23] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-13.-13.mca
-[04:16:23] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-25.-7.mca
-[04:16:23] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-2.15.mca
-[04:16:23] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-5.-2.mca
-[04:16:23] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-3.-1.mca
-[04:16:23] [main/INFO]: [bclib] Patching... 15%
-[04:16:23] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.15.18.mca
-[04:16:23] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-19.-19.mca
-[04:16:23] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.2.5.mca
-[04:16:23] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-1.4.mca
-[04:16:23] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-9.15.mca
-[04:16:23] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-2.6.mca
-[04:16:23] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-20.8.mca
-[04:16:23] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-14.13.mca
-[04:16:23] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-8.11.mca
-[04:16:23] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-12.-10.mca
-[04:16:23] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.9.-17.mca
-[04:16:23] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.7.-4.mca
-[04:16:23] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.5.1.mca
-[04:16:23] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-7.-20.mca
-[04:16:23] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-6.1.mca
-[04:16:23] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-3.-5.mca
-[04:16:23] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.16.8.mca
-[04:16:23] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-25.8.mca
-[04:16:23] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-22.-9.mca
-[04:16:23] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-12.-17.mca
-[04:16:23] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-6.-1.mca
-[04:16:23] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.0.-3.mca
-[04:16:23] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-7.-14.mca
-[04:16:23] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-19.-9.mca
-[04:16:23] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-6.13.mca
-[04:16:23] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-12.0.mca
-[04:16:23] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.5.-12.mca
-[04:16:23] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-1.-7.mca
-[04:16:23] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.16.-6.mca
-[04:16:23] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-7.-4.mca
-[04:16:23] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.11.10.mca
-[04:16:23] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-3.-3.mca
-[04:16:23] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-2.-15.mca
-[04:16:23] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.19.0.mca
-[04:16:23] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-9.-7.mca
-[04:16:23] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-18.8.mca
-[04:16:23] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.3.-5.mca
-[04:16:23] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.8.-10.mca
-[04:16:23] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-4.1.mca
-[04:16:24] [ForkJoinPool.commonPool-worker-3/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-2.-1.mca
-[04:16:24] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-19.-7.mca
-[04:16:24] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-18.20.mca
-[04:16:24] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.8.16.mca
-[04:16:24] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-22.23.mca
-[04:16:24] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-24.-14.mca
-[04:16:24] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.0.11.mca
-[04:16:24] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-17.-19.mca
-[04:16:24] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.0.0.mca
-[04:16:25] [ForkJoinPool.commonPool-worker-1/INFO]: [bclib] Patching... 26%
-[04:16:25] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.8.13.mca
-[04:16:25] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.1.1.mca
-[04:16:25] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-6.2.mca
-[04:16:25] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.6.-7.mca
-[04:16:25] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.16.-12.mca
-[04:16:25] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.13.13.mca
-[04:16:25] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-24.-2.mca
-[04:16:25] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.17.-7.mca
-[04:16:25] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-5.0.mca
-[04:16:25] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-9.1.mca
-[04:16:25] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.13.-8.mca
-[04:16:25] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-5.8.mca
-[04:16:25] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-8.0.mca
-[04:16:25] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-9.-12.mca
-[04:16:25] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.10.13.mca
-[04:16:25] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-2.1.mca
-[04:16:25] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-22.18.mca
-[04:16:25] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.14.-5.mca
-[04:16:25] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-15.-10.mca
-[04:16:25] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-20.20.mca
-[04:16:25] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.3.11.mca
-[04:16:25] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-17.13.mca
-[04:16:25] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-22.-20.mca
-[04:16:25] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.1.-5.mca
-[04:16:25] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-2.-2.mca
-[04:16:25] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-6.3.mca
-[04:16:25] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-22.8.mca
-[04:16:25] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-19.11.mca
-[04:16:25] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.16.1.mca
-[04:16:25] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.3.-2.mca
-[04:16:25] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.1.5.mca
-[04:16:25] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-7.2.mca
-[04:16:25] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-24.3.mca
-[04:16:25] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-4.-7.mca
-[04:16:25] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.3.-14.mca
-[04:16:25] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.18.-12.mca
-[04:16:25] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.0.-2.mca
-[04:16:25] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-20.-2.mca
-[04:16:25] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.8.18.mca
-[04:16:25] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-8.-1.mca
-[04:16:25] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-7.-2.mca
-[04:16:25] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-5.-6.mca
-[04:16:25] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-9.-4.mca
-[04:16:25] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-3.4.mca
-[04:16:25] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.6.15.mca
-[04:16:25] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.18.-4.mca
-[04:16:25] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-6.-2.mca
-[04:16:25] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-15.-12.mca
-[04:16:25] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.10.3.mca
-[04:16:25] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.5.11.mca
-[04:16:25] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.0.-5.mca
-[04:16:25] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-15.1.mca
-[04:16:25] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-5.4.mca
-[04:16:25] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-5.13.mca
-[04:16:25] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.4.13.mca
-[04:16:25] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.13.16.mca
-[04:16:25] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-12.13.mca
-[04:16:25] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.15.-15.mca
-[04:16:25] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-5.-3.mca
-[04:16:25] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-7.-17.mca
-[04:16:25] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.16.-5.mca
-[04:16:25] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.7.-1.mca
-[04:16:25] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.11.-2.mca
-[04:16:25] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.6.-3.mca
-[04:16:25] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-19.-22.mca
-[04:16:25] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-17.6.mca
-[04:16:25] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-22.-2.mca
-[04:16:25] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.0.21.mca
-[04:16:25] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-6.4.mca
-[04:16:25] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-1.2.mca
-[04:16:25] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.18.-10.mca
-[04:16:25] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.0.18.mca
-[04:16:25] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-2.-4.mca
-[04:16:25] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-20.-17.mca
-[04:16:25] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.4.18.mca
-[04:16:25] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-2.2.mca
-[04:16:25] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-22.3.mca
-[04:16:25] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.15.6.mca
-[04:16:25] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-14.5.mca
-[04:16:25] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.15.-19.mca
-[04:16:25] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.8.-19.mca
-[04:16:25] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.1.0.mca
-[04:16:25] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-19.3.mca
-[04:16:25] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.8.3.mca
-[04:16:25] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-22.-16.mca
-[04:16:25] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.10.-17.mca
-[04:16:25] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-3.0.mca
-[04:16:26] [ForkJoinPool.commonPool-worker-1/INFO]: [bclib] Patching... 44%
-[04:16:26] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-12.-2.mca
-[04:16:26] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-9.-3.mca
-[04:16:26] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-7.-8.mca
-[04:16:26] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-4.-17.mca
-[04:16:26] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-13.21.mca
-[04:16:26] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-19.14.mca
-[04:16:26] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-15.11.mca
-[04:16:26] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-3.3.mca
-[04:16:26] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-6.-3.mca
-[04:16:26] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.13.-15.mca
-[04:16:26] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-3.18.mca
-[04:16:26] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.10.-15.mca
-[04:16:26] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-3.1.mca
-[04:16:27] [ForkJoinPool.commonPool-worker-3/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.18.20.mca
-[04:16:27] [ForkJoinPool.commonPool-worker-3/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-2.13.mca
-[04:16:27] [ForkJoinPool.commonPool-worker-3/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-4.-15.mca
-[04:16:27] [ForkJoinPool.commonPool-worker-3/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.0.1.mca
-[04:16:27] [ForkJoinPool.commonPool-worker-3/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-4.5.mca
-[04:16:27] [ForkJoinPool.commonPool-worker-3/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.11.15.mca
-[04:16:27] [ForkJoinPool.commonPool-worker-3/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-7.1.mca
-[04:16:27] [ForkJoinPool.commonPool-worker-3/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.2.-7.mca
-[04:16:27] [ForkJoinPool.commonPool-worker-3/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-3.-4.mca
-[04:16:27] [ForkJoinPool.commonPool-worker-3/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.8.6.mca
-[04:16:27] [ForkJoinPool.commonPool-worker-3/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.15.15.mca
-[04:16:27] [ForkJoinPool.commonPool-worker-3/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.11.7.mca
-[04:16:27] [ForkJoinPool.commonPool-worker-3/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-4.-5.mca
-[04:16:27] [ForkJoinPool.commonPool-worker-3/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-4.-4.mca
-[04:16:27] [ForkJoinPool.commonPool-worker-3/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-10.-9.mca
-[04:16:27] [ForkJoinPool.commonPool-worker-3/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.0.9.mca
-[04:16:27] [ForkJoinPool.commonPool-worker-3/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-5.-1.mca
-[04:16:27] [ForkJoinPool.commonPool-worker-3/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-18.0.mca
-[04:16:27] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.14.-12.mca
-[04:16:27] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-13.3.mca
-[04:16:27] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-24.-18.mca
-[04:16:27] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-10.6.mca
-[04:16:27] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.8.10.mca
-[04:16:27] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.18.-14.mca
-[04:16:27] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-25.-10.mca
-[04:16:27] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-4.-19.mca
-[04:16:27] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.9.-15.mca
-[04:16:27] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-2.3.mca
-[04:16:27] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-21.-15.mca
-[04:16:27] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.1.3.mca
-[04:16:27] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.15.-10.mca
-[04:16:27] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-7.4.mca
-[04:16:27] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.19.3.mca
-[04:16:27] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.8.-7.mca
-[04:16:27] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-24.-22.mca
-[04:16:27] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-5.3.mca
-[04:16:27] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.8.-12.mca
-[04:16:27] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-7.0.mca
-[04:16:27] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-2.-3.mca
-[04:16:27] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-25.-20.mca
-[04:16:27] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-3.8.mca
-[04:16:27] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-2.-19.mca
-[04:16:27] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-4.-1.mca
-[04:16:27] [ForkJoinPool.commonPool-worker-3/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.18.11.mca
-[04:16:27] [ForkJoinPool.commonPool-worker-3/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-12.-4.mca
-[04:16:27] [ForkJoinPool.commonPool-worker-3/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.0.5.mca
-[04:16:27] [ForkJoinPool.commonPool-worker-3/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-4.3.mca
-[04:16:27] [ForkJoinPool.commonPool-worker-3/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-25.16.mca
-[04:16:27] [ForkJoinPool.commonPool-worker-3/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-12.8.mca
-[04:16:27] [ForkJoinPool.commonPool-worker-3/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-6.-6.mca
-[04:16:27] [ForkJoinPool.commonPool-worker-3/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-4.-2.mca
-[04:16:27] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-12.18.mca
-[04:16:27] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.1.-2.mca
-[04:16:27] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.18.16.mca
-[04:16:27] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-6.-12.mca
-[04:16:27] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-10.-19.mca
-[04:16:27] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-7.-10.mca
-[04:16:27] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-20.-15.mca
-[04:16:27] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-7.8.mca
-[04:16:27] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.1.-1.mca
-[04:16:27] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-15.3.mca
-[04:16:27] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-20.-5.mca
-[04:16:27] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-8.1.mca
-[04:16:27] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-12.10.mca
-[04:16:27] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-22.16.mca
-[04:16:27] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-20.16.mca
-[04:16:27] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.13.-20.mca
-[04:16:27] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.17.-2.mca
-[04:16:27] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-8.-4.mca
-[04:16:27] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-8.3.mca
-[04:16:27] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-3.-6.mca
-[04:16:27] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.11.6.mca
-[04:16:27] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-17.-4.mca
-[04:16:27] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.5.13.mca
-[04:16:27] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-22.1.mca
-[04:16:27] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.13.-10.mca
-[04:16:27] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-24.13.mca
-[04:16:27] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.12.7.mca
-[04:16:27] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-8.-5.mca
-[04:16:27] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./poi/r.-3.1.mca
-[04:16:27] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./poi/r.-3.-2.mca
-[04:16:27] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./poi/r.-1.-1.mca
-[04:16:27] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./poi/r.-2.1.mca
-[04:16:27] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./poi/r.-4.0.mca
-[04:16:27] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./poi/r.-3.-1.mca
-[04:16:27] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./poi/r.-2.0.mca
-[04:16:27] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./poi/r.-2.-1.mca
-[04:16:27] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./poi/r.-4.-1.mca
-[04:16:27] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./poi/r.-4.1.mca
-[04:16:27] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./poi/r.0.0.mca
-[04:16:27] [ForkJoinPool.commonPool-worker-1/INFO]: [bclib] Patching... 66%
-[04:16:27] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./poi/r.-2.-2.mca
-[04:16:27] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./poi/r.0.-1.mca
-[04:16:27] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./poi/r.-1.-2.mca
-[04:16:27] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./poi/r.-1.0.mca
-[04:16:27] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./poi/r.-1.1.mca
-[04:16:27] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./poi/r.-3.0.mca
-[04:16:27] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-24.19.mca
-[04:16:27] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-4.4.mca
-[04:16:27] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.0.-15.mca
-[04:16:27] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.11.-12.mca
-[04:16:27] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.15.13.mca
-[04:16:27] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.10.-20.mca
-[04:16:27] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.3.7.mca
-[04:16:27] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-24.1.mca
-[04:16:27] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-22.-4.mca
-[04:16:27] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-4.2.mca
-[04:16:27] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.13.2.mca
-[04:16:27] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.5.7.mca
-[04:16:27] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-12.-20.mca
-[04:16:27] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-22.11.mca
-[04:16:27] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.0.3.mca
-[04:16:27] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-1.1.mca
-[04:16:27] [ForkJoinPool.commonPool-worker-3/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-7.5.mca
-[04:16:27] [ForkJoinPool.commonPool-worker-3/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-7.3.mca
-[04:16:27] [ForkJoinPool.commonPool-worker-3/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.18.8.mca
-[04:16:27] [ForkJoinPool.commonPool-worker-3/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.10.18.mca
-[04:16:27] [ForkJoinPool.commonPool-worker-3/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.3.-12.mca
-[04:16:27] [ForkJoinPool.commonPool-worker-3/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-6.0.mca
-[04:16:27] [ForkJoinPool.commonPool-worker-3/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.0.-6.mca
-[04:16:27] [ForkJoinPool.commonPool-worker-3/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-9.13.mca
-[04:16:27] [ForkJoinPool.commonPool-worker-3/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.5.-20.mca
-[04:16:27] [ForkJoinPool.commonPool-worker-3/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-16.18.mca
-[04:16:27] [ForkJoinPool.commonPool-worker-3/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-18.-14.mca
-[04:16:27] [ForkJoinPool.commonPool-worker-3/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-9.-6.mca
-[04:16:27] [ForkJoinPool.commonPool-worker-3/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.3.-20.mca
-[04:16:27] [ForkJoinPool.commonPool-worker-3/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-19.6.mca
-[04:16:27] [ForkJoinPool.commonPool-worker-3/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-2.4.mca
-[04:16:27] [ForkJoinPool.commonPool-worker-3/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-10.0.mca
-[04:16:27] [ForkJoinPool.commonPool-worker-3/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.3.-17.mca
-[04:16:27] [ForkJoinPool.commonPool-worker-3/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.8.20.mca
-[04:16:27] [ForkJoinPool.commonPool-worker-3/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-24.-12.mca
-[04:16:27] [ForkJoinPool.commonPool-worker-3/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-1.3.mca
-[04:16:27] [ForkJoinPool.commonPool-worker-3/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-2.10.mca
-[04:16:27] [ForkJoinPool.commonPool-worker-3/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.18.13.mca
-[04:16:27] [ForkJoinPool.commonPool-worker-3/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-2.-17.mca
-[04:16:27] [ForkJoinPool.commonPool-worker-3/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-15.-2.mca
-[04:16:27] [ForkJoinPool.commonPool-worker-3/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-25.20.mca
-[04:16:27] [ForkJoinPool.commonPool-worker-3/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.12.19.mca
-[04:16:27] [ForkJoinPool.commonPool-worker-3/INFO]: [DataFixerAPI] Inspecting ./world/./entities/r.-3.0.mca
-[04:16:27] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.11.20.mca
-[04:16:27] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-10.3.mca
-[04:16:27] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-17.11.mca
-[04:16:27] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-5.20.mca
-[04:16:27] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-15.-17.mca
-[04:16:27] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.13.-1.mca
-[04:16:27] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.18.-17.mca
-[04:16:27] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-19.17.mca
-[04:16:27] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-1.-3.mca
-[04:16:27] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-17.16.mca
-[04:16:27] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-25.6.mca
-[04:16:27] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.1.4.mca
-[04:16:27] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.3.15.mca
-[04:16:27] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.10.0.mca
-[04:16:27] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-7.-1.mca
-[04:16:27] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.5.17.mca
-[04:16:27] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.16.10.mca
-[04:16:27] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-6.-4.mca
-[04:16:27] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-7.15.mca
-[04:16:27] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-10.10.mca
-[04:16:27] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-11.6.mca
-[04:16:27] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.16.-2.mca
-[04:16:27] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-4.-12.mca
-[04:16:27] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-2.-7.mca
-[04:16:27] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-19.0.mca
-[04:16:27] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-10.20.mca
-[04:16:27] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.0.-20.mca
-[04:16:27] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.0.15.mca
-[04:16:27] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-5.2.mca
-[04:16:27] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.7.8.mca
-[04:16:27] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-7.18.mca
-[04:16:27] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.10.-5.mca
-[04:16:27] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.0.-10.mca
-[04:16:27] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.3.20.mca
-[04:16:27] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-10.-15.mca
-[04:16:27] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-1.0.mca
-[04:16:28] [ForkJoinPool.commonPool-worker-3/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/region/r.-1.-1.mca
-[04:16:28] [ForkJoinPool.commonPool-worker-3/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/region/r.0.0.mca
-[04:16:28] [ForkJoinPool.commonPool-worker-3/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/region/r.0.-1.mca
-[04:16:28] [ForkJoinPool.commonPool-worker-3/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/region/r.-1.0.mca
-[04:16:28] [ForkJoinPool.commonPool-worker-3/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/entities/r.0.0.mca
-[04:16:28] [ForkJoinPool.commonPool-worker-3/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/entities/r.0.-1.mca
-[04:16:28] [ForkJoinPool.commonPool-worker-3/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/entities/r.-1.0.mca
-[04:16:28] [ForkJoinPool.commonPool-worker-3/INFO]: [DataFixerAPI] Inspecting ./world/./DIM-1/poi/r.-1.-1.mca
-[04:16:28] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./entities/r.-3.1.mca
-[04:16:28] [ForkJoinPool.commonPool-worker-3/INFO]: [DataFixerAPI] Inspecting ./world/./DIM-1/poi/r.-4.0.mca
-[04:16:28] [ForkJoinPool.commonPool-worker-3/INFO]: [DataFixerAPI] Inspecting ./world/./DIM-1/poi/r.-2.0.mca
-[04:16:28] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./entities/r.-3.-2.mca
-[04:16:28] [ForkJoinPool.commonPool-worker-3/INFO]: [DataFixerAPI] Inspecting ./world/./DIM-1/poi/r.-2.-1.mca
-[04:16:28] [ForkJoinPool.commonPool-worker-3/INFO]: [DataFixerAPI] Inspecting ./world/./DIM-1/poi/r.0.0.mca
-[04:16:28] [ForkJoinPool.commonPool-worker-3/INFO]: [DataFixerAPI] Inspecting ./world/./DIM-1/poi/r.0.-1.mca
-[04:16:28] [ForkJoinPool.commonPool-worker-3/INFO]: [DataFixerAPI] Inspecting ./world/./DIM-1/poi/r.-1.0.mca
-[04:16:28] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./entities/r.-1.-1.mca
-[04:16:28] [ForkJoinPool.commonPool-worker-3/INFO]: [DataFixerAPI] Inspecting ./world/./DIM-1/poi/r.-3.0.mca
-[04:16:28] [ForkJoinPool.commonPool-worker-3/INFO]: [DataFixerAPI] Inspecting ./world/./DIM-1/region/r.-1.-1.mca
-[04:16:28] [main/INFO]: [bclib] Patching... 88%
-[04:16:28] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-17.-9.mca
-[04:16:28] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-15.-20.mca
-[04:16:28] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.10.-9.mca
-[04:16:28] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.18.5.mca
-[04:16:28] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.13.0.mca
-[04:16:28] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-10.-2.mca
-[04:16:28] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-19.23.mca
-[04:16:28] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-25.23.mca
-[04:16:28] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./entities/r.-2.1.mca
-[04:16:28] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./entities/r.-4.0.mca
-[04:16:28] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./entities/r.-3.-1.mca
-[04:16:28] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./entities/r.-2.0.mca
-[04:16:28] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./entities/r.-2.-1.mca
-[04:16:29] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./entities/r.-4.-1.mca
-[04:16:29] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./entities/r.-4.1.mca
-[04:16:29] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./entities/r.0.0.mca
-[04:16:29] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./entities/r.-2.-2.mca
-[04:16:29] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./entities/r.0.-1.mca
-[04:16:29] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./entities/r.-1.-2.mca
-[04:16:29] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./entities/r.-1.0.mca
-[04:16:29] [ForkJoinPool.commonPool-worker-3/INFO]: [DataFixerAPI] Inspecting ./world/./DIM-1/region/r.-4.0.mca
-[04:16:29] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-8.5.mca
-[04:16:29] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-7.-3.mca
-[04:16:29] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.3.1.mca
-[04:16:29] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.5.-10.mca
-[04:16:29] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.6.20.mca
-[04:16:29] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.0.-12.mca
-[04:16:29] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.3.3.mca
-[04:16:29] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-15.21.mca
-[04:16:29] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.5.-17.mca
-[04:16:29] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-22.-7.mca
-[04:16:29] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.1.-3.mca
-[04:16:29] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.13.5.mca
-[04:16:29] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-17.-17.mca
-[04:16:29] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-10.17.mca
-[04:16:29] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-9.-17.mca
-[04:16:29] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.6.-14.mca
-[04:16:29] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-20.-12.mca
-[04:16:29] [ForkJoinPool.commonPool-worker-3/INFO]: [DataFixerAPI] Inspecting ./world/./DIM-1/region/r.-2.0.mca
-[04:16:29] [ForkJoinPool.commonPool-worker-3/INFO]: [bclib] Patching... 97%
-[04:16:29] [ForkJoinPool.commonPool-worker-3/INFO]: [DataFixerAPI] Inspecting ./world/./DIM-1/region/r.-2.-1.mca
-[04:16:29] [ForkJoinPool.commonPool-worker-3/INFO]: [DataFixerAPI] Inspecting ./world/./DIM-1/region/r.0.0.mca
-[04:16:29] [ForkJoinPool.commonPool-worker-3/INFO]: [DataFixerAPI] Inspecting ./world/./DIM-1/region/r.0.-1.mca
-[04:16:30] [ForkJoinPool.commonPool-worker-3/INFO]: [DataFixerAPI] Inspecting ./world/./DIM-1/region/r.-1.0.mca
-[04:16:30] [ForkJoinPool.commonPool-worker-3/INFO]: [DataFixerAPI] Inspecting ./world/./DIM-1/region/r.-3.0.mca
-[04:16:30] [ForkJoinPool.commonPool-worker-3/INFO]: [bclib] Patching... 98%
-[04:16:30] [ForkJoinPool.commonPool-worker-3/INFO]: [DataFixerAPI] Inspecting ./world/./DIM-1/entities/r.-1.-1.mca
-[04:16:30] [ForkJoinPool.commonPool-worker-3/INFO]: [DataFixerAPI] Inspecting ./world/./DIM-1/entities/r.0.0.mca
-[04:16:30] [ForkJoinPool.commonPool-worker-3/INFO]: [DataFixerAPI] Inspecting ./world/./DIM-1/entities/r.0.-1.mca
-[04:16:30] [ForkJoinPool.commonPool-worker-3/INFO]: [DataFixerAPI] Inspecting ./world/./DIM-1/entities/r.-1.0.mca
-[04:16:30] [ForkJoinPool.commonPool-worker-3/INFO]: [DataFixerAPI] Inspecting ./world/./DIM-1/entities/r.-3.0.mca
-[04:16:30] [main/INFO]: [bclib] Patcher Stage... Saving Patch State%
-[04:16:30] [main/INFO]: [DataFixerAPI] Updating Patch-Level for 'bclib' from 0.0.0 to 3.0.11
-[04:16:31] [main/INFO]: [bclib] Did not manage biome betterend:empty_aurora_cave
-[04:16:31] [main/INFO]: [bclib] Did not manage biome betterend:empty_end_cave
-[04:16:31] [main/INFO]: [bclib] Did not manage biome betterend:empty_smaragdant_cave
-[04:16:31] [main/INFO]: [bclib] Did not manage biome betterend:jade_cave
-[04:16:31] [main/INFO]: [bclib] Did not manage biome betterend:lush_aurora_cave
-[04:16:31] [main/INFO]: [bclib] Did not manage biome betterend:lush_smaragdant_cave
-[04:16:31] [main/INFO]: [bclib] Did not manage biome betterend:megalake_grove
-[04:16:31] [main/INFO]: [bclib] Did not manage biome betterend:neon_oasis
-[04:16:31] [main/INFO]: [bclib] Did not manage biome betterend:painted_mountains
-[04:16:31] [main/ERROR]: Invalid path in mod resource-pack mr_stellarity: fokastudio:worldgen/biome/README.md, ignoring
-[04:16:32] [main/INFO]: StructureSet modified for minecraft:village : Now using custom village configuration (can be disabled in the better villages config: boolean.villages.enabled_custom_config).
-[04:16:33] [main/INFO]: [bclib] Updating Pickers for BCLib - The End  BiomeSource (669413de)
-[04:16:33] [main/INFO]: [bclib] Unable to build Biome List yet
-[04:16:33] [main/INFO]: [bclib] No Void Biomes found. Disabling by using barrens
-[04:16:33] [main/INFO]: [bclib] No Barrens Biomes found. Disabling by using land Biomes
-[04:16:33] [main/WARN]: [bclib] No Center Island Biomes found. Forcing use of vanilla center.
-[04:16:33] [main/INFO]: [bclib] Make sure features are loaded from terrablender:org.betterx.bclib.api.v2.generator.BCLibEndBiomeSource
-[04:16:33] [main/INFO]: [bclib] Updating Pickers for BCLib - Nether BiomeSource (75603f12)
-[04:16:33] [main/INFO]: [bclib] Unable to build Biome List yet
-[04:16:33] [main/INFO]: [bclib] Make sure features are loaded from terrablender:org.betterx.bclib.api.v2.generator.BCLibNetherBiomeSource
-[04:16:33] [main/INFO]: [bclib] Updating Pickers for BCLib - The End  BiomeSource (7c1261b1)
-[04:16:33] [main/INFO]: [bclib] Unable to build Biome List yet
-[04:16:33] [main/INFO]: [bclib] No Void Biomes found. Disabling by using barrens
-[04:16:33] [main/INFO]: [bclib] No Barrens Biomes found. Disabling by using land Biomes
-[04:16:33] [main/WARN]: [bclib] No Center Island Biomes found. Forcing use of vanilla center.
-[04:16:33] [main/INFO]: [bclib] Make sure features are loaded from terrablender:org.betterx.bclib.api.v2.generator.BCLibEndBiomeSource
-[04:16:33] [main/INFO]: [bclib] Updating Pickers for BCLib - Nether BiomeSource (67206a2f)
-[04:16:33] [main/INFO]: [bclib] Unable to build Biome List yet
-[04:16:33] [main/INFO]: [bclib] Make sure features are loaded from terrablender:org.betterx.bclib.api.v2.generator.BCLibNetherBiomeSource
-[04:16:33] [main/INFO]: [bclib] Updating Pickers for BCLib - The End  BiomeSource (6c48f22e)
-[04:16:33] [main/INFO]: [bclib] Unable to build Biome List yet
-[04:16:33] [main/INFO]: [bclib] No Void Biomes found. Disabling by using barrens
-[04:16:33] [main/INFO]: [bclib] No Barrens Biomes found. Disabling by using land Biomes
-[04:16:33] [main/WARN]: [bclib] No Center Island Biomes found. Forcing use of vanilla center.
-[04:16:33] [main/INFO]: [bclib] Make sure features are loaded from terrablender:org.betterx.bclib.api.v2.generator.BCLibEndBiomeSource
-[04:16:33] [main/INFO]: [bclib] Updating Pickers for BCLib - Nether BiomeSource (109f6d74)
-[04:16:33] [main/INFO]: [bclib] Unable to build Biome List yet
-[04:16:33] [main/INFO]: [bclib] Make sure features are loaded from terrablender:org.betterx.bclib.api.v2.generator.BCLibNetherBiomeSource
-[04:16:33] [main/INFO]: [bclib] Updating Pickers for BCLib - The End  BiomeSource (7e77e8)
-[04:16:33] [main/INFO]: [bclib] Unable to build Biome List yet
-[04:16:33] [main/INFO]: [bclib] No Void Biomes found. Disabling by using barrens
-[04:16:33] [main/INFO]: [bclib] No Barrens Biomes found. Disabling by using land Biomes
-[04:16:33] [main/WARN]: [bclib] No Center Island Biomes found. Forcing use of vanilla center.
-[04:16:33] [main/INFO]: [bclib] Make sure features are loaded from terrablender:org.betterx.bclib.api.v2.generator.BCLibEndBiomeSource
-[04:16:33] [main/INFO]: [bclib] Updating Pickers for BCLib - Nether BiomeSource (6bcaa37)
-[04:16:33] [main/INFO]: [bclib] Unable to build Biome List yet
-[04:16:33] [main/INFO]: [bclib] Make sure features are loaded from terrablender:org.betterx.bclib.api.v2.generator.BCLibNetherBiomeSource
-[04:16:33] [main/WARN]: [bclib] No valid BCLBiome Registry available!
-[04:16:33] [main/WARN]: [bclib] No valid Biome Registry available!
-[04:16:33] [main/INFO]: [fabric-registry-sync] Loaded registry data [file 1/4]
-[04:16:33] [main/INFO]: [bclib] Updating Pickers for BCLib - Nether BiomeSource (7a2c5ba8)
-[04:16:33] [main/INFO]: [bclib] Unable to build Biome List yet
-[04:16:33] [main/INFO]: [bclib] Make sure features are loaded from terrablender:org.betterx.bclib.api.v2.generator.BCLibNetherBiomeSource
-[04:16:33] [main/INFO]: [bclib] Updating Pickers for BCLib - The End  BiomeSource (72d9ec42)
-[04:16:33] [main/INFO]: [bclib] Unable to build Biome List yet
-[04:16:33] [main/INFO]: [bclib] No Void Biomes found. Disabling by using barrens
-[04:16:33] [main/INFO]: [bclib] No Barrens Biomes found. Disabling by using land Biomes
-[04:16:33] [main/WARN]: [bclib] No Center Island Biomes found. Forcing use of vanilla center.
-[04:16:33] [main/INFO]: [bclib] Make sure features are loaded from terrablender:org.betterx.bclib.api.v2.generator.BCLibEndBiomeSource
-[04:16:34] [Worker-Main-3/ERROR]: Couldn't load tag create:pressurized_air_sources as it is missing following references: deeperdarker:warden_backtank (from fabric)
-[04:16:35] [Worker-Main-3/ERROR]: Couldn't parse element loot_tables:deeperdarker:blocks/warden_backtank
+[15:13:29] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/das/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.16.3+mixin.0.8.7/sponge-mixin-0.16.3+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[15:13:29] [main/INFO]: Compatibility level set to JAVA_17
+[15:13:30] [main/INFO]: Compatibility level set to JAVA_21
+[15:13:30] [main/WARN]: Reference map '[common]ctov-common-refmap.json' for ctov-common.mixins.json could not be read. If this is a development environment you can ignore this message
+[15:13:30] [main/WARN]: Reference map 'formationsnether.mixins.refmap.json' for formationsnether.mixins.json could not be read. If this is a development environment you can ignore this message
+[15:13:30] [main/WARN]: Reference map 'formationsoverworld.mixins.refmap.json' for formationsoverworld.mixins.json could not be read. If this is a development environment you can ignore this message
+[15:13:30] [main/INFO]: Loaded configuration file for Lithium: 115 options available, 2 override(s) found
+[15:13:30] [main/INFO]: Loaded configuration file for ModernFix 5.19.4+mc1.20.1: 61 options available, 1 override(s) found
+[15:13:30] [main/WARN]: Option 'mixin.perf.thread_priorities' overriden (by mods [threadtweak]) to 'false'
+[15:13:30] [main/INFO]: Applying Nashorn fix
+[15:13:30] [main/INFO]: Successfully started async appender with [ServerGuiConsole, SysOut, File]
+[15:13:30] [main/WARN]: Reference map 'yungsextras.refmap.json' for yungsextras.mixins.json could not be read. If this is a development environment you can ignore this message
+[15:13:30] [main/WARN]: Reference map 'yungsextras.refmap.json' for yungsextras_fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[15:13:30] [main/WARN]: Error loading class: net/minecraft/class_761 (java.lang.ClassNotFoundException: net/minecraft/class_761)
+[15:13:30] [main/WARN]: @Mixin target net.minecraft.class_761 was not found accessories-common.mixins.json:LevelRendererAccessor from mod accessories
+[15:13:31] [main/WARN]: Error loading class: net/minecraft/class_638$class_5271 (java.lang.ClassNotFoundException: net/minecraft/class_638$class_5271)
+[15:13:31] [main/WARN]: @Mixin target net.minecraft.class_638$class_5271 was not found cavedust.mixins.json:ClientWorldAccessor from mod cavedust
+[15:13:31] [main/WARN]: Error loading class: net/minecraft/class_340 (java.lang.ClassNotFoundException: net/minecraft/class_340)
+[15:13:31] [main/WARN]: @Mixin target net.minecraft.class_340 was not found cavedust.mixins.json:MixinDebugScreenOverlay from mod cavedust
+[15:13:31] [main/WARN]: Force-disabling mixin 'alloc.blockstate.StateMixin' as rule 'mixin.alloc.blockstate' (added by mods [ferritecore]) disables it and children
+[15:13:31] [main/WARN]: Force-disabling mixin 'world.player_chunk_tick.ThreadedAnvilChunkStorageMixin' as rule 'mixin.world.player_chunk_tick' (added by mods [vmp]) disables it and children
+[15:13:31] [main/WARN]: Error loading class: fr/catcore/server/translations/api/resource/language/SystemDelegatedLanguage (java.lang.ClassNotFoundException: fr/catcore/server/translations/api/resource/language/SystemDelegatedLanguage)
+[15:13:31] [main/WARN]: Error loading class: com/ishland/c2me/notickvd/common/NoTickChunkSendingInterceptor (java.lang.ClassNotFoundException: com/ishland/c2me/notickvd/common/NoTickChunkSendingInterceptor)
+[15:13:32] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.5.0).
+[15:13:32] [main/INFO]: ThreadTweak config initialized
+[15:13:34] [main/WARN]: @ModifyVariable(@At("INVOKE")) Shift.BY=2 on accessories-fabric.mixins.json:LivingEntityMixin from mod accessories::localvar$zza000$accessories$adjustLooting exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
+[15:13:35] [main/INFO]: Injecting BlockStateBase cache population hook into getNeighborPathNodeType from me.jellysquid.mods.lithium.mixin.ai.pathing.AbstractBlockStateMixin
+[15:13:35] [main/INFO]: Injecting BlockStateBase cache population hook into getPathNodeType from me.jellysquid.mods.lithium.mixin.ai.pathing.AbstractBlockStateMixin
+[15:13:35] [main/INFO]: Injecting BlockStateBase cache population hook into getOpacityIfCached from ca.spottedleaf.starlight.mixin.common.blockstate.BlockStateBaseMixin
+[15:13:35] [main/INFO]: Injecting BlockStateBase cache population hook into isConditionallyFullOpaque from ca.spottedleaf.starlight.mixin.common.blockstate.BlockStateBaseMixin
+[15:13:35] [main/INFO]: Injecting BlockStateBase cache population hook into getAllFlags from me.jellysquid.mods.lithium.mixin.util.block_tracking.AbstractBlockStateMixin
+[15:13:37] [main/WARN]: @Inject(@At("INVOKE")) Shift.BY=2 on accessories-common.mixins.json:NbtCompoundMixin from mod accessories::handler$zzl000$accessories$adjustCheckForListVariants exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
+[15:13:37] [main/WARN]: Method overwrite conflict for method_21740 in modernfix-common.mixins.json:perf.remove_biome_temperature_cache.BiomeMixin from mod modernfix, previously written by me.jellysquid.mods.lithium.mixin.world.temperature_cache.BiomeMixin. Skipping method.
+[15:13:37] [main/INFO]: Vanilla bootstrap took 5368 milliseconds
+[15:13:38] [main/INFO]: Registering Listeners!
+[15:13:38] [main/INFO]: [bclib] Added Config bclib.generator to auto sync (file hash)
+[15:13:38] [main/INFO]: [bclib] Added Config bclib.main to auto sync (content diff)
+[15:13:38] [main/INFO]: [bclib] Added Config bclib.biomes to auto sync (file hash)
+[15:13:38] [main/INFO]: Reflections took 38 ms to scan 1 urls, producing 1 keys and 2 values
+[15:13:38] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 2 values
+[15:13:38] [main/INFO]: [bclib] Added Config betterend.entities to auto sync (file hash)
+[15:13:38] [main/INFO]: [bclib] Added Config betterend.blocks to auto sync (file hash)
+[15:13:38] [main/INFO]: [bclib] Added Config betterend.items to auto sync (file hash)
+[15:13:38] [main/INFO]: [bclib] Added Config betterend.biomes to auto sync (file hash)
+[15:13:38] [main/INFO]: [bclib] Added Config betterend.recipes to auto sync (file hash)
+[15:13:38] [main/INFO]: [bclib] Added Config betterend.enchantments to auto sync (file hash)
+[15:13:39] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 2 values
+[15:13:39] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 2 values
+[15:13:39] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 1 values
+[15:13:39] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 1 values
+[15:13:39] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 1 values
+[15:13:39] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 1 values
+[15:13:39] [main/INFO]: [STDOUT]: All 6 have been set properly
+[15:13:39] [main/INFO]: Cactus Config is being initialized.
+[15:13:39] [main/INFO]: Loading Collective version 8.3.
+[15:13:39] [main/INFO]: general
+[15:13:39] [main/INFO]: individual
+[15:13:39] [main/INFO]: Bypassed Mojang DFU
+[15:13:39] [main/INFO]: Instantiating Mojang DFU
+[15:13:39] [main/ERROR]: No data fixer registered for crystallized_amber
+[15:13:39] [main/ERROR]: No data fixer registered for sculk_jaw
+[15:13:39] [main/INFO]: Constructing common components for easyshulkerboxes:main
+[15:13:40] [main/INFO]: Horse Buff Initialized
+[15:13:40] [main/INFO]: [jamlib] Mod initialized!
+[15:13:40] [main/INFO]: Ksyxis: Booting... (platform: Fabric/KFabric, manual: false)
+[15:13:40] [main/INFO]: Ksyxis: Ready. As always, this mod will speed up your world loading and might or might not break it. (mixinVersion: 0.8.7, time: 0 ms)
+[15:13:40] [main/INFO]: Initialize mod Library Ferret
+[15:13:40] [main/INFO]: Initialized mod Library Ferret
+[15:13:41] [main/INFO]: Created game rule mediumcoreMode
+[15:13:41] [main/INFO]: Giving mobs a fresh coat of paint...
+[15:13:41] [main/INFO]: Loading Noisium.
+[15:13:41] [main/INFO]: chyz: bro, can you stop breathing
+[15:13:41] [main/INFO]: Constructing common components for puzzlesapi:iteminteractions
+[15:13:41] [main/INFO]: Constructing common components for puzzlesapi:slotcycling
+[15:13:41] [main/INFO]: Constructing common components for puzzlesapi:limitlesscontainers
+[15:13:41] [main/INFO]: Constructing common components for puzzlesapi:statues
+[15:13:41] [main/INFO]: Constructing common components for puzzleslib:main
+[15:13:41] [main/INFO]: [rightclickharvest] Initializing VersionUtils
+[15:13:41] [main/INFO]: [rightclickharvest] VersionUtils initialized successfully
+[15:13:41] [main/INFO]: [jamlib] Registered config for rightclickharvest
+[15:13:41] [main/INFO]: [rightclickharvest] Mod initialized!
+[15:13:41] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:request_tags_c2s
+[15:13:41] [main/INFO]: [REI] Registered plugin provider DefaultPlugin [roughlyenoughitems] for REIPlugin
+[15:13:41] [main/INFO]: [REI] Registered plugin provider DefaultRuntimePlugin [roughlyenoughitems] for REIPlugin
+[15:13:41] [main/INFO]: [REI] Registered plugin provider DefaultPlugin [roughlyenoughitems] for REIServerPlugin
+[15:13:41] [main/INFO]: [REI] Registered plugin provider DefaultRuntimePlugin [roughlyenoughitems] for REIServerPlugin
+[15:13:41] [main/INFO]: [REI] Registered plugin provider FabricFluidAPISupportPlugin for REIServerPlugin
+[15:13:41] [main/INFO]: [REI] Registered plugin provider FabricFluidAPISupportPlugin for REIPlugin
+[15:13:41] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:delete_item
+[15:13:41] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:create_item
+[15:13:41] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:create_item_grab
+[15:13:41] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:create_item_hotbar
+[15:13:41] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:move_items
+[15:13:41] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:move_items_new
+[15:13:41] [main/INFO]: Hello Fabric world!
+[15:13:41] [main/INFO]: Sushi of the day: New York roll
+[15:13:41] [main/INFO]: Registered region minecraft:overworld to index 0 for type OVERWORLD
+[15:13:41] [main/INFO]: Registered region minecraft:nether to index 0 for type NETHER
+[15:13:41] [main/INFO]: Registered region yungscavebiomes:overworld to index 1 for type OVERWORLD
+[15:13:41] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:water for Water (Fluid Amount Required: 81000) with the ID 0
+[15:13:41] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:lava for Lava (Fluid Amount Required: 81000) with the ID 1
+[15:13:41] [main/INFO]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for block.travelersbackpack.potion_still (Fluid Amount Required: 27000) with the ID 2
+[15:13:41] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:milk for Air (Fluid Amount Required: 81000) with the ID 3
+[15:13:42] [main/INFO]: [STDOUT]: TxniLib onInitialize!
+[15:13:42] [main/INFO]: Constructing common components for visualworkbench:main
+[15:13:42] [main/INFO]: Wabi-Sabi Structures initialized
+[15:13:42] [main/INFO]: Reflections took 6 ms to scan 1 urls, producing 1 keys and 4 values
+[15:13:42] [main/INFO]: Reflections took 3 ms to scan 1 urls, producing 1 keys and 4 values
+[15:13:42] [main/INFO]: Reflections took 42 ms to scan 1 urls, producing 5 keys and 65 values
+[15:13:42] [main/INFO]: Reflections took 21 ms to scan 1 urls, producing 5 keys and 65 values
+[15:13:42] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 2 values
+[15:13:42] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 2 values
+[15:13:42] [main/INFO]: Registering C2S receiver with id skin_changer:mbechannel/c6416779da663f62836ae72f0509aa3e
+[15:13:42] [main/INFO]: Registering C2S receiver with id skin_changer:mbechannel/8489ea5ae87e3a6199b65ea21ca8f8c8
+[15:13:42] [main/INFO]: Initializing 'Better Statistics Screen' as 'BetterStatsServer'.
+[15:13:43] [main/INFO]: Initializing 'TCD Commons API' 3.12.3+fabric-1.20.1 as 'TCDCommonsServer'.
+[15:13:43] [main/INFO]: Loading Xaero's Minimap - Stage 1/2 (Server)
+[15:13:43] [main/INFO]: Loading Xaero's World Map - Stage 1/2 (Server)
+[15:13:43] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[15:13:43] [main/INFO]: [DataFixerAPI] Applying Patch{bclib:3.0.11:12582923}
+[15:13:43] [main/INFO]: [bclib] Running Pre Patchers on ./world/.
+[15:13:43] [main/WARN]: [bclib] Applying Fixes on Level
+[15:13:43] [main/INFO]: [bclib] Patcher Stage... Reading Data%
+[15:13:43] [main/INFO]: [bclib] Patcher Stage... Fixing Players%
+[15:13:43] [main/INFO]: [DataFixerAPI] Inspecting ./world/./playerdata/0028ef8a-87f4-319c-9bf3-7be93d077d41.dat
+[15:13:43] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./playerdata/afc4c9dd-8d66-358b-8b8b-98baedbba298.dat
+[15:13:43] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./playerdata/f0c00d82-0d58-3b89-af0b-9c6838e550a1.dat
+[15:13:43] [main/INFO]: [bclib] Patcher Stage... Applying Patches to level.dat%
+[15:13:43] [main/INFO]: [DataFixerAPI] Inspecting level.dat in ./world/.
+[15:13:43] [main/INFO]: [bclib] Patcher Stage... Patching Custom World-Data%
+[15:13:43] [main/INFO]: [bclib] Patcher Stage... Repairing all Regions%
+[15:13:43] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-9.-2.mca
+[15:13:43] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-4.10.mca
+[15:13:43] [ForkJoinPool.commonPool-worker-3/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-20.-17.mca
+[15:13:43] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-17.-8.mca
+[15:13:43] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-5.-4.mca
+[15:13:43] [ForkJoinPool.commonPool-worker-3/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.4.18.mca
+[15:13:43] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.13.11.mca
+[15:13:43] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-17.-2.mca
+[15:13:43] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.11.-7.mca
+[15:13:43] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-3.2.mca
+[15:13:43] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.1.2.mca
+[15:13:43] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-10.9.mca
+[15:13:43] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-3.-9.mca
+[15:13:43] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.0.2.mca
+[15:13:43] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.0.-4.mca
+[15:13:43] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.15.-17.mca
+[15:13:43] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-1.-4.mca
+[15:13:43] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.1.-17.mca
+[15:13:43] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-17.-12.mca
+[15:13:43] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-4.0.mca
+[15:13:43] [ForkJoinPool.commonPool-worker-3/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-2.2.mca
+[15:13:43] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-4.-9.mca
+[15:13:43] [ForkJoinPool.commonPool-worker-3/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-22.3.mca
+[15:13:43] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-4.-3.mca
+[15:13:43] [ForkJoinPool.commonPool-worker-3/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.15.6.mca
+[15:13:43] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-22.-22.mca
+[15:13:43] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-7.20.mca
+[15:13:43] [ForkJoinPool.commonPool-worker-3/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-14.5.mca
+[15:13:43] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.16.3.mca
+[15:13:43] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-5.1.mca
+[15:13:43] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-12.-7.mca
+[15:13:43] [ForkJoinPool.commonPool-worker-3/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.15.-19.mca
+[15:13:43] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-2.-5.mca
+[15:13:43] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-3.-2.mca
+[15:13:43] [ForkJoinPool.commonPool-worker-3/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.8.-19.mca
+[15:13:43] [ForkJoinPool.commonPool-worker-3/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.1.0.mca
+[15:13:43] [ForkJoinPool.commonPool-worker-3/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-19.3.mca
+[15:13:43] [ForkJoinPool.commonPool-worker-3/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.8.3.mca
+[15:13:43] [ForkJoinPool.commonPool-worker-3/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-22.-16.mca
+[15:13:43] [ForkJoinPool.commonPool-worker-3/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.10.-17.mca
+[15:13:43] [ForkJoinPool.commonPool-worker-3/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-3.0.mca
+[15:13:43] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.3.-9.mca
+[15:13:43] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.1.13.mca
+[15:13:43] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.1.-4.mca
+[15:13:43] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.0.-1.mca
+[15:13:45] [main/INFO]: [bclib] Patching... 10%
+[15:13:45] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-18.3.mca
+[15:13:45] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-15.-5.mca
+[15:13:45] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-14.-15.mca
+[15:13:45] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.13.21.mca
+[15:13:45] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.6.-4.mca
+[15:13:45] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.5.5.mca
+[15:13:45] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-14.-7.mca
+[15:13:45] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-14.17.mca
+[15:13:45] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-3.-12.mca
+[15:13:45] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-15.8.mca
+[15:13:45] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-22.-11.mca
+[15:13:45] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-24.11.mca
+[15:13:45] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.18.18.mca
+[15:13:45] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-1.20.mca
+[15:13:45] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-12.16.mca
+[15:13:45] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-5.16.mca
+[15:13:45] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-12.-14.mca
+[15:13:45] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.15.21.mca
+[15:13:45] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.5.2.mca
+[15:13:45] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.1.-7.mca
+[15:13:45] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-25.-4.mca
+[15:13:45] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.7.1.mca
+[15:13:45] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-22.13.mca
+[15:13:45] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-22.21.mca
+[15:13:45] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-1.-1.mca
+[15:13:45] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.13.-17.mca
+[15:13:45] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-8.-3.mca
+[15:13:45] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-15.15.mca
+[15:13:45] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-1.-2.mca
+[15:13:46] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-5.18.mca
+[15:13:46] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-13.-13.mca
+[15:13:46] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-25.-7.mca
+[15:13:46] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-2.15.mca
+[15:13:46] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-5.-2.mca
+[15:13:46] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-3.-1.mca
+[15:13:46] [main/INFO]: [bclib] Patching... 17%
+[15:13:46] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.15.18.mca
+[15:13:46] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-19.-19.mca
+[15:13:46] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.2.5.mca
+[15:13:46] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-1.4.mca
+[15:13:46] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-9.15.mca
+[15:13:46] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-2.6.mca
+[15:13:46] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-20.8.mca
+[15:13:46] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-14.13.mca
+[15:13:46] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-8.11.mca
+[15:13:46] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-12.-10.mca
+[15:13:46] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.9.-17.mca
+[15:13:46] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.7.-4.mca
+[15:13:46] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.5.1.mca
+[15:13:46] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-7.-20.mca
+[15:13:46] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-6.1.mca
+[15:13:46] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-3.-5.mca
+[15:13:46] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.16.8.mca
+[15:13:46] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-25.8.mca
+[15:13:46] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-22.-9.mca
+[15:13:46] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-12.-17.mca
+[15:13:46] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-6.-1.mca
+[15:13:46] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.0.-3.mca
+[15:13:46] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-7.-14.mca
+[15:13:46] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-19.-9.mca
+[15:13:46] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-6.13.mca
+[15:13:46] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-12.0.mca
+[15:13:46] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.5.-12.mca
+[15:13:46] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-1.-7.mca
+[15:13:46] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.16.-6.mca
+[15:13:46] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-7.-4.mca
+[15:13:46] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.11.10.mca
+[15:13:46] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-3.-3.mca
+[15:13:46] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-2.-15.mca
+[15:13:46] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.19.0.mca
+[15:13:46] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-9.-7.mca
+[15:13:46] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-18.8.mca
+[15:13:46] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.3.-5.mca
+[15:13:46] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.8.-10.mca
+[15:13:46] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-4.1.mca
+[15:13:47] [ForkJoinPool.commonPool-worker-3/INFO]: [DataFixerAPI] Inspecting ./world/./entities/r.-3.1.mca
+[15:13:47] [ForkJoinPool.commonPool-worker-3/INFO]: [DataFixerAPI] Inspecting ./world/./entities/r.-3.-2.mca
+[15:13:47] [ForkJoinPool.commonPool-worker-3/INFO]: [DataFixerAPI] Inspecting ./world/./entities/r.-1.-1.mca
+[15:13:47] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-19.-7.mca
+[15:13:47] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-18.20.mca
+[15:13:47] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.8.16.mca
+[15:13:47] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-22.23.mca
+[15:13:47] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-24.-14.mca
+[15:13:47] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.0.11.mca
+[15:13:47] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-17.-19.mca
+[15:13:47] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.0.0.mca
+[15:13:47] [ForkJoinPool.commonPool-worker-3/INFO]: [DataFixerAPI] Inspecting ./world/./entities/r.-2.1.mca
+[15:13:47] [ForkJoinPool.commonPool-worker-3/INFO]: [DataFixerAPI] Inspecting ./world/./entities/r.-4.0.mca
+[15:13:47] [ForkJoinPool.commonPool-worker-3/INFO]: [DataFixerAPI] Inspecting ./world/./entities/r.-3.-1.mca
+[15:13:47] [ForkJoinPool.commonPool-worker-3/INFO]: [bclib] Patching... 28%
+[15:13:47] [ForkJoinPool.commonPool-worker-3/INFO]: [DataFixerAPI] Inspecting ./world/./entities/r.-2.0.mca
+[15:13:47] [ForkJoinPool.commonPool-worker-3/INFO]: [DataFixerAPI] Inspecting ./world/./entities/r.-2.-1.mca
+[15:13:47] [ForkJoinPool.commonPool-worker-3/INFO]: [DataFixerAPI] Inspecting ./world/./entities/r.-4.-1.mca
+[15:13:47] [ForkJoinPool.commonPool-worker-3/INFO]: [DataFixerAPI] Inspecting ./world/./entities/r.-4.1.mca
+[15:13:47] [ForkJoinPool.commonPool-worker-3/INFO]: [DataFixerAPI] Inspecting ./world/./entities/r.0.0.mca
+[15:13:47] [ForkJoinPool.commonPool-worker-3/INFO]: [DataFixerAPI] Inspecting ./world/./entities/r.-2.-2.mca
+[15:13:48] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.8.13.mca
+[15:13:48] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.1.1.mca
+[15:13:48] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-6.2.mca
+[15:13:48] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.6.-7.mca
+[15:13:48] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.16.-12.mca
+[15:13:48] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.13.13.mca
+[15:13:48] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-24.-2.mca
+[15:13:48] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.17.-7.mca
+[15:13:48] [ForkJoinPool.commonPool-worker-3/INFO]: [DataFixerAPI] Inspecting ./world/./entities/r.0.-1.mca
+[15:13:48] [ForkJoinPool.commonPool-worker-3/INFO]: [DataFixerAPI] Inspecting ./world/./entities/r.-1.-2.mca
+[15:13:48] [ForkJoinPool.commonPool-worker-3/INFO]: [DataFixerAPI] Inspecting ./world/./entities/r.-1.0.mca
+[15:13:48] [ForkJoinPool.commonPool-worker-3/INFO]: [DataFixerAPI] Inspecting ./world/./entities/r.-3.0.mca
+[15:13:48] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-5.0.mca
+[15:13:48] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-9.1.mca
+[15:13:48] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.13.-8.mca
+[15:13:48] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-5.8.mca
+[15:13:48] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-8.0.mca
+[15:13:48] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-9.-12.mca
+[15:13:48] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.10.13.mca
+[15:13:48] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-2.1.mca
+[15:13:48] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-22.18.mca
+[15:13:48] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.14.-5.mca
+[15:13:48] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-15.-10.mca
+[15:13:48] [ForkJoinPool.commonPool-worker-3/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/region/r.-1.-1.mca
+[15:13:48] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-20.20.mca
+[15:13:48] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.3.11.mca
+[15:13:48] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-17.13.mca
+[15:13:48] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-22.-20.mca
+[15:13:48] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.1.-5.mca
+[15:13:48] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-2.-2.mca
+[15:13:48] [ForkJoinPool.commonPool-worker-3/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/region/r.0.0.mca
+[15:13:48] [ForkJoinPool.commonPool-worker-3/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/region/r.0.-1.mca
+[15:13:48] [ForkJoinPool.commonPool-worker-3/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/region/r.-1.0.mca
+[15:13:48] [ForkJoinPool.commonPool-worker-3/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/entities/r.0.0.mca
+[15:13:48] [ForkJoinPool.commonPool-worker-3/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/entities/r.0.-1.mca
+[15:13:48] [ForkJoinPool.commonPool-worker-3/INFO]: [DataFixerAPI] Inspecting ./world/./DIM1/entities/r.-1.0.mca
+[15:13:48] [ForkJoinPool.commonPool-worker-3/INFO]: [DataFixerAPI] Inspecting ./world/./DIM-1/poi/r.-1.-1.mca
+[15:13:48] [ForkJoinPool.commonPool-worker-2/INFO]: [bclib] Patching... 38%
+[15:13:48] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-6.3.mca
+[15:13:48] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-22.8.mca
+[15:13:48] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-19.11.mca
+[15:13:48] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.16.1.mca
+[15:13:48] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.3.-2.mca
+[15:13:48] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.1.5.mca
+[15:13:48] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-7.2.mca
+[15:13:48] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-24.3.mca
+[15:13:48] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-4.-7.mca
+[15:13:48] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.3.-14.mca
+[15:13:48] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.18.-12.mca
+[15:13:48] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.0.-2.mca
+[15:13:48] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-20.-2.mca
+[15:13:48] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.8.18.mca
+[15:13:48] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-8.-1.mca
+[15:13:48] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-7.-2.mca
+[15:13:48] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-5.-6.mca
+[15:13:48] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-9.-4.mca
+[15:13:48] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-3.4.mca
+[15:13:48] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.6.15.mca
+[15:13:48] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.18.-4.mca
+[15:13:48] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-6.-2.mca
+[15:13:48] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-15.-12.mca
+[15:13:48] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.10.3.mca
+[15:13:48] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.5.11.mca
+[15:13:48] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.0.-5.mca
+[15:13:48] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-15.1.mca
+[15:13:48] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-5.4.mca
+[15:13:48] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-5.13.mca
+[15:13:48] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.4.13.mca
+[15:13:48] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.13.16.mca
+[15:13:48] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-12.13.mca
+[15:13:48] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.15.-15.mca
+[15:13:48] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-5.-3.mca
+[15:13:48] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-7.-17.mca
+[15:13:48] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.16.-5.mca
+[15:13:48] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.7.-1.mca
+[15:13:48] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.11.-2.mca
+[15:13:48] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.6.-3.mca
+[15:13:48] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-19.-22.mca
+[15:13:48] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-17.6.mca
+[15:13:48] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-22.-2.mca
+[15:13:48] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.0.21.mca
+[15:13:48] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-6.4.mca
+[15:13:48] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-1.2.mca
+[15:13:48] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.18.-10.mca
+[15:13:48] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.0.18.mca
+[15:13:48] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-2.-4.mca
+[15:13:48] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.3.6.mca
+[15:13:48] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.18.-19.mca
+[15:13:48] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-22.5.mca
+[15:13:48] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.0.4.mca
+[15:13:48] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-2.0.mca
+[15:13:49] [ForkJoinPool.commonPool-worker-3/INFO]: [DataFixerAPI] Inspecting ./world/./DIM-1/poi/r.-4.0.mca
+[15:13:49] [ForkJoinPool.commonPool-worker-3/INFO]: [DataFixerAPI] Inspecting ./world/./DIM-1/poi/r.-2.0.mca
+[15:13:49] [ForkJoinPool.commonPool-worker-3/INFO]: [DataFixerAPI] Inspecting ./world/./DIM-1/poi/r.-2.-1.mca
+[15:13:49] [ForkJoinPool.commonPool-worker-3/INFO]: [DataFixerAPI] Inspecting ./world/./DIM-1/poi/r.0.0.mca
+[15:13:49] [ForkJoinPool.commonPool-worker-3/INFO]: [DataFixerAPI] Inspecting ./world/./DIM-1/poi/r.0.-1.mca
+[15:13:49] [ForkJoinPool.commonPool-worker-3/INFO]: [DataFixerAPI] Inspecting ./world/./DIM-1/poi/r.-1.0.mca
+[15:13:49] [ForkJoinPool.commonPool-worker-3/INFO]: [DataFixerAPI] Inspecting ./world/./DIM-1/poi/r.-3.0.mca
+[15:13:49] [ForkJoinPool.commonPool-worker-3/INFO]: [DataFixerAPI] Inspecting ./world/./DIM-1/region/r.-1.-1.mca
+[15:13:49] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-12.-2.mca
+[15:13:49] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-9.-3.mca
+[15:13:49] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-7.-8.mca
+[15:13:49] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-4.-17.mca
+[15:13:49] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-13.21.mca
+[15:13:49] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-19.14.mca
+[15:13:49] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-15.11.mca
+[15:13:49] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-3.3.mca
+[15:13:49] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-6.-3.mca
+[15:13:49] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.13.-15.mca
+[15:13:49] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-3.18.mca
+[15:13:49] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.10.-15.mca
+[15:13:49] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-3.1.mca
+[15:13:50] [ForkJoinPool.commonPool-worker-1/INFO]: [bclib] Patching... 53%
+[15:13:50] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-12.18.mca
+[15:13:50] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.1.-2.mca
+[15:13:50] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.18.16.mca
+[15:13:50] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-6.-12.mca
+[15:13:50] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-10.-19.mca
+[15:13:50] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-7.-10.mca
+[15:13:50] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-20.-15.mca
+[15:13:50] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-7.8.mca
+[15:13:50] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.14.-12.mca
+[15:13:50] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.1.-1.mca
+[15:13:50] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-13.3.mca
+[15:13:50] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-15.3.mca
+[15:13:50] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-20.-5.mca
+[15:13:50] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-8.1.mca
+[15:13:50] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-24.-18.mca
+[15:13:50] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-10.6.mca
+[15:13:50] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.8.10.mca
+[15:13:50] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-12.10.mca
+[15:13:50] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-22.16.mca
+[15:13:50] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-20.16.mca
+[15:13:50] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.13.-20.mca
+[15:13:50] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.17.-2.mca
+[15:13:50] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.18.-14.mca
+[15:13:50] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-8.-4.mca
+[15:13:50] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-25.-10.mca
+[15:13:50] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-8.3.mca
+[15:13:50] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-4.-19.mca
+[15:13:50] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.9.-15.mca
+[15:13:50] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-3.-6.mca
+[15:13:50] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-2.3.mca
+[15:13:50] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.11.6.mca
+[15:13:50] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-21.-15.mca
+[15:13:50] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.1.3.mca
+[15:13:50] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-17.-4.mca
+[15:13:50] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.15.-10.mca
+[15:13:50] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-7.4.mca
+[15:13:50] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.5.13.mca
+[15:13:50] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.19.3.mca
+[15:13:50] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.8.-7.mca
+[15:13:50] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-22.1.mca
+[15:13:50] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-24.-22.mca
+[15:13:50] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-5.3.mca
+[15:13:50] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.13.-10.mca
+[15:13:50] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-24.13.mca
+[15:13:50] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.8.-12.mca
+[15:13:50] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.12.7.mca
+[15:13:50] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-7.0.mca
+[15:13:50] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-8.-5.mca
+[15:13:50] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-2.-3.mca
+[15:13:50] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./poi/r.-3.1.mca
+[15:13:50] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-25.-20.mca
+[15:13:50] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./poi/r.-3.-2.mca
+[15:13:50] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-3.8.mca
+[15:13:50] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./poi/r.-1.-1.mca
+[15:13:50] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-2.-19.mca
+[15:13:50] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-4.-1.mca
+[15:13:50] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./poi/r.-2.1.mca
+[15:13:50] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./poi/r.-4.0.mca
+[15:13:50] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./poi/r.-3.-1.mca
+[15:13:50] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./poi/r.-2.0.mca
+[15:13:50] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./poi/r.-2.-1.mca
+[15:13:50] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./poi/r.-4.-1.mca
+[15:13:50] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./poi/r.-4.1.mca
+[15:13:50] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./poi/r.0.0.mca
+[15:13:50] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./poi/r.-2.-2.mca
+[15:13:50] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./poi/r.0.-1.mca
+[15:13:50] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./poi/r.-1.-2.mca
+[15:13:50] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./poi/r.-1.0.mca
+[15:13:50] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./poi/r.-1.1.mca
+[15:13:50] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./poi/r.-3.0.mca
+[15:13:50] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-24.19.mca
+[15:13:50] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-4.4.mca
+[15:13:50] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.0.-15.mca
+[15:13:50] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.11.-12.mca
+[15:13:50] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.15.13.mca
+[15:13:50] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.10.-20.mca
+[15:13:50] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.3.7.mca
+[15:13:50] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-24.1.mca
+[15:13:50] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-22.-4.mca
+[15:13:50] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-4.2.mca
+[15:13:50] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.13.2.mca
+[15:13:50] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-12.8.mca
+[15:13:50] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-6.-6.mca
+[15:13:50] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-4.-2.mca
+[15:13:50] [ForkJoinPool.commonPool-worker-3/INFO]: [DataFixerAPI] Inspecting ./world/./DIM-1/region/r.-4.0.mca
+[15:13:51] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-7.5.mca
+[15:13:51] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-7.3.mca
+[15:13:51] [ForkJoinPool.commonPool-worker-3/INFO]: [DataFixerAPI] Inspecting ./world/./DIM-1/region/r.-2.0.mca
+[15:13:51] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.18.8.mca
+[15:13:51] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.10.18.mca
+[15:13:51] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.3.-12.mca
+[15:13:51] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-6.0.mca
+[15:13:51] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.0.-6.mca
+[15:13:51] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-9.13.mca
+[15:13:51] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.5.-20.mca
+[15:13:51] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-16.18.mca
+[15:13:51] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-18.-14.mca
+[15:13:51] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-9.-6.mca
+[15:13:51] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.3.-20.mca
+[15:13:51] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-19.6.mca
+[15:13:51] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-2.4.mca
+[15:13:51] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-10.0.mca
+[15:13:51] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.3.-17.mca
+[15:13:51] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.8.20.mca
+[15:13:51] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-24.-12.mca
+[15:13:51] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-1.3.mca
+[15:13:51] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-2.10.mca
+[15:13:51] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.18.13.mca
+[15:13:51] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-2.-17.mca
+[15:13:51] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-15.-2.mca
+[15:13:51] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-25.20.mca
+[15:13:51] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.12.19.mca
+[15:13:51] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.5.7.mca
+[15:13:51] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-12.-20.mca
+[15:13:51] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-22.11.mca
+[15:13:51] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.0.3.mca
+[15:13:51] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-1.1.mca
+[15:13:51] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.11.20.mca
+[15:13:51] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-10.3.mca
+[15:13:51] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-17.11.mca
+[15:13:51] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-5.20.mca
+[15:13:51] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-15.-17.mca
+[15:13:51] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.13.-1.mca
+[15:13:51] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.18.-17.mca
+[15:13:51] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-19.17.mca
+[15:13:51] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-1.-3.mca
+[15:13:51] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-17.16.mca
+[15:13:51] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-25.6.mca
+[15:13:51] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.1.4.mca
+[15:13:51] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.3.15.mca
+[15:13:51] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.10.0.mca
+[15:13:51] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-7.-1.mca
+[15:13:51] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.5.17.mca
+[15:13:51] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.16.10.mca
+[15:13:51] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-6.-4.mca
+[15:13:51] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-7.15.mca
+[15:13:51] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-10.10.mca
+[15:13:51] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-11.6.mca
+[15:13:51] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.16.-2.mca
+[15:13:51] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-4.-12.mca
+[15:13:51] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-2.-7.mca
+[15:13:51] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-19.0.mca
+[15:13:51] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-10.20.mca
+[15:13:51] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.0.-20.mca
+[15:13:51] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.0.15.mca
+[15:13:51] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-5.2.mca
+[15:13:51] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.7.8.mca
+[15:13:51] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-7.18.mca
+[15:13:51] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.10.-5.mca
+[15:13:51] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.0.-10.mca
+[15:13:51] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.3.20.mca
+[15:13:51] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-10.-15.mca
+[15:13:51] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-1.0.mca
+[15:13:51] [ForkJoinPool.commonPool-worker-3/INFO]: [bclib] Patching... 86%
+[15:13:51] [ForkJoinPool.commonPool-worker-3/INFO]: [DataFixerAPI] Inspecting ./world/./DIM-1/region/r.-2.-1.mca
+[15:13:51] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-2.-1.mca
+[15:13:52] [ForkJoinPool.commonPool-worker-3/INFO]: [DataFixerAPI] Inspecting ./world/./DIM-1/region/r.0.0.mca
+[15:13:52] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-17.-9.mca
+[15:13:52] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-15.-20.mca
+[15:13:52] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.10.-9.mca
+[15:13:52] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.18.5.mca
+[15:13:52] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.13.0.mca
+[15:13:52] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-10.-2.mca
+[15:13:52] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-19.23.mca
+[15:13:52] [main/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-25.23.mca
+[15:13:52] [ForkJoinPool.commonPool-worker-3/INFO]: [DataFixerAPI] Inspecting ./world/./DIM-1/region/r.0.-1.mca
+[15:13:52] [ForkJoinPool.commonPool-worker-3/INFO]: [DataFixerAPI] Inspecting ./world/./DIM-1/region/r.-1.0.mca
+[15:13:52] [ForkJoinPool.commonPool-worker-3/INFO]: [bclib] Patching... 89%
+[15:13:52] [ForkJoinPool.commonPool-worker-3/INFO]: [DataFixerAPI] Inspecting ./world/./DIM-1/region/r.-3.0.mca
+[15:13:52] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-8.5.mca
+[15:13:53] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-7.-3.mca
+[15:13:53] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.3.1.mca
+[15:13:53] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.5.-10.mca
+[15:13:53] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.6.20.mca
+[15:13:53] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.0.-12.mca
+[15:13:53] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.3.3.mca
+[15:13:53] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-15.21.mca
+[15:13:53] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.5.-17.mca
+[15:13:53] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-22.-7.mca
+[15:13:53] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.1.-3.mca
+[15:13:53] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.13.5.mca
+[15:13:53] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-17.-17.mca
+[15:13:53] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-10.17.mca
+[15:13:53] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-9.-17.mca
+[15:13:53] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.6.-14.mca
+[15:13:53] [ForkJoinPool.commonPool-worker-1/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-20.-12.mca
+[15:13:53] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.18.20.mca
+[15:13:53] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-2.13.mca
+[15:13:53] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-4.-15.mca
+[15:13:53] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.0.1.mca
+[15:13:53] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-4.5.mca
+[15:13:53] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.11.15.mca
+[15:13:53] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-7.1.mca
+[15:13:53] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.2.-7.mca
+[15:13:53] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-3.-4.mca
+[15:13:53] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.8.6.mca
+[15:13:53] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.15.15.mca
+[15:13:53] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.11.7.mca
+[15:13:53] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-4.-5.mca
+[15:13:53] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-4.-4.mca
+[15:13:53] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-10.-9.mca
+[15:13:53] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.0.9.mca
+[15:13:53] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-5.-1.mca
+[15:13:53] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-18.0.mca
+[15:13:53] [ForkJoinPool.commonPool-worker-3/INFO]: [DataFixerAPI] Inspecting ./world/./DIM-1/entities/r.-1.-1.mca
+[15:13:53] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.18.11.mca
+[15:13:53] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-12.-4.mca
+[15:13:53] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.0.5.mca
+[15:13:53] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-4.3.mca
+[15:13:53] [ForkJoinPool.commonPool-worker-2/INFO]: [DataFixerAPI] Inspecting ./world/./region/r.-25.16.mca
+[15:13:53] [ForkJoinPool.commonPool-worker-3/INFO]: [DataFixerAPI] Inspecting ./world/./DIM-1/entities/r.0.0.mca
+[15:13:53] [ForkJoinPool.commonPool-worker-3/INFO]: [DataFixerAPI] Inspecting ./world/./DIM-1/entities/r.0.-1.mca
+[15:13:53] [ForkJoinPool.commonPool-worker-3/INFO]: [DataFixerAPI] Inspecting ./world/./DIM-1/entities/r.-1.0.mca
+[15:13:53] [ForkJoinPool.commonPool-worker-3/INFO]: [DataFixerAPI] Inspecting ./world/./DIM-1/entities/r.-3.0.mca
+[15:13:53] [main/INFO]: [bclib] Patcher Stage... Saving Patch State%
+[15:13:53] [main/INFO]: [DataFixerAPI] Updating Patch-Level for 'bclib' from 0.0.0 to 3.0.11
+[15:13:53] [main/INFO]: [bclib] Did not manage biome betterend:empty_aurora_cave
+[15:13:53] [main/INFO]: [bclib] Did not manage biome betterend:empty_end_cave
+[15:13:53] [main/INFO]: [bclib] Did not manage biome betterend:empty_smaragdant_cave
+[15:13:53] [main/INFO]: [bclib] Did not manage biome betterend:jade_cave
+[15:13:53] [main/INFO]: [bclib] Did not manage biome betterend:lush_aurora_cave
+[15:13:53] [main/INFO]: [bclib] Did not manage biome betterend:lush_smaragdant_cave
+[15:13:53] [main/INFO]: [bclib] Did not manage biome betterend:megalake_grove
+[15:13:53] [main/INFO]: [bclib] Did not manage biome betterend:neon_oasis
+[15:13:53] [main/INFO]: [bclib] Did not manage biome betterend:painted_mountains
+[15:13:53] [main/ERROR]: Invalid path in mod resource-pack mr_stellarity: fokastudio:worldgen/biome/README.md, ignoring
+[15:13:54] [main/INFO]: StructureSet modified for minecraft:village : Now using custom village configuration (can be disabled in the better villages config: boolean.villages.enabled_custom_config).
+[15:13:55] [main/INFO]: [bclib] Updating Pickers for BCLib - The End  BiomeSource (f3af215)
+[15:13:55] [main/INFO]: [bclib] Unable to build Biome List yet
+[15:13:55] [main/INFO]: [bclib] No Void Biomes found. Disabling by using barrens
+[15:13:55] [main/INFO]: [bclib] No Barrens Biomes found. Disabling by using land Biomes
+[15:13:55] [main/WARN]: [bclib] No Center Island Biomes found. Forcing use of vanilla center.
+[15:13:55] [main/INFO]: [bclib] Make sure features are loaded from terrablender:org.betterx.bclib.api.v2.generator.BCLibEndBiomeSource
+[15:13:55] [main/INFO]: [bclib] Updating Pickers for BCLib - Nether BiomeSource (7628164a)
+[15:13:55] [main/INFO]: [bclib] Unable to build Biome List yet
+[15:13:55] [main/INFO]: [bclib] Make sure features are loaded from terrablender:org.betterx.bclib.api.v2.generator.BCLibNetherBiomeSource
+[15:13:55] [main/INFO]: [bclib] Updating Pickers for BCLib - The End  BiomeSource (a8476ea)
+[15:13:55] [main/INFO]: [bclib] Unable to build Biome List yet
+[15:13:55] [main/INFO]: [bclib] No Void Biomes found. Disabling by using barrens
+[15:13:55] [main/INFO]: [bclib] No Barrens Biomes found. Disabling by using land Biomes
+[15:13:55] [main/WARN]: [bclib] No Center Island Biomes found. Forcing use of vanilla center.
+[15:13:55] [main/INFO]: [bclib] Make sure features are loaded from terrablender:org.betterx.bclib.api.v2.generator.BCLibEndBiomeSource
+[15:13:55] [main/INFO]: [bclib] Updating Pickers for BCLib - Nether BiomeSource (59c742e8)
+[15:13:55] [main/INFO]: [bclib] Unable to build Biome List yet
+[15:13:55] [main/INFO]: [bclib] Make sure features are loaded from terrablender:org.betterx.bclib.api.v2.generator.BCLibNetherBiomeSource
+[15:13:55] [main/INFO]: [bclib] Updating Pickers for BCLib - The End  BiomeSource (db9e726)
+[15:13:55] [main/INFO]: [bclib] Unable to build Biome List yet
+[15:13:55] [main/INFO]: [bclib] No Void Biomes found. Disabling by using barrens
+[15:13:55] [main/INFO]: [bclib] No Barrens Biomes found. Disabling by using land Biomes
+[15:13:55] [main/WARN]: [bclib] No Center Island Biomes found. Forcing use of vanilla center.
+[15:13:55] [main/INFO]: [bclib] Make sure features are loaded from terrablender:org.betterx.bclib.api.v2.generator.BCLibEndBiomeSource
+[15:13:55] [main/INFO]: [bclib] Updating Pickers for BCLib - Nether BiomeSource (69111f9f)
+[15:13:55] [main/INFO]: [bclib] Unable to build Biome List yet
+[15:13:55] [main/INFO]: [bclib] Make sure features are loaded from terrablender:org.betterx.bclib.api.v2.generator.BCLibNetherBiomeSource
+[15:13:55] [main/INFO]: [bclib] Updating Pickers for BCLib - The End  BiomeSource (12c2b0f7)
+[15:13:55] [main/INFO]: [bclib] Unable to build Biome List yet
+[15:13:55] [main/INFO]: [bclib] No Void Biomes found. Disabling by using barrens
+[15:13:55] [main/INFO]: [bclib] No Barrens Biomes found. Disabling by using land Biomes
+[15:13:55] [main/WARN]: [bclib] No Center Island Biomes found. Forcing use of vanilla center.
+[15:13:55] [main/INFO]: [bclib] Make sure features are loaded from terrablender:org.betterx.bclib.api.v2.generator.BCLibEndBiomeSource
+[15:13:55] [main/INFO]: [bclib] Updating Pickers for BCLib - Nether BiomeSource (68ac78c3)
+[15:13:55] [main/INFO]: [bclib] Unable to build Biome List yet
+[15:13:55] [main/INFO]: [bclib] Make sure features are loaded from terrablender:org.betterx.bclib.api.v2.generator.BCLibNetherBiomeSource
+[15:13:55] [main/WARN]: [bclib] No valid BCLBiome Registry available!
+[15:13:55] [main/WARN]: [bclib] No valid Biome Registry available!
+[15:13:55] [main/INFO]: [fabric-registry-sync] Loaded registry data [file 1/4]
+[15:13:55] [main/INFO]: [bclib] Updating Pickers for BCLib - Nether BiomeSource (41f07afb)
+[15:13:55] [main/INFO]: [bclib] Unable to build Biome List yet
+[15:13:55] [main/INFO]: [bclib] Make sure features are loaded from terrablender:org.betterx.bclib.api.v2.generator.BCLibNetherBiomeSource
+[15:13:55] [main/INFO]: [bclib] Updating Pickers for BCLib - The End  BiomeSource (59dca761)
+[15:13:55] [main/INFO]: [bclib] Unable to build Biome List yet
+[15:13:55] [main/INFO]: [bclib] No Void Biomes found. Disabling by using barrens
+[15:13:55] [main/INFO]: [bclib] No Barrens Biomes found. Disabling by using land Biomes
+[15:13:55] [main/WARN]: [bclib] No Center Island Biomes found. Forcing use of vanilla center.
+[15:13:55] [main/INFO]: [bclib] Make sure features are loaded from terrablender:org.betterx.bclib.api.v2.generator.BCLibEndBiomeSource
+[15:13:56] [Worker-Main-3/ERROR]: Couldn't load tag create:pressurized_air_sources as it is missing following references: deeperdarker:warden_backtank (from fabric)
+[15:13:57] [Worker-Main-3/ERROR]: Couldn't parse element loot_tables:deeperdarker:blocks/warden_backtank
 com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'deeperdarker:warden_backtank'
 	at net.minecraft.class_3518.method_17995(class_3518.java:145) ~[server-intermediary.jar:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -945,8 +944,8 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) ~[?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) ~[?:?]
-[04:16:35] [main/INFO]: [bclib] Disabling Recipe: bclib:test_star
-[04:16:35] [main/ERROR]: Parsing error loading recipe deeperdarker:warden_diving_boots_smithing
+[15:13:57] [main/INFO]: [bclib] Disabling Recipe: bclib:test_star
+[15:13:57] [main/ERROR]: Parsing error loading recipe deeperdarker:warden_diving_boots_smithing
 com.google.gson.JsonSyntaxException: Unknown item 'create:netherite_diving_boots'
 	at net.minecraft.class_1869.method_17878(class_1869.java:272) ~[server-intermediary.jar:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -971,7 +970,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'create:netherite_diving_boots
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) ~[fabric-loader-0.17.2.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) ~[fabric-loader-0.17.2.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) ~[fabric-server-launch.jar:1.0.1]
-[04:16:35] [main/ERROR]: Parsing error loading recipe deeperdarker:warden_backtank_smithing
+[15:13:57] [main/ERROR]: Parsing error loading recipe deeperdarker:warden_backtank_smithing
 com.google.gson.JsonSyntaxException: Unknown item 'create:netherite_backtank'
 	at net.minecraft.class_1869.method_17878(class_1869.java:272) ~[server-intermediary.jar:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -996,7 +995,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'create:netherite_backtank'
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) ~[fabric-loader-0.17.2.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) ~[fabric-loader-0.17.2.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) ~[fabric-server-launch.jar:1.0.1]
-[04:16:35] [main/ERROR]: Parsing error loading recipe betterend:guide_book
+[15:13:57] [main/ERROR]: Parsing error loading recipe betterend:guide_book
 com.google.gson.JsonSyntaxException: Unknown item 'betterend:guidebook'
 	at net.minecraft.class_1869.method_17878(class_1869.java:272) ~[server-intermediary.jar:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1019,7 +1018,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'betterend:guidebook'
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) ~[fabric-loader-0.17.2.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) ~[fabric-loader-0.17.2.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) ~[fabric-server-launch.jar:1.0.1]
-[04:16:35] [main/ERROR]: Parsing error loading recipe deeperdarker:warden_diving_helmet_smithing
+[15:13:57] [main/ERROR]: Parsing error loading recipe deeperdarker:warden_diving_helmet_smithing
 com.google.gson.JsonSyntaxException: Unknown item 'create:netherite_diving_helmet'
 	at net.minecraft.class_1869.method_17878(class_1869.java:272) ~[server-intermediary.jar:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1044,169 +1043,142 @@ com.google.gson.JsonSyntaxException: Unknown item 'create:netherite_diving_helme
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) ~[fabric-loader-0.17.2.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) ~[fabric-loader-0.17.2.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) ~[fabric-server-launch.jar:1.0.1]
-[04:16:35] [main/INFO]: Loaded 11 recipes
-[04:16:35] [main/INFO]: Loaded 3212 advancements
-[04:16:36] [main/INFO]: Reloading config...
-[04:16:36] [main/INFO]: [REI] ########################################
-[04:16:36] [main/INFO]: [REI] REIPlugin starting main-reload for START.
-[04:16:36] [main/INFO]: [REI] Plugins (3):
-[04:16:36] [main/INFO]: [REI]  - (-100.00) DefaultPlugin of DefaultPlugin [roughlyenoughitems]
-[04:16:36] [main/INFO]: [REI]  - (0.00) FabricFluidAPISupportPlugin
-[04:16:36] [main/INFO]: [REI]  - (0.00) DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]
-[04:16:36] [main/INFO]: [REI] ########################################
-[04:16:36] [main/INFO]: [REI] ++++++++++++++++++++++++++++++++++++++++
-[04:16:36] [main/INFO]: [REI] REIServerPlugin starting main-reload for START.
-[04:16:36] [main/INFO]: [REI] Plugins (3):
-[04:16:36] [main/INFO]: [REI]  - (-100.00) DefaultPlugin of DefaultPlugin [roughlyenoughitems]
-[04:16:36] [main/INFO]: [REI]  - (0.00) FabricFluidAPISupportPlugin
-[04:16:36] [main/INFO]: [REI]  - (0.00) DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]
-[04:16:36] [main/INFO]: [REI] ++++++++++++++++++++++++++++++++++++++++
-[04:16:36] [main/INFO]: [REI] REIPlugin finished post-reload for START in 2.818 ms, totaling 33.85 ms.
-[04:16:36] [main/INFO]: [REI] REIServerPlugin finished post-reload for START in 780.7 μs, totaling 4.462 ms.
-[04:16:36] [main/INFO]: [REI] ########################################
-[04:16:36] [main/INFO]: [REI] REIPlugin starting main-reload for END.
-[04:16:36] [main/INFO]: [REI] Plugins (3):
-[04:16:36] [main/INFO]: [REI]  - (-100.00) DefaultPlugin of DefaultPlugin [roughlyenoughitems]
-[04:16:36] [main/INFO]: [REI]  - (0.00) FabricFluidAPISupportPlugin
-[04:16:36] [main/INFO]: [REI]  - (0.00) DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]
-[04:16:36] [main/INFO]: [REI] ########################################
-[04:16:36] [main/INFO]: [REI] ========================================
-[04:16:36] [main/INFO]: [REI] REIServerPlugin starting main-reload for END.
-[04:16:36] [main/INFO]: [REI] Plugins (3):
-[04:16:36] [main/INFO]: [REI]  - (-100.00) DefaultPlugin of DefaultPlugin [roughlyenoughitems]
-[04:16:36] [main/INFO]: [REI]  - (0.00) FabricFluidAPISupportPlugin
-[04:16:36] [main/INFO]: [REI]  - (0.00) DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]
-[04:16:36] [main/INFO]: [REI] ========================================
-[04:16:36] [main/INFO]: [REI] REIPlugin finished post-reload for END in 1.504 ms, totaling 30.43 ms.
-[04:16:36] [main/INFO]: [REI] REIServerPlugin finished post-reload for END in 622.3 μs, totaling 7.370 ms.
-[04:16:36] [main/ERROR]: [worlds_together] Unable to parse Version in jar:file:///workspaces/das/servidor_minecraft/mods/dungeons-and-taverns-3.0.3.f.jar
-[04:16:36] [main/ERROR]: [worlds_together] Unable to parse Version in jar:file:///workspaces/das/servidor_minecraft/mods/Stellarity-v2-0e.jar
-[04:16:36] [main/INFO]: [bclib] Enforcing Correct Generator for minecraft:the_end.
-[04:16:36] [main/INFO]: [bclib] Updating Pickers for BCLib - The End  BiomeSource (7e77e8)
-[04:16:36] [main/INFO]: [bclib] Make sure features are loaded from terrablender:org.betterx.bclib.api.v2.generator.BCLibEndBiomeSource
-[04:16:36] [main/INFO]: [bclib] Enforcing Correct Generator for minecraft:the_nether.
-[04:16:36] [main/INFO]: [bclib] Updating Pickers for BCLib - Nether BiomeSource (6bcaa37)
-[04:16:36] [main/INFO]: [bclib] Make sure features are loaded from terrablender:org.betterx.bclib.api.v2.generator.BCLibNetherBiomeSource
-[04:16:36] [main/INFO]: [worlds_together] Loading originally configured Dimensions in World.
-[04:16:36] [main/INFO]: Initialized TerraBlender biomes for level stem minecraft:overworld
-[04:16:36] [main/INFO]: Applied 1343 biome modifications to 236 of 236 new biomes in 77.42 ms
-[04:16:36] [Server thread/INFO]: Loading server config for puzzlesapi
-[04:16:36] [Thread-5/INFO]: Reloading server config for puzzlesapi
-[04:16:36] [Thread-5/INFO]: Reloading server config for puzzlesapi
-[04:16:36] [Server thread/INFO]: Reading config.
-[04:16:36] [Server thread/INFO]: Starting minecraft server version 1.20.1
-[04:16:36] [Server thread/INFO]: Loading properties
-[04:16:36] [Server thread/INFO]: Default game type: SURVIVAL
-[04:16:36] [Server thread/INFO]: Generating keypair
-[04:16:36] [Server thread/INFO]: Starting Minecraft server on *:25565
-[04:16:36] [Server thread/INFO]: Using epoll channel type
-[04:16:37] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[04:16:37] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[04:16:37] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[04:16:37] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[04:16:37] [Server thread/INFO]: Preparing level "world"
-[04:16:37] [Server thread/INFO]: [bclib] 
-Apply Modifications for minecraft:overworld
-    class_4766 (1a5261df)
-        biomes     = 149
-        namespaces = minecraft(53), terralith(94), yungscavebiomes(2)
-[04:16:37] [Server thread/INFO]: [bclib] 
-Apply Modifications for minecraft:the_end
-    BCLib - The End  BiomeSource (7e77e8)
-        biomes     = 42
-        namespaces = betterend(19), stellarity(7), far_end(8), nullscape(3), minecraft(5)
-        seed       = 0
-        height     = 288
-        deciders   = 0
-        config     = BCLEndBiomeSourceConfig{mapVersion=hex, generatorVersion=vanilla, withVoidBiomes=true, innerVoidRadiusSquared=1048576, voidBiomesSize=256, centerBiomesSize=256, landBiomesSize=256, barrensBiomesSize=256}
-[04:16:37] [Server thread/INFO]: [bclib] 
+[15:13:57] [main/INFO]: Loaded 11 recipes
+[15:13:57] [main/INFO]: Loaded 3212 advancements
+[15:13:57] [main/INFO]: Reloading config...
+[15:13:57] [main/INFO]: [REI] ****************************************
+[15:13:57] [main/INFO]: [REI] REIPlugin starting main-reload for START.
+[15:13:57] [main/INFO]: [REI] Plugins (3):
+[15:13:57] [main/INFO]: [REI]  - (-100.00) DefaultPlugin of DefaultPlugin [roughlyenoughitems]
+[15:13:57] [main/INFO]: [REI]  - (0.00) FabricFluidAPISupportPlugin
+[15:13:57] [main/INFO]: [REI]  - (0.00) DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]
+[15:13:57] [main/INFO]: [REI] ****************************************
+[15:13:57] [main/INFO]: [REI] ========================================
+[15:13:57] [main/INFO]: [REI] REIServerPlugin starting main-reload for START.
+[15:13:57] [main/INFO]: [REI] Plugins (3):
+[15:13:57] [main/INFO]: [REI]  - (-100.00) DefaultPlugin of DefaultPlugin [roughlyenoughitems]
+[15:13:57] [main/INFO]: [REI]  - (0.00) FabricFluidAPISupportPlugin
+[15:13:57] [main/INFO]: [REI]  - (0.00) DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]
+[15:13:57] [main/INFO]: [REI] ========================================
+[15:13:57] [main/INFO]: [REI] REIPlugin finished post-reload for START in 1.722 ms, totaling 29.57 ms.
+[15:13:57] [main/INFO]: [REI] REIServerPlugin finished post-reload for START in 694.3 μs, totaling 4.640 ms.
+[15:13:57] [main/INFO]: [REI] @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+[15:13:57] [main/INFO]: [REI] REIPlugin starting main-reload for END.
+[15:13:57] [main/INFO]: [REI] Plugins (3):
+[15:13:57] [main/INFO]: [REI]  - (-100.00) DefaultPlugin of DefaultPlugin [roughlyenoughitems]
+[15:13:57] [main/INFO]: [REI]  - (0.00) FabricFluidAPISupportPlugin
+[15:13:57] [main/INFO]: [REI]  - (0.00) DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]
+[15:13:57] [main/INFO]: [REI] @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+[15:13:58] [main/INFO]: [REI] ########################################
+[15:13:58] [main/INFO]: [REI] REIServerPlugin starting main-reload for END.
+[15:13:58] [main/INFO]: [REI] Plugins (3):
+[15:13:58] [main/INFO]: [REI]  - (-100.00) DefaultPlugin of DefaultPlugin [roughlyenoughitems]
+[15:13:58] [main/INFO]: [REI]  - (0.00) FabricFluidAPISupportPlugin
+[15:13:58] [main/INFO]: [REI]  - (0.00) DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]
+[15:13:58] [main/INFO]: [REI] ########################################
+[15:13:58] [main/INFO]: [REI] REIPlugin finished post-reload for END in 1.112 ms, totaling 28.09 ms.
+[15:13:58] [main/INFO]: [REI] REIServerPlugin finished post-reload for END in 720.2 μs, totaling 5.515 ms.
+[15:13:58] [main/ERROR]: [worlds_together] Unable to parse Version in jar:file:///workspaces/das/servidor_minecraft/mods/dungeons-and-taverns-3.0.3.f.jar
+[15:13:58] [main/ERROR]: [worlds_together] Unable to parse Version in jar:file:///workspaces/das/servidor_minecraft/mods/Stellarity-v2-0e.jar
+[15:13:58] [main/INFO]: [bclib] Enforcing Correct Generator for minecraft:the_nether.
+[15:13:58] [main/INFO]: [bclib] Updating Pickers for BCLib - Nether BiomeSource (68ac78c3)
+[15:13:58] [main/INFO]: [bclib] Make sure features are loaded from terrablender:org.betterx.bclib.api.v2.generator.BCLibNetherBiomeSource
+[15:13:58] [main/INFO]: [bclib] Enforcing Correct Generator for minecraft:the_end.
+[15:13:58] [main/INFO]: [bclib] Updating Pickers for BCLib - The End  BiomeSource (12c2b0f7)
+[15:13:58] [main/INFO]: [bclib] Make sure features are loaded from terrablender:org.betterx.bclib.api.v2.generator.BCLibEndBiomeSource
+[15:13:58] [main/INFO]: [worlds_together] Loading originally configured Dimensions in World.
+[15:13:58] [main/INFO]: Initialized TerraBlender biomes for level stem minecraft:overworld
+[15:13:58] [main/INFO]: Applied 1343 biome modifications to 236 of 236 new biomes in 86.39 ms
+[15:13:58] [Server thread/INFO]: Loading server config for puzzlesapi
+[15:13:58] [Thread-5/INFO]: Reloading server config for puzzlesapi
+[15:13:58] [Server thread/INFO]: Reading config.
+[15:13:58] [Server thread/INFO]: Starting minecraft server version 1.20.1
+[15:13:58] [Server thread/INFO]: Loading properties
+[15:13:58] [Server thread/INFO]: Default game type: SURVIVAL
+[15:13:58] [Server thread/INFO]: Generating keypair
+[15:13:58] [Server thread/INFO]: Starting Minecraft server on *:25565
+[15:13:58] [Server thread/INFO]: Using epoll channel type
+[15:13:58] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[15:13:58] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[15:13:58] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[15:13:58] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[15:13:58] [Server thread/INFO]: Preparing level "world"
+[15:13:58] [Server thread/INFO]: [bclib] 
 Apply Modifications for minecraft:the_nether
-    BCLib - Nether BiomeSource (6bcaa37)
+    BCLib - Nether BiomeSource (68ac78c3)
         biomes     = 13
         namespaces = minecraft(5), incendium(8)
         seed       = 0
         height     = 192
         config     = BCLibNetherBiomeSourceConfig{mapVersion=hex, useVerticalBiomes=true, amplified=false, biomeSize=256, biomeSizeVertical=86}
-[04:16:37] [Server thread/INFO]: [bclib] 
+[15:13:58] [Server thread/INFO]: [bclib] 
 Apply Modifications for deeperdarker:otherside
-    class_4766 (568cc255)
+    class_4766 (7c5f490d)
         biomes     = 4
         namespaces = deeperdarker(4)
-[04:16:37] [Server thread/INFO]: [bclib] World Dimensions: 
- - minecraft:overworld: 
-     net.minecraft.class_3754@3723b104 
-     class_4766 (1a5261df)
-         biomes     = 149
-         namespaces = minecraft(53), terralith(94), yungscavebiomes(2)
- - minecraft:the_end: 
-     BCLib - Chunk Generator (1f367a58) 
-     BCLib - The End  BiomeSource (7e77e8)
-         biomes     = 42
-         namespaces = betterend(19), stellarity(7), far_end(8), nullscape(3), minecraft(5)
-         seed       = 0
-         height     = 288
-         deciders   = 0
-         config     = BCLEndBiomeSourceConfig{mapVersion=hex, generatorVersion=vanilla, withVoidBiomes=true, innerVoidRadiusSquared=1048576, voidBiomesSize=256, centerBiomesSize=256, landBiomesSize=256, barrensBiomesSize=256}
+[15:13:58] [Server thread/INFO]: [bclib] 
+Apply Modifications for minecraft:the_end
+    BCLib - The End  BiomeSource (12c2b0f7)
+        biomes     = 42
+        namespaces = betterend(19), nullscape(3), stellarity(7), minecraft(5), far_end(8)
+        seed       = 0
+        height     = 288
+        deciders   = 0
+        config     = BCLEndBiomeSourceConfig{mapVersion=hex, generatorVersion=vanilla, withVoidBiomes=true, innerVoidRadiusSquared=1048576, voidBiomesSize=256, centerBiomesSize=256, landBiomesSize=256, barrensBiomesSize=256}
+[15:13:58] [Server thread/INFO]: [bclib] 
+Apply Modifications for minecraft:overworld
+    class_4766 (79fbc58)
+        biomes     = 149
+        namespaces = minecraft(53), terralith(94), yungscavebiomes(2)
+[15:13:58] [Server thread/INFO]: [bclib] World Dimensions: 
  - minecraft:the_nether: 
-     BCLib - Chunk Generator (583ca0d2) 
-     BCLib - Nether BiomeSource (6bcaa37)
+     BCLib - Chunk Generator (51c3bad9) 
+     BCLib - Nether BiomeSource (68ac78c3)
          biomes     = 13
          namespaces = minecraft(5), incendium(8)
          seed       = 0
          height     = 192
          config     = BCLibNetherBiomeSourceConfig{mapVersion=hex, useVerticalBiomes=true, amplified=false, biomeSize=256, biomeSizeVertical=86}
  - deeperdarker:otherside: 
-     net.minecraft.class_3754@25f0a428 
-     class_4766 (568cc255)
+     net.minecraft.class_3754@41a73199 
+     class_4766 (7c5f490d)
          biomes     = 4
          namespaces = deeperdarker(4)
-[04:16:37] [Server thread/INFO]: [bclib] Merged 19 additional Surface Rules for 
-BCLib - The End  BiomeSource (7e77e8)
+ - minecraft:the_end: 
+     BCLib - Chunk Generator (1724fda6) 
+     BCLib - The End  BiomeSource (12c2b0f7)
+         biomes     = 42
+         namespaces = betterend(19), nullscape(3), stellarity(7), minecraft(5), far_end(8)
+         seed       = 0
+         height     = 288
+         deciders   = 0
+         config     = BCLEndBiomeSourceConfig{mapVersion=hex, generatorVersion=vanilla, withVoidBiomes=true, innerVoidRadiusSquared=1048576, voidBiomesSize=256, centerBiomesSize=256, landBiomesSize=256, barrensBiomesSize=256}
+ - minecraft:overworld: 
+     net.minecraft.class_3754@6a492efb 
+     class_4766 (79fbc58)
+         biomes     = 149
+         namespaces = minecraft(53), terralith(94), yungscavebiomes(2)
+[15:13:58] [Server thread/INFO]: [bclib] Merged 19 additional Surface Rules for 
+BCLib - The End  BiomeSource (12c2b0f7)
     biomes     = 42
-    namespaces = betterend(19), stellarity(7), far_end(8), nullscape(3), minecraft(5)
+    namespaces = betterend(19), nullscape(3), stellarity(7), minecraft(5), far_end(8)
     seed       = 0
     height     = 288
     deciders   = 0
     config     = BCLEndBiomeSourceConfig{mapVersion=hex, generatorVersion=vanilla, withVoidBiomes=true, innerVoidRadiusSquared=1048576, voidBiomesSize=256, centerBiomesSize=256, landBiomesSize=256, barrensBiomesSize=256} => 22
-[04:16:37] [Server thread/INFO]: Changing watch distance to 10
-[04:16:37] [Server thread/INFO]: Changing watch distance to 10
-[04:16:37] [Server thread/INFO]: Changing watch distance to 10
-[04:16:37] [Server thread/INFO]: Changing watch distance to 10
-[04:16:37] [Server thread/INFO]: Ksyxis: Hey. This is Ksyxis. We will now load the world and will try to do it quickly. If the game is not responding after this, it's probably us to blame or delete for good. This message appears always, even if the mod works flawlessly. (injector: modern, ci: CallbackInfo[TYPE=CallbackInfo,NAME=method_3774,CANCELLABLE=false], server: net.minecraft.class_3176@4a0bc082)
-[04:16:37] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[04:16:37] [Server thread/WARN]: Method overwrite conflict for removeIf in modernfix-common.mixins.json:bugfix.paper_chunk_patches.SortedArraySetMixin from mod modernfix, previously written by me.jellysquid.mods.lithium.mixin.world.chunk_tickets.SortedArraySetMixin. Skipping method.
-[04:16:37] [Server thread/INFO]: Time elapsed: 51 ms
-[04:16:37] [Server thread/INFO]: Done (0.774s)! For help, type "help"
-[04:16:37] [Server thread/WARN]: Dedicated server took 46.746 seconds to load
-[04:16:37] [Server thread/INFO]: [STDOUT]: PREPARING FOR RELOAD
-[04:16:37] [Server thread/INFO]: Start loading plugin from Jade
-[04:16:37] [Server thread/INFO]: Start loading plugin from Jade
-[04:16:37] [Server thread/INFO]: Start loading plugin from Jade
-[04:16:37] [Server thread/INFO]: Loading Xaero's Minimap - Stage 2/2 (Server)
-[04:16:37] [Server thread/INFO]: Loading Xaero's World Map - Stage 2/2 (Server)
-[04:17:06] [Server thread/INFO]: Pikel_03[/127.219.55.4:59491] logged in with entity id 10 at (-1294.2095858808912, 71.0, 288.5321553944051)
-[04:17:06] [Server thread/INFO]: Syncing config to Pikel_03 (afc4c9dd-8d66-358b-8b8b-98baedbba298)
-[04:17:06] [Server thread/INFO]: Loading config from file...
-[04:17:06] [Server thread/INFO]: Pikel_03 joined the game
-[04:17:06] [Server thread/INFO]: Player Pikel_03 just logged in with id afc4c9dd-8d66-358b-8b8b-98baedbba298
-[04:17:06] [ForkJoinPool-5-worker-1/INFO]: Loading local skin for player Pikel_03[afc4c9dd-8d66-358b-8b8b-98baedbba298]
-[04:17:07] [ForkJoinPool-5-worker-1/INFO]: File https://playerdb.co/api/player/minecraft/Pikel_03 downloaded
-[04:17:07] [Server thread/INFO]: Async chunk loading for player Pikel_03 completed
-[04:17:23] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
-[04:17:23] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
-[04:17:23] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
-[04:17:23] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
-[04:17:23] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
-[04:17:23] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
-[04:17:23] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
-[04:17:23] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
-[04:17:23] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
-[04:17:23] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
-[04:17:23] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/das/servidor_minecraft/bclib-sync (allowDelete=true)
-[04:32:55] [Server thread/INFO]: Pikel_03 has made the advancement [What a Deal!]
-[04:41:37] [Server thread/INFO]: [Pikel_03: Set own game mode to Creative Mode]
-[04:41:45] [Server thread/INFO]: [Pikel_03: Set own game mode to Survival Mode]
-[04:48:24] [Server thread/INFO]: Pikel_03 lost connection: Disconnected
-[04:48:24] [Server thread/INFO]: Pikel_03 left the game
-[04:48:24] [Server thread/INFO]: Removing session data for player Pikel_03[afc4c9dd-8d66-358b-8b8b-98baedbba298]
-[04:48:24] [Server thread/WARN]: handleDisconnection() called twice
+[15:13:59] [Server thread/INFO]: Changing watch distance to 10
+[15:13:59] [Server thread/INFO]: Changing watch distance to 10
+[15:13:59] [Server thread/INFO]: Changing watch distance to 10
+[15:13:59] [Server thread/INFO]: Changing watch distance to 10
+[15:13:59] [Server thread/INFO]: Ksyxis: Hey. This is Ksyxis. We will now load the world and will try to do it quickly. If the game is not responding after this, it's probably us to blame or delete for good. This message appears always, even if the mod works flawlessly. (injector: modern, ci: CallbackInfo[TYPE=CallbackInfo,NAME=method_3774,CANCELLABLE=false], server: net.minecraft.class_3176@739d2443)
+[15:13:59] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[15:13:59] [Server thread/WARN]: Method overwrite conflict for removeIf in modernfix-common.mixins.json:bugfix.paper_chunk_patches.SortedArraySetMixin from mod modernfix, previously written by me.jellysquid.mods.lithium.mixin.world.chunk_tickets.SortedArraySetMixin. Skipping method.
+[15:13:59] [Server thread/INFO]: Time elapsed: 48 ms
+[15:13:59] [Server thread/INFO]: Done (0.675s)! For help, type "help"
+[15:13:59] [Server thread/WARN]: Dedicated server took 44.349 seconds to load
+[15:13:59] [Server thread/INFO]: [STDOUT]: PREPARING FOR RELOAD
+[15:13:59] [Server thread/INFO]: Start loading plugin from Jade
+[15:13:59] [Server thread/INFO]: Start loading plugin from Jade
+[15:13:59] [Server thread/INFO]: Start loading plugin from Jade
+[15:13:59] [Server thread/INFO]: Loading Xaero's Minimap - Stage 2/2 (Server)
+[15:13:59] [Server thread/INFO]: Loading Xaero's World Map - Stage 2/2 (Server)

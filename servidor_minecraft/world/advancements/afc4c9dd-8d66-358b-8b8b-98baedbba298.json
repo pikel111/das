@@ -938,6 +938,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:sunflower_plains": "2025-10-01 20:05:37 +0000",
+      "minecraft:cherry_grove": "2025-10-03 04:30:05 +0000",
       "minecraft:river": "2025-10-01 18:44:15 +0000",
       "minecraft:dripstone_caves": "2025-10-01 20:01:18 +0000",
       "minecraft:plains": "2025-10-01 19:16:38 +0000"
@@ -1699,6 +1700,7 @@
       "minecraft:creeper": "2025-10-02 21:18:52 +0000",
       "minecraft:slime": "2025-10-01 21:53:36 +0000",
       "minecraft:phantom": "2025-10-01 21:36:20 +0000",
+      "minecraft:stray": "2025-10-03 04:29:48 +0000",
       "minecraft:zombie": "2025-10-01 19:35:50 +0000"
     },
     "done": false
@@ -3605,6 +3607,78 @@
   "master_cutter:recipes/stone/deepslate": {
     "criteria": {
       "requirement": "2025-10-03 04:12:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_carpet": {
+    "criteria": {
+      "has_gray_wool": "2025-10-03 04:26:45 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/pumpkin": {
+    "criteria": {
+      "has_pumpkin": "2025-10-03 04:23:47 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/decorations/gray_sleeping_bag": {
+    "criteria": {
+      "has_gray_wool": "2025-10-03 04:26:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_banner": {
+    "criteria": {
+      "has_gray_wool": "2025-10-03 04:26:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_pink_petals": {
+    "criteria": {
+      "has_pink_petals": "2025-10-03 04:30:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_bed": {
+    "criteria": {
+      "has_gray_wool": "2025-10-03 04:26:45 +0000"
+    },
+    "done": true
+  },
+  "friendsandfoes:adventure/the_magicians": {
+    "criteria": {
+      "killed_iceologer": "2025-10-03 04:27:37 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2025-10-03 04:23:47 +0000"
+    },
+    "done": true
+  },
+  "friendsandfoes:adventure/kill_iceologer": {
+    "criteria": {
+      "killed_iceologer": "2025-10-03 04:27:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2025-10-03 04:30:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_block": {
+    "criteria": {
+      "has_bamboo": "2025-10-03 04:30:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2025-10-03 04:30:06 +0000"
     },
     "done": true
   },

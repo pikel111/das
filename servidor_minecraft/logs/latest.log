@@ -1231,3 +1231,5 @@ BCLib - The End  BiomeSource (5de02962)
 [03:05:57] [ForkJoinPool-5-worker-1/INFO]: Error downloading file https://playerdb.co/api/player/minecraft/DinokoMC
 [03:05:57] [ForkJoinPool-5-worker-1/INFO]: Error downloading file https://playerdb.co/api/player/minecraft/DinokoMC
 [03:12:32] [Server thread/INFO]: DinokoMC has made the advancement [Cover Me with Diamonds]
+[03:17:19] [Server thread/INFO]: DinokoMC lost connection: Disconnected
+[03:17:19] [Server thread/INFO]: DinokoMC left the game

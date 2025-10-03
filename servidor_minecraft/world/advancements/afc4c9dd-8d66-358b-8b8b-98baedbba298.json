@@ -3590,15 +3590,21 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/diamond_smithing": {
+    "criteria": {
+      "has_diamond": "2025-10-03 03:43:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/shiny_gear": {
     "criteria": {
       "diamond_boots": "2025-10-03 03:46:36 +0000"
     },
     "done": true
   },
-  "travelersbackpack:recipes/misc/diamond_smithing": {
+  "master_cutter:recipes/stone/deepslate": {
     "criteria": {
-      "has_diamond": "2025-10-03 03:43:26 +0000"
+      "requirement": "2025-10-03 04:12:52 +0000"
     },
     "done": true
   },

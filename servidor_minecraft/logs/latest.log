@@ -1247,3 +1247,18 @@ BCLib - The End  BiomeSource (27ef1b66)
 [04:27:37] [Server thread/INFO]: Pikel_03 has made the advancement [I was here, i lived, i..]
 [04:37:40] [Server thread/INFO]: Pikel_03 has made the advancement [Need A Map?]
 [04:37:40] [Server thread/INFO]: Pikel_03 has made the advancement [The Beginning of An Adventure]
+[04:39:42] [Server thread/INFO]: [Pikel_03: Set own game mode to Spectator Mode]
+[04:40:30] [Server thread/INFO]: [Pikel_03: Set own game mode to Survival Mode]
+[04:42:29] [Server thread/INFO]: [Pikel_03: Gave 1 [Shield] to Pikel_03]
+[04:44:25] [Server thread/WARN]: Pikel_03 moved too quickly! 1.6629729476214834,-1.8499999999999954,9.912646314447898
+[04:44:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5413ms or 108 ticks behind
+[04:44:37] [Server thread/WARN]: Pikel_03 moved too quickly! 1.5931584788611417,-2.250000000000001,9.677249290388033
+[04:45:43] [Server thread/INFO]: [Pikel_03: Set own game mode to Spectator Mode]
+[04:46:08] [Server thread/INFO]: [Pikel_03: Set own game mode to Survival Mode]
+[04:46:09] [Server thread/INFO]: Pikel_03 has reached the goal [Who built this?]
+[04:52:10] [Server thread/INFO]: [Pikel_03: Set own game mode to Spectator Mode]
+[04:53:03] [Server thread/INFO]: [Pikel_03: Set own game mode to Survival Mode]
+[04:53:58] [Server thread/INFO]: [Pikel_03: Teleported Pikel_03 to -1291.500000, 71.500000, 288.500000]
+[04:57:17] [Server thread/INFO]: Pikel_03 lost connection: Disconnected
+[04:57:17] [Server thread/INFO]: Pikel_03 left the game
+[04:57:17] [Server thread/INFO]: Removing session data for player Pikel_03[afc4c9dd-8d66-358b-8b8b-98baedbba298]

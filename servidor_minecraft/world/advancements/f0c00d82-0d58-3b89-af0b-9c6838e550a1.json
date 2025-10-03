@@ -3387,91 +3387,43 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-10-01 21:58:26 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-10-01 21:58:26 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-10-01 21:58:26 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-10-01 21:58:26 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-10-01 21:58:26 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-10-01 21:58:26 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-10-01 21:58:26 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-10-01 21:58:26 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-10-01 21:58:26 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-10-01 21:58:26 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-10-01 21:58:26 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-10-01 21:58:26 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/decorations/brick_wall": {
     "criteria": {
       "has_bricks": "2025-10-01 21:38:48 +0000"
     },
     "done": true
   },
-  "netherexp:recipes/smooth_netherrack/smooth_netherrack": {
+  "minecraft:recipes/building_blocks/brick_stairs": {
     "criteria": {
-      "has_item": "2025-10-01 21:45:02 +0000"
+      "has_bricks": "2025-10-01 21:38:48 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/brick_stairs": {
+  "minecraft:recipes/building_blocks/brick_stairs_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2025-10-01 21:38:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_slab": {
+    "criteria": {
+      "has_bricks": "2025-10-01 21:38:48 +0000"
+    },
+    "done": true
+  },
+  "master_cutter:recipes/stone/bricks": {
+    "criteria": {
+      "requirement": "2025-10-01 21:38:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_slab_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2025-10-01 21:38:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brick_wall_from_bricks_stonecutting": {
     "criteria": {
       "has_bricks": "2025-10-01 21:38:48 +0000"
     },
@@ -3483,45 +3435,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/brick_stairs_from_bricks_stonecutting": {
+  "minecraft:story/enter_the_nether": {
     "criteria": {
-      "has_bricks": "2025-10-01 21:38:48 +0000"
+      "entered_nether": "2025-10-01 21:44:34 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/cyan_glazed_terracotta": {
+  "minecraft:nether/root": {
     "criteria": {
-      "has_cyan_terracotta": "2025-10-01 21:53:03 +0000"
+      "entered_nether": "2025-10-01 21:44:34 +0000"
     },
     "done": true
   },
   "incendium:toxic_heap/root": {
     "criteria": {
       "requirement": "2025-10-01 21:44:35 +0000"
-    },
-    "done": true
-  },
-  "stellarity:events/on_death": {
-    "criteria": {
-      "requirement": "2025-10-01 21:48:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/brick_slab": {
-    "criteria": {
-      "has_bricks": "2025-10-01 21:38:48 +0000"
-    },
-    "done": true
-  },
-  "incendium:misc/root": {
-    "criteria": {
-      "incendium:infernal_dunes": "2025-10-01 21:44:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/slime_block": {
-    "criteria": {
-      "has_slime_ball": "2025-10-01 21:54:30 +0000"
     },
     "done": true
   },
@@ -3532,117 +3460,9 @@
     },
     "done": false
   },
-  "master_cutter:recipes/stone/bricks": {
+  "incendium:misc/root": {
     "criteria": {
-      "requirement": "2025-10-01 21:38:48 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/cake": {
-    "criteria": {
-      "has_egg": "2025-10-01 21:48:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/nether_brick": {
-    "criteria": {
-      "has_netherrack": "2025-10-01 21:45:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/magma_block": {
-    "criteria": {
-      "has_magma_cream": "2025-10-01 21:57:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cake": {
-    "criteria": {
-      "has_egg": "2025-10-01 21:48:11 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/standard_smithing": {
-    "criteria": {
-      "has_standard": "2025-10-01 21:51:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/enter_the_nether": {
-    "criteria": {
-      "entered_nether": "2025-10-01 21:44:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/red_glazed_terracotta": {
-    "criteria": {
-      "has_red_terracotta": "2025-10-01 21:53:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/brick_slab_from_bricks_stonecutting": {
-    "criteria": {
-      "has_bricks": "2025-10-01 21:38:48 +0000"
-    },
-    "done": true
-  },
-  "netherexp:recipes/misc/soul_magma_block": {
-    "criteria": {
-      "has_item": "2025-10-01 21:57:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/red_sandstone": {
-    "criteria": {
-      "has_sand": "2025-10-01 21:44:56 +0000"
-    },
-    "done": true
-  },
-  "incendium:infernal_dunes/pipeline/root": {
-    "criteria": {
-      "requirement": "2025-10-01 21:46:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/lead": {
-    "criteria": {
-      "has_slime_ball": "2025-10-01 21:54:30 +0000"
-    },
-    "done": true
-  },
-  "yungscavebiomes:recipes/building_blocks/brittle_red_sandstone": {
-    "criteria": {
-      "has_sand": "2025-10-01 21:44:56 +0000"
-    },
-    "done": true
-  },
-  "ecologics:recipes/ecologics/pot": {
-    "criteria": {
-      "has_terracotta": "2025-10-01 21:47:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/sticky_piston": {
-    "criteria": {
-      "has_slime_ball": "2025-10-01 21:54:30 +0000"
-    },
-    "done": true
-  },
-  "incendium:toxic_heap/slime_poison": {
-    "criteria": {
-      "poison": "2025-10-01 21:53:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/root": {
-    "criteria": {
-      "entered_nether": "2025-10-01 21:44:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/lime_glazed_terracotta": {
-    "criteria": {
-      "has_lime_terracotta": "2025-10-01 21:47:18 +0000"
+      "incendium:infernal_dunes": "2025-10-01 21:44:45 +0000"
     },
     "done": true
   },
@@ -3652,15 +3472,123 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_sandstone": {
+    "criteria": {
+      "has_sand": "2025-10-01 21:44:56 +0000"
+    },
+    "done": true
+  },
+  "yungscavebiomes:recipes/building_blocks/brittle_red_sandstone": {
+    "criteria": {
+      "has_sand": "2025-10-01 21:44:56 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/smooth_netherrack/smooth_netherrack": {
+    "criteria": {
+      "has_item": "2025-10-01 21:45:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-10-01 21:45:02 +0000"
+    },
+    "done": true
+  },
+  "incendium:infernal_dunes/pipeline/root": {
+    "criteria": {
+      "requirement": "2025-10-01 21:46:41 +0000"
+    },
+    "done": true
+  },
+  "ecologics:recipes/ecologics/pot": {
+    "criteria": {
+      "has_terracotta": "2025-10-01 21:47:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_glazed_terracotta": {
+    "criteria": {
+      "has_lime_terracotta": "2025-10-01 21:47:18 +0000"
+    },
+    "done": true
+  },
   "incendium:infernal_dunes/pipeline/unlimited_power": {
     "criteria": {
       "requirement": "2025-10-01 21:47:25 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/brick_wall_from_bricks_stonecutting": {
+  "travelersbackpack:recipes/misc/cake": {
     "criteria": {
-      "has_bricks": "2025-10-01 21:38:48 +0000"
+      "has_egg": "2025-10-01 21:48:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-10-01 21:48:11 +0000"
+    },
+    "done": true
+  },
+  "stellarity:events/on_death": {
+    "criteria": {
+      "requirement": "2025-10-01 21:48:30 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/standard_smithing": {
+    "criteria": {
+      "has_standard": "2025-10-01 21:51:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_glazed_terracotta": {
+    "criteria": {
+      "has_cyan_terracotta": "2025-10-01 21:53:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_glazed_terracotta": {
+    "criteria": {
+      "has_red_terracotta": "2025-10-01 21:53:03 +0000"
+    },
+    "done": true
+  },
+  "incendium:toxic_heap/slime_poison": {
+    "criteria": {
+      "poison": "2025-10-01 21:53:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2025-10-01 21:54:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-10-01 21:54:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-10-01 21:54:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2025-10-01 21:57:02 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/misc/soul_magma_block": {
+    "criteria": {
+      "has_item": "2025-10-01 21:57:02 +0000"
     },
     "done": true
   },

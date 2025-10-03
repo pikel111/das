@@ -1188,3 +1188,46 @@ BCLib - The End  BiomeSource (5de02962)
 [02:46:22] [Server thread/INFO]: Start loading plugin from Jade
 [02:46:23] [Server thread/INFO]: Loading Xaero's Minimap - Stage 2/2 (Server)
 [02:46:23] [Server thread/INFO]: Loading Xaero's World Map - Stage 2/2 (Server)
+[03:05:34] [Server thread/INFO]: DinokoMC[/127.201.95.170:35083] logged in with entity id 20 at (-1291.3064156320029, 68.0, 267.3122025842908)
+[03:05:34] [Server thread/INFO]: Syncing config to DinokoMC (f0c00d82-0d58-3b89-af0b-9c6838e550a1)
+[03:05:34] [Server thread/INFO]: Loading config from file...
+[03:05:35] [Server thread/INFO]: DinokoMC joined the game
+[03:05:35] [Server thread/INFO]: Player DinokoMC just logged in with id f0c00d82-0d58-3b89-af0b-9c6838e550a1
+[03:05:35] [Server thread/INFO]: Async chunk loading for player DinokoMC completed
+[03:05:35] [ForkJoinPool-5-worker-1/INFO]: Error downloading file https://playerdb.co/api/player/minecraft/DinokoMC
+[03:05:35] [ForkJoinPool-5-worker-1/INFO]: Error downloading file https://playerdb.co/api/player/minecraft/DinokoMC
+[03:05:35] [ForkJoinPool-5-worker-1/INFO]: Error downloading file https://playerdb.co/api/player/minecraft/DinokoMC
+[03:05:43] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[03:05:43] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[03:05:43] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[03:05:43] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[03:05:43] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[03:05:43] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[03:05:43] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[03:05:43] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[03:05:43] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[03:05:43] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[03:05:43] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/das/servidor_minecraft/bclib-sync (allowDelete=true)
+[03:05:51] [Server thread/INFO]: DinokoMC lost connection: Disconnected
+[03:05:51] [Server thread/INFO]: DinokoMC left the game
+[03:05:57] [Server thread/INFO]: DinokoMC[/127.201.95.170:38977] logged in with entity id 564 at (-1291.3064156320029, 68.0, 267.3122025842908)
+[03:05:57] [Server thread/INFO]: Syncing config to DinokoMC (f0c00d82-0d58-3b89-af0b-9c6838e550a1)
+[03:05:57] [Server thread/INFO]: Loading config from file...
+[03:05:57] [Server thread/INFO]: DinokoMC joined the game
+[03:05:57] [Server thread/INFO]: Player DinokoMC just logged in with id f0c00d82-0d58-3b89-af0b-9c6838e550a1
+[03:05:57] [ForkJoinPool-5-worker-1/INFO]: Error downloading file https://playerdb.co/api/player/minecraft/DinokoMC
+[03:05:57] [Server thread/INFO]: Async chunk loading for player DinokoMC completed
+[03:05:57] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[03:05:57] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[03:05:57] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[03:05:57] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[03:05:57] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[03:05:57] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[03:05:57] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[03:05:57] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[03:05:57] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[03:05:57] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[03:05:57] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/das/servidor_minecraft/bclib-sync (allowDelete=true)
+[03:05:57] [ForkJoinPool-5-worker-1/INFO]: Error downloading file https://playerdb.co/api/player/minecraft/DinokoMC
+[03:05:57] [ForkJoinPool-5-worker-1/INFO]: Error downloading file https://playerdb.co/api/player/minecraft/DinokoMC
+[03:12:32] [Server thread/INFO]: DinokoMC has made the advancement [Cover Me with Diamonds]

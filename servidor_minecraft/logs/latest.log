@@ -1233,3 +1233,22 @@ BCLib - The End  BiomeSource (5de02962)
 [03:12:32] [Server thread/INFO]: DinokoMC has made the advancement [Cover Me with Diamonds]
 [03:17:19] [Server thread/INFO]: DinokoMC lost connection: Disconnected
 [03:17:19] [Server thread/INFO]: DinokoMC left the game
+[03:41:07] [Server thread/INFO]: Pikel_03[/127.219.55.4:43229] logged in with entity id 3441 at (-1285.8822391256388, 71.0, 295.5463053254107)
+[03:41:07] [Server thread/INFO]: Syncing config to Pikel_03 (afc4c9dd-8d66-358b-8b8b-98baedbba298)
+[03:41:07] [Server thread/INFO]: Loading config from file...
+[03:41:07] [Server thread/INFO]: Pikel_03 joined the game
+[03:41:07] [Server thread/INFO]: Player Pikel_03 just logged in with id afc4c9dd-8d66-358b-8b8b-98baedbba298
+[03:41:07] [ForkJoinPool-5-worker-2/INFO]: Loading local skin for player Pikel_03[afc4c9dd-8d66-358b-8b8b-98baedbba298]
+[03:41:07] [ForkJoinPool-5-worker-2/INFO]: File https://playerdb.co/api/player/minecraft/Pikel_03 downloaded
+[03:41:07] [Server thread/INFO]: Async chunk loading for player Pikel_03 completed
+[03:41:09] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[03:41:09] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[03:41:09] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[03:41:09] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[03:41:09] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[03:41:09] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[03:41:09] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[03:41:09] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[03:41:09] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[03:41:09] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[03:41:09] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/das/servidor_minecraft/bclib-sync (allowDelete=true)

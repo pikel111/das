@@ -1615,3 +1615,69 @@ BCLib - The End  BiomeSource (16f8b4a5)
 [05:13:20] [Server thread/INFO]: [DinokoMC: Teleported DinokoMC to Pikel_03]
 [05:13:36] [Server thread/WARN]: DinokoMC moved too quickly! -0.5755458501001698,-10.856489120741145,-0.561189629826913
 [05:13:37] [Server thread/INFO]: [DinokoMC: Teleported DinokoMC to Pikel_03]
+[05:16:33] [Server thread/INFO]: [DinokoMC: Teleported DinokoMC to Pikel_03]
+[05:17:29] [Server thread/WARN]: DinokoMC moved too quickly! -0.6122287722194955,-12.708162068455408,-0.17641060277992437
+[05:17:31] [Server thread/INFO]: [DinokoMC: Teleported DinokoMC to Pikel_03]
+[05:18:58] [Server thread/INFO]: [DinokoMC: Set own game mode to Creative Mode]
+[05:19:13] [Server thread/INFO]: [DinokoMC: Set own game mode to Survival Mode]
+[05:19:18] [Server thread/INFO]: [DinokoMC: Teleported Pikel_03 to DinokoMC]
+[05:19:22] [Server thread/INFO]: Pikel_03 lost connection: Timed out
+[05:19:22] [Server thread/INFO]: Pikel_03 left the game
+[05:19:22] [Server thread/INFO]: Removing session data for player Pikel_03[afc4c9dd-8d66-358b-8b8b-98baedbba298]
+[05:19:31] [Server thread/INFO]: Pikel_03[/127.219.55.4:55699] logged in with entity id 93118 at (-84.26997611132937, 150.0, -3015.666509054412)
+[05:19:31] [Server thread/INFO]: Syncing config to Pikel_03 (afc4c9dd-8d66-358b-8b8b-98baedbba298)
+[05:19:31] [Server thread/INFO]: Loading config from file...
+[05:19:31] [Server thread/INFO]: Pikel_03 joined the game
+[05:19:31] [Server thread/INFO]: Player Pikel_03 just logged in with id afc4c9dd-8d66-358b-8b8b-98baedbba298
+[05:19:31] [ForkJoinPool-5-worker-8/INFO]: Loading local skin for player Pikel_03[afc4c9dd-8d66-358b-8b8b-98baedbba298]
+[05:19:31] [Server thread/INFO]: Async chunk loading for player Pikel_03 completed
+[05:19:31] [ForkJoinPool-5-worker-8/INFO]: File https://playerdb.co/api/player/minecraft/Pikel_03 downloaded
+[05:19:33] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[05:19:33] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[05:19:33] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[05:19:33] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[05:19:33] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[05:19:33] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[05:19:33] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[05:19:33] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[05:19:33] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[05:19:33] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[05:19:33] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/das/servidor_minecraft/bclib-sync (allowDelete=true)
+[05:19:54] [Server thread/INFO]: [DinokoMC: Teleported Pikel_03 to DinokoMC]
+[05:20:02] [Server thread/INFO]: [DinokoMC: Teleported DinokoMC to Pikel_03]
+[05:20:14] [Server thread/INFO]: [DinokoMC: Teleported Pikel_03 to DinokoMC]
+[05:20:17] [Server thread/INFO]: [DinokoMC: Teleported Pikel_03 to DinokoMC]
+[05:20:18] [Server thread/INFO]: [DinokoMC: Teleported Pikel_03 to DinokoMC]
+[05:20:18] [Server thread/INFO]: Pikel_03 has reached the goal [Postmortal]
+[05:20:19] [Server thread/INFO]: [DinokoMC: Teleported Pikel_03 to DinokoMC]
+[05:20:30] [Server thread/INFO]: [DinokoMC: Teleported Pikel_03 to DinokoMC]
+[05:20:39] [Server thread/INFO]: [DinokoMC: Teleported Pikel_03 to DinokoMC]
+[05:20:46] [Server thread/INFO]: [DinokoMC: Teleported Pikel_03 to DinokoMC]
+[05:20:49] [Server thread/INFO]: [Pikel_03: Made DinokoMC no longer a server operator]
+[05:21:07] [Server thread/INFO]: [Pikel_03: Set own game mode to Spectator Mode]
+[05:21:16] [Server thread/INFO]: Pikel_03 lost connection: Timed out
+[05:21:16] [Server thread/INFO]: Pikel_03 left the game
+[05:21:16] [Server thread/INFO]: Removing session data for player Pikel_03[afc4c9dd-8d66-358b-8b8b-98baedbba298]
+[05:22:11] [Server thread/INFO]: Pikel_03[/127.219.55.4:41977] logged in with entity id 93966 at (-84.58609369041983, 62.91090615829453, -3009.0942158024827)
+[05:22:11] [Server thread/INFO]: Syncing config to Pikel_03 (afc4c9dd-8d66-358b-8b8b-98baedbba298)
+[05:22:11] [Server thread/INFO]: Loading config from file...
+[05:22:11] [Server thread/INFO]: Pikel_03 joined the game
+[05:22:11] [Server thread/INFO]: Player Pikel_03 just logged in with id afc4c9dd-8d66-358b-8b8b-98baedbba298
+[05:22:11] [ForkJoinPool-5-worker-9/INFO]: Loading local skin for player Pikel_03[afc4c9dd-8d66-358b-8b8b-98baedbba298]
+[05:22:11] [Server thread/INFO]: Async chunk loading for player Pikel_03 completed
+[05:22:11] [ForkJoinPool-5-worker-9/INFO]: File https://playerdb.co/api/player/minecraft/Pikel_03 downloaded
+[05:22:12] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[05:22:12] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[05:22:12] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[05:22:12] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[05:22:12] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[05:22:12] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[05:22:12] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[05:22:12] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[05:22:12] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[05:22:12] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[05:22:12] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/das/servidor_minecraft/bclib-sync (allowDelete=true)
+[05:22:20] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location class_2338{x=-356, y=5, z=-2979}
+[05:22:38] [Server thread/INFO]: [Pikel_03: Set own game mode to Survival Mode]
+[05:22:53] [Server thread/INFO]: [Not Secure] <DinokoMC> Pikel_03 pta
+[05:24:49] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location class_2338{x=-551, y=65, z=-2562}

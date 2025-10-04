@@ -1312,3 +1312,82 @@ BCLib - The End  BiomeSource (16f8b4a5)
 [03:07:59] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/das/servidor_minecraft/bclib-sync (allowDelete=true)
 [03:13:13] [Server thread/INFO]: Portal located for entity class_3222['Pikel_03'/16, l='ServerLevel[world]', x=-1494.79, y=82.00, z=232.14] at TeleportTarget{pitch=54.762753, position=(-184.5, 49.0, 29.884970274800214), velocity=(0.0, -0.0784000015258789, 0.0), yaw=-88.62716}
 [03:13:50] [Server thread/INFO]: Named entity class_1621['Toxic Slime'/2290, l='ServerLevel[world]', x=-129.13, y=-20.00, z=-0.86] died: Toxic Slime was killed
+[03:14:31] [Server thread/INFO]: Named entity class_1621['Toxic Slime'/2281, l='ServerLevel[world]', x=-215.57, y=-20.00, z=39.58] died: Toxic Slime was killed
+[03:14:38] [Server thread/INFO]: Named entity class_1621['Toxic Slime'/2287, l='ServerLevel[world]', x=-172.26, y=-20.00, z=-10.04] died: Toxic Slime was killed
+[03:14:52] [Server thread/INFO]: [Pikel_03: Set own game mode to Creative Mode]
+[03:14:58] [Server thread/INFO]: [Pikel_03: Set own game mode to Survival Mode]
+[03:15:22] [Server thread/INFO]: com.mojang.authlib.GameProfile@76df85a0[id=<null>,name=DinokoMC,properties={},legacy=false] (/127.184.31.84:53299) lost connection: Disconnected
+[03:15:25] [Server thread/INFO]: DinokoMC[/127.184.31.84:38167] logged in with entity id 5554 at (-1286.5279278834994, 71.0, 297.1084702686122)
+[03:15:25] [Server thread/INFO]: Syncing config to DinokoMC (f0c00d82-0d58-3b89-af0b-9c6838e550a1)
+[03:15:25] [Server thread/INFO]: Loading config from file...
+[03:15:25] [Server thread/INFO]: DinokoMC joined the game
+[03:15:25] [Server thread/INFO]: Player DinokoMC just logged in with id f0c00d82-0d58-3b89-af0b-9c6838e550a1
+[03:15:25] [Server thread/INFO]: Async chunk loading for player DinokoMC completed
+[03:15:26] [ForkJoinPool-5-worker-2/INFO]: Error downloading file https://playerdb.co/api/player/minecraft/DinokoMC
+[03:15:26] [ForkJoinPool-5-worker-2/INFO]: Error downloading file https://playerdb.co/api/player/minecraft/DinokoMC
+[03:15:26] [ForkJoinPool-5-worker-2/INFO]: Error downloading file https://playerdb.co/api/player/minecraft/DinokoMC
+[03:15:34] [Server thread/INFO]: [Pikel_03: Teleported Pikel_03 to DinokoMC]
+[03:15:39] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[03:15:39] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[03:15:39] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[03:15:39] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[03:15:39] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[03:15:39] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[03:15:39] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[03:15:39] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[03:15:39] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[03:15:39] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[03:15:39] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/das/servidor_minecraft/bclib-sync (allowDelete=true)
+[03:15:47] [Server thread/INFO]: DinokoMC lost connection: Disconnected
+[03:15:47] [Server thread/INFO]: DinokoMC left the game
+[03:16:09] [Server thread/INFO]: DinokoMC[/127.184.31.84:32783] logged in with entity id 6112 at (-1286.5279278834994, 71.0, 297.1084702686122)
+[03:16:09] [Server thread/INFO]: Syncing config to DinokoMC (f0c00d82-0d58-3b89-af0b-9c6838e550a1)
+[03:16:09] [Server thread/INFO]: Loading config from file...
+[03:16:09] [Server thread/INFO]: DinokoMC joined the game
+[03:16:09] [Server thread/INFO]: Player DinokoMC just logged in with id f0c00d82-0d58-3b89-af0b-9c6838e550a1
+[03:16:09] [Server thread/INFO]: Async chunk loading for player DinokoMC completed
+[03:16:09] [ForkJoinPool-5-worker-2/INFO]: Error downloading file https://playerdb.co/api/player/minecraft/DinokoMC
+[03:16:10] [ForkJoinPool-5-worker-2/INFO]: Error downloading file https://playerdb.co/api/player/minecraft/DinokoMC
+[03:16:10] [ForkJoinPool-5-worker-2/INFO]: Error downloading file https://playerdb.co/api/player/minecraft/DinokoMC
+[03:16:10] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[03:16:10] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[03:16:10] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[03:16:10] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[03:16:10] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[03:16:10] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[03:16:10] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[03:16:10] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[03:16:10] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[03:16:10] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[03:16:10] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/das/servidor_minecraft/bclib-sync (allowDelete=true)
+[03:16:53] [Server thread/INFO]: Pikel_03 has made the advancement [Safe Haven]
+[03:18:54] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location class_2338{x=-1168, y=65, z=-645}
+[03:18:57] [Worker-Main-10/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[03:18:57] [Worker-Main-10/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[03:18:58] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location class_2338{x=-1112, y=74, z=-668}
+[03:19:00] [Worker-Main-12/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[03:19:00] [Worker-Main-12/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[03:19:12] [Worker-Main-12/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[03:19:12] [Worker-Main-12/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[03:19:14] [Worker-Main-12/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[03:19:14] [Worker-Main-12/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[03:19:24] [Server thread/INFO]: Villager class_1646['Unemployed'/8593, l='ServerLevel[world]', x=-1143.72, y=78.00, z=-691.63] died, message: 'Unemployed suffocated in a wall'
+[03:21:35] [Server thread/INFO]: [DinokoMC: Teleported DinokoMC to Pikel_03]
+[03:22:07] [Server thread/INFO]: [DinokoMC: Teleported DinokoMC to -1297.500000, 71.500000, 286.500000]
+[03:28:40] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location class_2338{x=-351, y=64, z=-1169}
+[03:28:40] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location class_2338{x=-350, y=64, z=-1169}
+[03:28:52] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location class_2338{x=-314, y=64, z=-1192}
+[03:28:53] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location class_2338{x=-304, y=65, z=-1163}
+[03:28:53] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location class_2338{x=-304, y=65, z=-1164}
+[03:28:59] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location class_2338{x=-263, y=66, z=-1148}
+[03:28:59] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location class_2338{x=-264, y=66, z=-1148}
+[03:29:29] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location class_2338{x=-161, y=-15, z=-1113}
+[03:29:38] [Server thread/WARN]: Pikel_03 moved too quickly! -10.12826281111569,0.0,-0.726137680332613
+[03:29:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3644ms or 72 ticks behind
+[03:29:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6390ms or 127 ticks behind
+[03:30:57] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location class_2338{x=25, y=91, z=-1372}
+[03:30:59] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location class_2338{x=36, y=84, z=-1372}
+[03:32:36] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location class_2338{x=130, y=69, z=-1398}
+[03:33:12] [Server thread/INFO]: [DinokoMC: Teleported DinokoMC to Pikel_03]
+[03:33:23] [Server thread/INFO]: [DinokoMC: Set own game mode to Creative Mode]
+[03:33:25] [Server thread/INFO]: [DinokoMC: Set own game mode to Survival Mode]

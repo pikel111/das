@@ -961,12 +961,15 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:snowy_slopes": "2025-10-04 03:54:12 +0000",
       "minecraft:old_growth_pine_taiga": "2025-10-04 03:21:35 +0000",
       "minecraft:taiga": "2025-10-01 19:12:58 +0000",
       "minecraft:sunflower_plains": "2025-10-01 19:18:29 +0000",
+      "minecraft:cherry_grove": "2025-10-04 03:39:04 +0000",
       "minecraft:beach": "2025-10-01 19:13:52 +0000",
       "minecraft:river": "2025-10-01 18:44:21 +0000",
       "minecraft:dripstone_caves": "2025-10-01 20:01:29 +0000",
+      "minecraft:jagged_peaks": "2025-10-04 03:54:08 +0000",
       "minecraft:cold_ocean": "2025-10-01 19:13:59 +0000",
       "minecraft:forest": "2025-10-01 19:13:37 +0000",
       "minecraft:flower_forest": "2025-10-01 19:18:36 +0000",
@@ -3605,75 +3608,178 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "minecraft:story/lava_bucket": {
     "criteria": {
-      "log_spam_fixer": "2025-10-04 03:30:09 +0000"
+      "lava_bucket": "2025-10-04 03:36:22 +0000"
     },
-    "done": false
+    "done": true
+  },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2025-10-04 03:37:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2025-10-04 03:37:33 +0000"
+    },
+    "done": true
+  },
+  "ecologics:recipes/food/beetroot_soup_from_coconut_husk": {
+    "criteria": {
+      "has_beetroot": "2025-10-04 03:37:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-10-04 03:37:40 +0000"
+    },
+    "done": true
+  },
+  "stellarity:recipes/crying_obsidian_with_popped_chorus": {
+    "criteria": {
+      "has_item1": "2025-10-04 03:37:40 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/infusion_pedestal": {
+    "criteria": {
+      "has_obsidian": "2025-10-04 03:37:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_obsidian": "2025-10-04 03:37:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-10-04 03:37:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2025-10-04 03:48:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/copper_block": {
+    "criteria": {
+      "has_copper_ingot": "2025-10-04 03:48:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/brush": {
+    "criteria": {
+      "has_copper_ingot": "2025-10-04 03:48:25 +0000"
+    },
+    "done": true
+  },
+  "friendsandfoes:recipes/redstone/copper_button": {
+    "criteria": {
+      "has_copper_ingot": "2025-10-04 03:48:25 +0000"
+    },
+    "done": true
+  },
+  "master_cutter:recipes/metal/copper": {
+    "criteria": {
+      "requirement": "2025-10-04 03:48:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2025-10-04 03:54:22 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/snow": {
+    "criteria": {
+      "has_snowball": "2025-10-04 03:54:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2025-10-04 03:54:22 +0000"
+    },
+    "done": true
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2025-10-04 03:30:09 +0000"
+      "requirement": "2025-10-04 04:01:22 +0000",
+      "log_spam_fixer": "2025-10-04 04:01:15 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-10-04 04:01:15 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-10-04 03:30:09 +0000"
+      "log_spam_fixer": "2025-10-04 04:01:15 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-10-04 03:30:09 +0000"
+      "log_spam_fixer": "2025-10-04 04:01:15 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-10-04 03:30:09 +0000"
+      "log_spam_fixer": "2025-10-04 04:01:15 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-10-04 03:30:09 +0000"
+      "log_spam_fixer": "2025-10-04 04:01:15 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-10-04 03:30:09 +0000"
+      "log_spam_fixer": "2025-10-04 04:01:15 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-10-04 03:30:09 +0000"
+      "log_spam_fixer": "2025-10-04 04:01:15 +0000"
     },
     "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-10-04 03:30:09 +0000"
+      "log_spam_fixer": "2025-10-04 04:01:15 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-10-04 03:30:09 +0000"
+      "log_spam_fixer": "2025-10-04 04:01:15 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-10-04 03:30:09 +0000"
+      "log_spam_fixer": "2025-10-04 04:01:15 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-10-04 03:30:09 +0000"
+      "log_spam_fixer": "2025-10-04 04:01:15 +0000"
     },
     "done": false
   },

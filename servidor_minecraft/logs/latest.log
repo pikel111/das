@@ -1580,3 +1580,38 @@ BCLib - The End  BiomeSource (16f8b4a5)
 [05:04:38] [Server thread/INFO]: [Pikel_03: Teleported Pikel_03 to -1497.500000, 81.500000, 232.500000]
 [05:05:27] [Server thread/INFO]: [Pikel_03: Teleported Pikel_03 to -1291.500000, 71.500000, 288.500000]
 [05:05:51] [Server thread/INFO]: [Pikel_03: Teleported Pikel_03 to -1497.500000, 81.500000, 232.500000]
+[05:06:12] [Server thread/INFO]: [Pikel_03: Teleported Pikel_03 to 401.500000, 91.500000, -3320.500000]
+[05:06:33] [Server thread/INFO]: Portal not located for entity class_3222['Pikel_03'/57743, l='ServerLevel[world]', x=401.11, y=92.00, z=-3321.76] at null
+[05:07:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 45001ms or 900 ticks behind
+[05:07:21] [Server thread/INFO]: DinokoMC lost connection: Disconnected
+[05:07:21] [Server thread/INFO]: DinokoMC left the game
+[05:07:21] [Server thread/INFO]: DinokoMC[/127.184.31.84:57637] logged in with entity id 90418 at (-1294.6061241431078, 71.0, 290.00045651375234)
+[05:07:21] [Server thread/INFO]: Syncing config to DinokoMC (f0c00d82-0d58-3b89-af0b-9c6838e550a1)
+[05:07:21] [Server thread/INFO]: Loading config from file...
+[05:07:21] [Server thread/INFO]: DinokoMC joined the game
+[05:07:21] [Server thread/INFO]: Player DinokoMC just logged in with id f0c00d82-0d58-3b89-af0b-9c6838e550a1
+[05:07:21] [Server thread/INFO]: Async chunk loading for player DinokoMC completed
+[05:07:21] [ForkJoinPool-5-worker-7/INFO]: Error downloading file https://playerdb.co/api/player/minecraft/DinokoMC
+[05:07:21] [ForkJoinPool-5-worker-7/INFO]: Error downloading file https://playerdb.co/api/player/minecraft/DinokoMC
+[05:07:22] [ForkJoinPool-5-worker-7/INFO]: Error downloading file https://playerdb.co/api/player/minecraft/DinokoMC
+[05:07:22] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[05:07:22] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[05:07:22] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[05:07:22] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[05:07:22] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[05:07:22] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[05:07:22] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[05:07:22] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[05:07:22] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[05:07:22] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[05:07:22] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/das/servidor_minecraft/bclib-sync (allowDelete=true)
+[05:07:58] [Server thread/INFO]: [Pikel_03: Teleported Pikel_03 to -185.500000, 49.500000, 29.500000]
+[05:08:04] [Server thread/INFO]: Portal not located for entity class_3222['Pikel_03'/57743, l='ServerLevel[world]', x=-184.43, y=49.00, z=29.31] at null
+[05:08:15] [Server thread/INFO]: [Pikel_03: Teleported Pikel_03 to -1291.500000, 71.500000, 288.500000]
+[05:10:50] [Server thread/INFO]: [Pikel_03: Teleported Pikel_03 to -105.500000, 63.500000, -3033.500000]
+[05:12:02] [Server thread/INFO]: [DinokoMC: Teleported DinokoMC to Pikel_03]
+[05:12:42] [Server thread/WARN]: DinokoMC moved too quickly! -6.554670009487879,-7.00442209850322,3.302308923191049
+[05:13:12] [Server thread/INFO]: [Pikel_03: Set the weather to clear]
+[05:13:20] [Server thread/INFO]: [DinokoMC: Teleported DinokoMC to Pikel_03]
+[05:13:36] [Server thread/WARN]: DinokoMC moved too quickly! -0.5755458501001698,-10.856489120741145,-0.561189629826913
+[05:13:37] [Server thread/INFO]: [DinokoMC: Teleported DinokoMC to Pikel_03]

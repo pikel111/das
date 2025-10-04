@@ -972,6 +972,7 @@
       "minecraft:jagged_peaks": "2025-10-04 03:54:08 +0000",
       "minecraft:cold_ocean": "2025-10-01 19:13:59 +0000",
       "minecraft:forest": "2025-10-01 19:13:37 +0000",
+      "minecraft:ocean": "2025-10-04 05:12:02 +0000",
       "minecraft:flower_forest": "2025-10-01 19:18:36 +0000",
       "minecraft:windswept_gravelly_hills": "2025-10-01 19:01:21 +0000",
       "minecraft:plains": "2025-10-01 19:15:41 +0000"
@@ -3785,6 +3786,66 @@
   "minecraft:story/enchant_item": {
     "criteria": {
       "enchanted_item": "2025-10-04 04:47:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald_block": "2025-10-04 05:05:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2025-10-04 05:05:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+    "criteria": {
+      "has_smooth_stone": "2025-10-04 05:05:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2025-10-04 05:05:53 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "requirement": "2025-10-04 05:15:59 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-10-04 05:12:46 +0000"
+    },
+    "done": true
+  },
+  "hopo:minecraft/adventure/locate_all_underwater_structures": {
+    "criteria": {
+      "locate_underwater_small_ruins": "2025-10-04 05:12:24 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-10-04 05:10:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-10-04 05:12:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2025-10-04 05:10:04 +0000"
     },
     "done": true
   },

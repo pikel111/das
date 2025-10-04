@@ -3820,15 +3820,15 @@
     },
     "done": true
   },
-  "incendium:technical/on_inventory_change": {
+  "minecraft:recipes/misc/book": {
     "criteria": {
-      "requirement": "2025-10-04 05:35:59 +0000"
+      "has_paper": "2025-10-04 05:10:04 +0000"
     },
-    "done": false
+    "done": true
   },
-  "minecraft:recipes/brewing/golden_carrot": {
+  "minecraft:recipes/decorations/cartography_table": {
     "criteria": {
-      "has_gold_nugget": "2025-10-04 05:12:46 +0000"
+      "has_paper": "2025-10-04 05:10:04 +0000"
     },
     "done": true
   },
@@ -3838,21 +3838,15 @@
     },
     "done": false
   },
-  "minecraft:recipes/misc/book": {
+  "minecraft:recipes/brewing/golden_carrot": {
     "criteria": {
-      "has_paper": "2025-10-04 05:10:04 +0000"
+      "has_gold_nugget": "2025-10-04 05:12:46 +0000"
     },
     "done": true
   },
   "minecraft:recipes/misc/gold_ingot_from_nuggets": {
     "criteria": {
       "has_gold_nugget": "2025-10-04 05:12:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/cartography_table": {
-    "criteria": {
-      "has_paper": "2025-10-04 05:10:04 +0000"
     },
     "done": true
   },

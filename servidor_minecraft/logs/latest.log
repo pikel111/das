@@ -1719,3 +1719,32 @@ BCLib - The End  BiomeSource (16f8b4a5)
 [05:36:09] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
 [05:36:09] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/das/servidor_minecraft/bclib-sync (allowDelete=true)
 [05:36:15] [Server thread/INFO]: [DinokoMC: Teleported DinokoMC to Pikel_03]
+[05:37:24] [Server thread/INFO]: DinokoMC lost connection: Timed out
+[05:37:24] [Server thread/INFO]: DinokoMC left the game
+[05:37:35] [Server thread/INFO]: [Pikel_03: Set own game mode to Spectator Mode]
+[05:38:02] [Server thread/INFO]: [Pikel_03: Set own game mode to Survival Mode]
+[05:38:44] [Server thread/INFO]: [Pikel_03: Set own game mode to Spectator Mode]
+[05:38:58] [Server thread/INFO]: [Pikel_03: Set own game mode to Survival Mode]
+[05:39:10] [Server thread/INFO]: [Pikel_03: Set own game mode to Creative Mode]
+[05:39:45] [Server thread/INFO]: [Pikel_03: Set own game mode to Survival Mode]
+[05:41:05] [Server thread/INFO]: DinokoMC[/127.199.115.24:44333] logged in with entity id 105757 at (-89.03590408702715, 217.5, -3023.190924287099)
+[05:41:05] [Server thread/INFO]: Syncing config to DinokoMC (f0c00d82-0d58-3b89-af0b-9c6838e550a1)
+[05:41:05] [Server thread/INFO]: Loading config from file...
+[05:41:05] [Server thread/INFO]: DinokoMC joined the game
+[05:41:05] [Server thread/INFO]: Player DinokoMC just logged in with id f0c00d82-0d58-3b89-af0b-9c6838e550a1
+[05:41:05] [Server thread/INFO]: Async chunk loading for player DinokoMC completed
+[05:41:06] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[05:41:06] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[05:41:06] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[05:41:06] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[05:41:06] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[05:41:06] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[05:41:06] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[05:41:06] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[05:41:06] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[05:41:06] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[05:41:06] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/das/servidor_minecraft/bclib-sync (allowDelete=true)
+[05:41:06] [ForkJoinPool-5-worker-11/INFO]: Error downloading file https://playerdb.co/api/player/minecraft/DinokoMC
+[05:41:06] [ForkJoinPool-5-worker-11/INFO]: Error downloading file https://playerdb.co/api/player/minecraft/DinokoMC
+[05:41:06] [ForkJoinPool-5-worker-11/INFO]: Error downloading file https://playerdb.co/api/player/minecraft/DinokoMC
+[05:45:38] [Server thread/INFO]: [DinokoMC: Teleported DinokoMC to Pikel_03]

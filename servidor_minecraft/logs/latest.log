@@ -1748,3 +1748,78 @@ BCLib - The End  BiomeSource (16f8b4a5)
 [05:41:06] [ForkJoinPool-5-worker-11/INFO]: Error downloading file https://playerdb.co/api/player/minecraft/DinokoMC
 [05:41:06] [ForkJoinPool-5-worker-11/INFO]: Error downloading file https://playerdb.co/api/player/minecraft/DinokoMC
 [05:45:38] [Server thread/INFO]: [DinokoMC: Teleported DinokoMC to Pikel_03]
+[05:47:34] [Server thread/INFO]: [DinokoMC: Teleported DinokoMC to Pikel_03]
+[05:50:55] [Server thread/INFO]: [Pikel_03: Teleported Pikel_03 to DinokoMC]
+[05:51:15] [Server thread/INFO]: [DinokoMC: Teleported DinokoMC to Pikel_03]
+[05:51:35] [Server thread/INFO]: [DinokoMC: Teleported DinokoMC to Pikel_03]
+[05:51:42] [Server thread/INFO]: [DinokoMC: Teleported DinokoMC to Pikel_03]
+[05:53:07] [Server thread/INFO]: [Pikel_03: Set own game mode to Creative Mode]
+[05:53:28] [Server thread/INFO]: [Pikel_03: Set own game mode to Survival Mode]
+[05:54:43] [Server thread/INFO]: [DinokoMC: Teleported DinokoMC to -1297.500000, 71.500000, 286.500000]
+[05:55:03] [Server thread/INFO]: [DinokoMC: Teleported DinokoMC to Pikel_03]
+[05:55:46] [Server thread/INFO]: [DinokoMC: Teleported DinokoMC to -1297.500000, 71.500000, 286.500000]
+[05:56:52] [Server thread/INFO]: Portal located for entity class_3222['DinokoMC'/105757, l='ServerLevel[world]', x=-1473.61, y=76.00, z=237.49] at TeleportTarget{pitch=31.947308, position=(-184.5, 49.0, 30.491254144990563), velocity=(0.0, -0.0784000015258789, 0.0), yaw=-114.57423}
+[05:56:54] [Server thread/INFO]: Named entity class_1621['Toxic Slime'/108331, l='ServerLevel[world]', x=-184.09, y=-20.00, z=-22.56] died: Toxic Slime was killed
+[05:56:54] [Server thread/INFO]: Named entity class_1621['Toxic Slime'/108333, l='ServerLevel[world]', x=-203.08, y=-20.00, z=-1.74] died: Toxic Slime was killed
+[05:56:55] [Server thread/INFO]: Named entity class_1621['Toxic Slime'/108364, l='ServerLevel[world]', x=-188.44, y=-20.00, z=-0.24] died: Toxic Slime was killed
+[05:57:36] [Server thread/INFO]: Named entity class_1621['Toxic Slime'/108363, l='ServerLevel[world]', x=-194.27, y=-20.00, z=19.74] died: Toxic Slime was killed
+[05:57:49] [Server thread/INFO]: [Pikel_03: Set own game mode to Creative Mode]
+[05:57:58] [Server thread/INFO]: [DinokoMC: Set own game mode to Spectator Mode]
+[05:58:09] [Server thread/INFO]: [Pikel_03: Set own game mode to Survival Mode]
+[05:58:21] [Server thread/INFO]: DinokoMC lost connection: Timed out
+[05:58:21] [Server thread/INFO]: DinokoMC left the game
+[05:58:25] [Server thread/INFO]: [Pikel_03: Set own game mode to Creative Mode]
+[05:58:30] [Server thread/INFO]: DinokoMC[/127.199.115.24:37497] logged in with entity id 108811 at (-174.50551638066585, 63.0, -2.620525956840699)
+[05:58:30] [Server thread/INFO]: Syncing config to DinokoMC (f0c00d82-0d58-3b89-af0b-9c6838e550a1)
+[05:58:30] [Server thread/INFO]: Loading config from file...
+[05:58:30] [Server thread/INFO]: DinokoMC joined the game
+[05:58:30] [Server thread/INFO]: Player DinokoMC just logged in with id f0c00d82-0d58-3b89-af0b-9c6838e550a1
+[05:58:30] [Server thread/INFO]: Async chunk loading for player DinokoMC completed
+[05:58:31] [ForkJoinPool-5-worker-12/INFO]: Error downloading file https://playerdb.co/api/player/minecraft/DinokoMC
+[05:58:31] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[05:58:31] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[05:58:31] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[05:58:31] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[05:58:31] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[05:58:31] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[05:58:31] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[05:58:31] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[05:58:31] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[05:58:31] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[05:58:31] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/das/servidor_minecraft/bclib-sync (allowDelete=true)
+[05:58:31] [ForkJoinPool-5-worker-12/INFO]: Error downloading file https://playerdb.co/api/player/minecraft/DinokoMC
+[05:58:31] [ForkJoinPool-5-worker-12/INFO]: Error downloading file https://playerdb.co/api/player/minecraft/DinokoMC
+[05:58:33] [Server thread/INFO]: [Pikel_03: Set own game mode to Survival Mode]
+[05:58:50] [Server thread/INFO]: DinokoMC has made the advancement [Hellish Paradise]
+[05:59:04] [Server thread/INFO]: [DinokoMC: Set own game mode to Survival Mode]
+[05:59:08] [Server thread/INFO]: DinokoMC has made the advancement [The Floor is Tears]
+[05:59:35] [Server thread/INFO]: [DinokoMC: Teleported DinokoMC to Pikel_03]
+[06:02:51] [Server thread/INFO]: [DinokoMC: Set own game mode to Creative Mode]
+[06:03:11] [Server thread/INFO]: [DinokoMC: Set own game mode to Survival Mode]
+[06:04:12] [Server thread/INFO]: [Pikel_03: Set own game mode to Creative Mode]
+[06:05:16] [Server thread/INFO]: [Pikel_03: Set own game mode to Survival Mode]
+[06:05:33] [Server thread/INFO]: [Pikel_03: Set own game mode to Creative Mode]
+[06:05:59] [Server thread/INFO]: [Pikel_03: Set own game mode to Survival Mode]
+[06:06:06] [Server thread/INFO]: [DinokoMC: Set own game mode to Creative Mode]
+[06:06:18] [Server thread/INFO]: Pikel_03 lost connection: Disconnected
+[06:06:18] [Server thread/INFO]: Pikel_03 left the game
+[06:06:18] [Server thread/INFO]: Removing session data for player Pikel_03[afc4c9dd-8d66-358b-8b8b-98baedbba298]
+[06:06:21] [Server thread/INFO]: Pikel_03[/127.219.55.4:46487] logged in with entity id 110975 at (-86.49101290509724, 63.0, -3022.3088375133407)
+[06:06:21] [Server thread/INFO]: Syncing config to Pikel_03 (afc4c9dd-8d66-358b-8b8b-98baedbba298)
+[06:06:21] [Server thread/INFO]: Loading config from file...
+[06:06:21] [Server thread/INFO]: Pikel_03 joined the game
+[06:06:21] [Server thread/INFO]: Player Pikel_03 just logged in with id afc4c9dd-8d66-358b-8b8b-98baedbba298
+[06:06:21] [ForkJoinPool-5-worker-13/INFO]: Loading local skin for player Pikel_03[afc4c9dd-8d66-358b-8b8b-98baedbba298]
+[06:06:21] [Server thread/INFO]: Async chunk loading for player Pikel_03 completed
+[06:06:21] [ForkJoinPool-5-worker-13/INFO]: File https://playerdb.co/api/player/minecraft/Pikel_03 downloaded
+[06:06:22] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[06:06:22] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[06:06:22] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[06:06:22] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[06:06:22] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[06:06:22] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[06:06:22] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[06:06:22] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[06:06:22] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[06:06:22] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[06:06:22] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/das/servidor_minecraft/bclib-sync (allowDelete=true)

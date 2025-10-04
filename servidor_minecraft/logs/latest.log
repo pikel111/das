@@ -1681,3 +1681,41 @@ BCLib - The End  BiomeSource (16f8b4a5)
 [05:22:38] [Server thread/INFO]: [Pikel_03: Set own game mode to Survival Mode]
 [05:22:53] [Server thread/INFO]: [Not Secure] <DinokoMC> Pikel_03 pta
 [05:24:49] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location class_2338{x=-551, y=65, z=-2562}
+[05:27:58] [Worker-Main-12/WARN]: Non-existent template pool reference: stellaris:stronghold/corridors_no_stairs
+[05:27:58] [Worker-Main-12/WARN]: Non-existent template pool reference: fokastudio:end/stronghold/illagers
+[05:27:58] [Worker-Main-12/WARN]: Non-existent template pool reference: stellaris:stronghold/corridors_no_stairs
+[05:27:58] [Worker-Main-12/WARN]: Non-existent template pool reference: stellaris:stronghold/corridors_no_stairs
+[05:27:58] [Worker-Main-12/WARN]: Non-existent template pool reference: stellaris:stronghold/corridors_no_stairs
+[05:27:58] [Worker-Main-12/WARN]: Non-existent template pool reference: fokastudio:end/stronghold/illagers
+[05:27:58] [Worker-Main-12/WARN]: Non-existent template pool reference: stellaris:stronghold/corridors_no_stairs
+[05:27:58] [Worker-Main-12/WARN]: Non-existent template pool reference: stellaris:stronghold/corridors_no_stairs
+[05:27:59] [Worker-Main-12/WARN]: Non-existent template pool reference: stellaris:stronghold/corridors_no_stairs
+[05:28:45] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location class_2338{x=-1020, y=12, z=-1467}
+[05:28:45] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location class_2338{x=-1020, y=12, z=-1464}
+[05:34:24] [Server thread/INFO]: [Pikel_03: Teleported DinokoMC to Pikel_03]
+[05:34:47] [Server thread/INFO]: [Pikel_03: Made DinokoMC a server operator]
+[05:35:26] [Server thread/INFO]: [DinokoMC: Teleported DinokoMC to Pikel_03]
+[05:36:03] [Server thread/INFO]: [DinokoMC: Kicked Pikel_03: Kicked by an operator]
+[05:36:03] [Server thread/INFO]: Pikel_03 lost connection: Kicked by an operator
+[05:36:03] [Server thread/INFO]: Pikel_03 left the game
+[05:36:03] [Server thread/INFO]: Removing session data for player Pikel_03[afc4c9dd-8d66-358b-8b8b-98baedbba298]
+[05:36:09] [Server thread/INFO]: Pikel_03[/127.219.55.4:45687] logged in with entity id 105243 at (-85.49950469613793, 220.5, -3023.055479366751)
+[05:36:09] [Server thread/INFO]: Syncing config to Pikel_03 (afc4c9dd-8d66-358b-8b8b-98baedbba298)
+[05:36:09] [Server thread/INFO]: Loading config from file...
+[05:36:09] [Server thread/INFO]: Pikel_03 joined the game
+[05:36:09] [Server thread/INFO]: Player Pikel_03 just logged in with id afc4c9dd-8d66-358b-8b8b-98baedbba298
+[05:36:09] [ForkJoinPool-5-worker-10/INFO]: Loading local skin for player Pikel_03[afc4c9dd-8d66-358b-8b8b-98baedbba298]
+[05:36:09] [Server thread/INFO]: Async chunk loading for player Pikel_03 completed
+[05:36:09] [ForkJoinPool-5-worker-10/INFO]: File https://playerdb.co/api/player/minecraft/Pikel_03 downloaded
+[05:36:09] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[05:36:09] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[05:36:09] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[05:36:09] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[05:36:09] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[05:36:09] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[05:36:09] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[05:36:09] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[05:36:09] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[05:36:09] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[05:36:09] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/das/servidor_minecraft/bclib-sync (allowDelete=true)
+[05:36:15] [Server thread/INFO]: [DinokoMC: Teleported DinokoMC to Pikel_03]

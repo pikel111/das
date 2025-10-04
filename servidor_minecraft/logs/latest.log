@@ -1857,3 +1857,32 @@ BCLib - The End  BiomeSource (16f8b4a5)
 [06:16:58] [Server thread/INFO]: [DinokoMC: Killed DinokoMC]
 [06:16:59] [Server thread/INFO]: Async chunk loading for player DinokoMC completed
 [06:17:08] [Server thread/INFO]: [DinokoMC: Teleported DinokoMC to -101.500000, 61.500000, -3009.500000]
+[06:17:45] [Server thread/INFO]: [Pikel_03: Teleported Pikel_03 to -1291.500000, 71.500000, 288.500000]
+[06:18:14] [Server thread/INFO]: [DinokoMC: Applied effect Bad Omen to DinokoMC]
+[06:18:37] [Server thread/INFO]: [Pikel_03: Set own game mode to Creative Mode]
+[06:18:45] [Server thread/INFO]: [DinokoMC: Set own game mode to Creative Mode]
+[06:18:55] [Server thread/INFO]: [Pikel_03: Set own game mode to Survival Mode]
+[06:18:59] [Server thread/INFO]: [Pikel_03: Teleported Pikel_03 to -89.500000, 63.500000, -3019.500000]
+[06:19:06] [Server thread/INFO]: [DinokoMC: Set own game mode to Survival Mode]
+[06:19:07] [Server thread/INFO]: Pikel_03 has made the advancement [Voluntary Exile]
+[06:19:22] [Server thread/INFO]: [DinokoMC: Teleported DinokoMC to Pikel_03]
+[06:19:31] [Server thread/WARN]: DinokoMC moved too quickly! 0.0557353548658881,-12.487512062367102,0.230550231644429
+[06:21:28] [Server thread/INFO]: [DinokoMC: Gave 100000000 experience points to DinokoMC]
+[06:21:44] [Server thread/INFO]: DinokoMC was killed
+[06:21:44] [Server thread/INFO]: Created new backpack backup file for DinokoMC with unique ID travelersbackpack.skeleton_04.10.2025-06.21.44.dat
+[06:21:44] [Server thread/INFO]: [STDOUT]: Player class_3222['DinokoMC'/108811, l='ServerLevel[world]', x=-84.93, y=63.00, z=-3020.94] died. Death ID: 13
+[06:21:44] [Server thread/INFO]: [Pikel_03: Killed DinokoMC]
+[06:21:45] [Server thread/INFO]: Async chunk loading for player DinokoMC completed
+[06:21:51] [Server thread/INFO]: [DinokoMC: Teleported DinokoMC to -84.500000, 63.500000, -3020.500000]
+[06:23:10] [Server thread/INFO]: Pikel_03 was shot by DinokoMC
+[06:23:10] [Server thread/INFO]: Created new backpack backup file for Pikel_03 with unique ID travelersbackpack.standard_04.10.2025-06.23.10.dat
+[06:23:10] [Server thread/INFO]: [STDOUT]: Player class_3222['Pikel_03'/110975, l='ServerLevel[world]', x=-184.76, y=62.14, z=-3010.89] died. Death ID: 14
+[06:23:12] [Server thread/INFO]: Async chunk loading for player Pikel_03 completed
+[06:23:17] [Server thread/INFO]: [Pikel_03: Teleported Pikel_03 to -186.500000, 61.500000, -3010.500000]
+[06:23:32] [Server thread/INFO]: DinokoMC lost connection: Disconnected
+[06:23:32] [Server thread/INFO]: DinokoMC left the game
+[06:23:46] [Server thread/INFO]: [Pikel_03: Teleported Pikel_03 to -860.500000, -42.500000, 732.500000]
+[06:23:48] [Server thread/INFO]: [Pikel_03: Teleported Pikel_03 to -1291.500000, 71.500000, 288.500000]
+[06:24:06] [Server thread/INFO]: Pikel_03 lost connection: Disconnected
+[06:24:06] [Server thread/INFO]: Pikel_03 left the game
+[06:24:06] [Server thread/INFO]: Removing session data for player Pikel_03[afc4c9dd-8d66-358b-8b8b-98baedbba298]

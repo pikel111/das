@@ -1,0 +1,8 @@
+[general]
+	rainGrowthSpeed = 10
+	useRainGrowthSpeed = true
+[individual]
+	bambooCustomSpeed = 10
+	useGeneralSpeedBamboo = true
+	useGeneralSpeedCrops = true
+	useIndividualSpeeds = false

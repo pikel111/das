@@ -1513,3 +1513,65 @@ BCLib - The End  BiomeSource (16f8b4a5)
 [04:05:53] [Server thread/INFO]: [Pikel_03: Teleported Pikel_03 to -1291.500000, 71.500000, 288.500000]
 [04:05:57] [Server thread/INFO]: [DinokoMC: Teleported DinokoMC to -1297.500000, 71.500000, 286.500000]
 [04:06:01] [Server thread/INFO]: [DinokoMC: Set own game mode to Survival Mode]
+[04:30:22] [Server thread/INFO]: [Pikel_03: Kicked DinokoMC: Kicked by an operator]
+[04:30:22] [Server thread/INFO]: DinokoMC lost connection: Kicked by an operator
+[04:30:22] [Server thread/INFO]: DinokoMC left the game
+[04:30:30] [Server thread/INFO]: DinokoMC[/127.184.31.84:52057] logged in with entity id 54988 at (-1274.7201091538398, 71.0, 268.28859085033565)
+[04:30:30] [Server thread/INFO]: Syncing config to DinokoMC (f0c00d82-0d58-3b89-af0b-9c6838e550a1)
+[04:30:30] [Server thread/INFO]: Loading config from file...
+[04:30:30] [Server thread/INFO]: DinokoMC joined the game
+[04:30:30] [Server thread/INFO]: Player DinokoMC just logged in with id f0c00d82-0d58-3b89-af0b-9c6838e550a1
+[04:30:30] [Server thread/INFO]: Async chunk loading for player DinokoMC completed
+[04:30:30] [ForkJoinPool-5-worker-5/INFO]: Error downloading file https://playerdb.co/api/player/minecraft/DinokoMC
+[04:30:30] [ForkJoinPool-5-worker-5/INFO]: Error downloading file https://playerdb.co/api/player/minecraft/DinokoMC
+[04:30:30] [ForkJoinPool-5-worker-5/INFO]: Error downloading file https://playerdb.co/api/player/minecraft/DinokoMC
+[04:30:31] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[04:30:31] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[04:30:31] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[04:30:31] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[04:30:31] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[04:30:31] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[04:30:31] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[04:30:31] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[04:30:31] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[04:30:31] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[04:30:31] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/das/servidor_minecraft/bclib-sync (allowDelete=true)
+[04:30:39] [Server thread/INFO]: Pikel_03 lost connection: Disconnected
+[04:30:39] [Server thread/INFO]: Pikel_03 left the game
+[04:30:39] [Server thread/INFO]: Removing session data for player Pikel_03[afc4c9dd-8d66-358b-8b8b-98baedbba298]
+[04:34:39] [Server thread/INFO]: Pikel_03[/127.219.55.4:60129] logged in with entity id 57743 at (-1281.019339655523, 74.0, 300.45268966971884)
+[04:34:39] [Server thread/INFO]: Syncing config to Pikel_03 (afc4c9dd-8d66-358b-8b8b-98baedbba298)
+[04:34:39] [Server thread/INFO]: Loading config from file...
+[04:34:39] [Server thread/INFO]: Pikel_03 joined the game
+[04:34:39] [Server thread/INFO]: Player Pikel_03 just logged in with id afc4c9dd-8d66-358b-8b8b-98baedbba298
+[04:34:39] [Server thread/INFO]: Async chunk loading for player Pikel_03 completed
+[04:34:39] [ForkJoinPool-5-worker-6/INFO]: Loading local skin for player Pikel_03[afc4c9dd-8d66-358b-8b8b-98baedbba298]
+[04:34:40] [ForkJoinPool-5-worker-6/INFO]: File https://playerdb.co/api/player/minecraft/Pikel_03 downloaded
+[04:34:42] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[04:34:42] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[04:34:42] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[04:34:42] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[04:34:42] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[04:34:42] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[04:34:42] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[04:34:42] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[04:34:42] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[04:34:42] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[04:34:42] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/das/servidor_minecraft/bclib-sync (allowDelete=true)
+[04:38:00] [Server thread/INFO]: [Pikel_03: Teleported Pikel_03 to -887.500000, 69.500000, -597.500000]
+[04:38:36] [Server thread/INFO]: [DinokoMC: Set own game mode to Creative Mode]
+[04:38:51] [Server thread/INFO]: [DinokoMC: Set own game mode to Survival Mode]
+[04:39:41] [Server thread/INFO]: [Pikel_03: Teleported Pikel_03 to 319.500000, 137.500000, -3326.500000]
+[04:39:52] [Server thread/INFO]: Pikel_03 has made the advancement [Intruder Alert]
+[04:40:45] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location class_2338{x=698, y=142, z=-3404}
+[04:40:47] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location class_2338{x=719, y=164, z=-3420}
+[04:40:47] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location class_2338{x=711, y=166, z=-3422}
+[04:40:49] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location class_2338{x=709, y=136, z=-3382}
+[04:41:14] [Server thread/INFO]: [Pikel_03: Teleported Pikel_03 to -1291.500000, 71.500000, 288.500000]
+[04:47:26] [Server thread/INFO]: DinokoMC has made the advancement [Enchanter]
+[04:49:58] [Server thread/INFO]: Villager class_1646['Librarian'/40522, l='ServerLevel[world]', x=-1277.48, y=71.04, z=300.53] died, message: 'Librarian drowned'
+[04:50:07] [Server thread/INFO]: [Pikel_03: Teleported Pikel_03 to -1004.500000, 64.500000, 24.500000]
+[04:50:49] [Server thread/INFO]: [Pikel_03: Teleported Pikel_03 to -1291.500000, 71.500000, 288.500000]
+[04:51:53] [Server thread/INFO]: [Pikel_03: Teleported Pikel_03 to -15.500000, 63.500000, -2574.500000]
+[04:53:02] [Server thread/INFO]: [Pikel_03: Teleported Pikel_03 to -1291.500000, 71.500000, 288.500000]
+[04:54:48] [Server thread/INFO]: [Pikel_03: Teleported Pikel_03 to -1291.500000, 71.500000, 288.500000]

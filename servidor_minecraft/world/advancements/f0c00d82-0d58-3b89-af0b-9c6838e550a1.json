@@ -3710,6 +3710,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2025-10-04 04:01:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2025-10-04 04:03:38 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/blast_furnace_upgrade": {
     "criteria": {
       "has_blank_upgrade": "2025-10-04 04:20:38 +0000"
@@ -3746,12 +3758,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/coarse_dirt": {
-    "criteria": {
-      "has_gravel": "2025-10-04 04:01:51 +0000"
-    },
-    "done": true
-  },
   "travelersbackpack:recipes/misc/tanks_upgrade": {
     "criteria": {
       "has_blank_upgrade": "2025-10-04 04:20:38 +0000"
@@ -3770,15 +3776,15 @@
     },
     "done": true
   },
-  "minecraft:adventure/avoid_vibration": {
-    "criteria": {
-      "avoid_vibration": "2025-10-04 04:03:38 +0000"
-    },
-    "done": true
-  },
   "travelersbackpack:recipes/misc/magnet_upgrade": {
     "criteria": {
       "has_blank_upgrade": "2025-10-04 04:20:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2025-10-04 04:47:26 +0000"
     },
     "done": true
   },

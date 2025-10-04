@@ -3863,33 +3863,40 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+  "nova_structures:adventure/find_tavern": {
     "criteria": {
-      "has_gold_block": "2025-10-04 03:36:18 +0000"
+      "nova_structures:tavern_oak": "2025-10-04 03:16:53 +0000"
     },
     "done": true
   },
-  "minecraft:nether/brew_potion": {
+  "nova_structures:root": {
     "criteria": {
-      "potion": "2025-10-04 03:43:19 +0000"
+      "nova_structures:adventure/find_tavern": "2025-10-04 03:16:53 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+  "nova_structures:adventure/find_all_illager_structures": {
     "criteria": {
-      "has_golden_helmet": "2025-10-04 03:40:36 +0000"
+      "pillager_outpost": "2025-10-04 04:39:52 +0000",
+      "illager_camp": "2025-10-04 03:22:33 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2025-10-04 03:24:08 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/blackstone_wall": {
+  "minecraft:recipes/tools/lead": {
     "criteria": {
-      "has_blackstone": "2025-10-04 03:57:26 +0000"
+      "has_slime_ball": "2025-10-04 03:24:08 +0000"
     },
     "done": true
   },
-  "netherexp:recipes/misc/skeleton_skull_candle": {
+  "minecraft:recipes/redstone/sticky_piston": {
     "criteria": {
-      "has_item": "2025-10-04 03:49:54 +0000"
+      "has_slime_ball": "2025-10-04 03:24:08 +0000"
     },
     "done": true
   },
@@ -3899,39 +3906,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_blackstone_stonecutting": {
-    "criteria": {
-      "has_blackstone": "2025-10-04 03:57:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_blackstone_stonecutting": {
-    "criteria": {
-      "has_blackstone": "2025-10-04 03:57:26 +0000"
-    },
-    "done": true
-  },
-  "betterend:recipes/misc/hydralux_petal_block_white": {
-    "criteria": {
-      "has_white_dye": "2025-10-04 03:46:35 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/cut_copper": {
     "criteria": {
       "has_copper_block": "2025-10-04 03:36:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_white_bed": {
-    "criteria": {
-      "has_needed_dye": "2025-10-04 03:46:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_blackstone_stonecutting": {
-    "criteria": {
-      "has_blackstone": "2025-10-04 03:57:26 +0000"
     },
     "done": true
   },
@@ -3941,15 +3918,93 @@
     },
     "done": true
   },
-  "betterend:recipes/misc/terminite_bulb_lantern_white": {
+  "minecraft:recipes/building_blocks/cut_copper_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2025-10-04 03:36:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot": {
+    "criteria": {
+      "has_copper_block": "2025-10-04 03:36:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_slab_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2025-10-04 03:36:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-10-04 03:36:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/armor_stand": {
+    "criteria": {
+      "has_stone_slab": "2025-10-04 03:36:29 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/fox": {
+    "criteria": {
+      "has_sweet_berries": "2025-10-04 03:38:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_helmet": "2025-10-04 03:40:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_helmet": "2025-10-04 03:40:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2025-10-04 03:43:17 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/nether": {
+    "criteria": {
+      "has_nether_wart": "2025-10-04 03:43:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2025-10-04 03:43:19 +0000"
+    },
+    "done": true
+  },
+  "stellarity:nether/imbuements": {
+    "criteria": {
+      "criteria": "2025-10-04 03:43:20 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/hydralux_petal_block_white": {
     "criteria": {
       "has_white_dye": "2025-10-04 03:46:35 +0000"
     },
     "done": true
   },
-  "minecraft:adventure/ol_betsy": {
+  "minecraft:recipes/building_blocks/dye_white_bed": {
     "criteria": {
-      "shot_crossbow": "2025-10-04 03:47:54 +0000"
+      "has_needed_dye": "2025-10-04 03:46:35 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/terminite_bulb_lantern_white": {
+    "criteria": {
+      "has_white_dye": "2025-10-04 03:46:35 +0000"
     },
     "done": true
   },
@@ -3971,51 +4026,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/blackstone_stairs": {
-    "criteria": {
-      "has_blackstone": "2025-10-04 03:57:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_slab_from_blackstone_stonecutting": {
-    "criteria": {
-      "has_blackstone": "2025-10-04 03:57:26 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/light_gray_dye_from_gray_white_dye": {
     "criteria": {
       "has_white_dye": "2025-10-04 03:46:35 +0000"
-    },
-    "done": true
-  },
-  "nova_structures:adventure/find_tavern": {
-    "criteria": {
-      "nova_structures:tavern_oak": "2025-10-04 03:16:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/blackstone_slab": {
-    "criteria": {
-      "has_blackstone": "2025-10-04 03:57:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_blackstone_stonecutting": {
-    "criteria": {
-      "has_blackstone": "2025-10-04 03:57:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/armor_stand": {
-    "criteria": {
-      "has_stone_slab": "2025-10-04 03:36:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/slime_block": {
-    "criteria": {
-      "has_slime_ball": "2025-10-04 03:24:08 +0000"
     },
     "done": true
   },
@@ -4031,69 +4044,9 @@
     },
     "done": true
   },
-  "netherexp:recipes/sanctum/skull_on_a_stick": {
-    "criteria": {
-      "item": "2025-10-04 03:49:54 +0000"
-    },
-    "done": true
-  },
-  "nova_structures:adventure/find_all_illager_structures": {
-    "criteria": {
-      "illager_camp": "2025-10-04 03:22:33 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_blackstone_stonecutting": {
-    "criteria": {
-      "has_blackstone": "2025-10-04 03:57:26 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/fox": {
-    "criteria": {
-      "has_sweet_berries": "2025-10-04 03:38:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_nugget_from_smelting": {
-    "criteria": {
-      "has_golden_helmet": "2025-10-04 03:40:36 +0000"
-    },
-    "done": true
-  },
-  "stellarity:nether/imbuements": {
-    "criteria": {
-      "criteria": "2025-10-04 03:43:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/nether_wart_block": {
-    "criteria": {
-      "has_nether_wart": "2025-10-04 03:43:17 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/white_candle": {
     "criteria": {
       "has_white_dye": "2025-10-04 03:46:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cut_copper_from_copper_block_stonecutting": {
-    "criteria": {
-      "has_copper_block": "2025-10-04 03:36:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/polished_blackstone_wall_from_blackstone_stonecutting": {
-    "criteria": {
-      "has_blackstone": "2025-10-04 03:57:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/lead": {
-    "criteria": {
-      "has_slime_ball": "2025-10-04 03:24:08 +0000"
     },
     "done": true
   },
@@ -4103,51 +4056,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_blackstone_stonecutting": {
-    "criteria": {
-      "has_blackstone": "2025-10-04 03:57:26 +0000"
-    },
-    "done": true
-  },
-  "nova_structures:root": {
-    "criteria": {
-      "nova_structures:adventure/find_tavern": "2025-10-04 03:16:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/copper_ingot": {
-    "criteria": {
-      "has_copper_block": "2025-10-04 03:36:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/blackstone_slab_from_blackstone_stonecutting": {
-    "criteria": {
-      "has_blackstone": "2025-10-04 03:57:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/sticky_piston": {
-    "criteria": {
-      "has_slime_ball": "2025-10-04 03:24:08 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/dye_white_carpet": {
     "criteria": {
       "has_needed_dye": "2025-10-04 03:46:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone": {
-    "criteria": {
-      "has_blackstone": "2025-10-04 03:57:26 +0000"
-    },
-    "done": true
-  },
-  "master_cutter:recipes/stone/blackstone": {
-    "criteria": {
-      "requirement": "2025-10-04 03:57:26 +0000"
     },
     "done": true
   },
@@ -4169,21 +4080,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_blackstone_from_blackstone_stonecutting": {
-    "criteria": {
-      "has_blackstone": "2025-10-04 03:57:26 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/pink_dye_from_red_white_dye": {
     "criteria": {
       "has_white_dye": "2025-10-04 03:46:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/blackstone_wall_from_blackstone_stonecutting": {
-    "criteria": {
-      "has_blackstone": "2025-10-04 03:57:26 +0000"
     },
     "done": true
   },
@@ -4193,21 +4092,231 @@
     },
     "done": true
   },
-  "travelersbackpack:recipes/misc/nether": {
+  "minecraft:adventure/ol_betsy": {
     "criteria": {
-      "has_nether_wart": "2025-10-04 03:43:17 +0000"
+      "shot_crossbow": "2025-10-04 03:47:54 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cut_copper_slab_from_copper_block_stonecutting": {
+  "netherexp:recipes/misc/skeleton_skull_candle": {
     "criteria": {
-      "has_copper_block": "2025-10-04 03:36:17 +0000"
+      "has_item": "2025-10-04 03:49:54 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/sanctum/skull_on_a_stick": {
+    "criteria": {
+      "item": "2025-10-04 03:49:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blackstone_wall": {
+    "criteria": {
+      "has_blackstone": "2025-10-04 03:57:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-10-04 03:57:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-10-04 03:57:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-10-04 03:57:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_stairs": {
+    "criteria": {
+      "has_blackstone": "2025-10-04 03:57:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-10-04 03:57:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_slab": {
+    "criteria": {
+      "has_blackstone": "2025-10-04 03:57:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-10-04 03:57:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-10-04 03:57:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-10-04 03:57:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-10-04 03:57:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-10-04 03:57:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone": {
+    "criteria": {
+      "has_blackstone": "2025-10-04 03:57:26 +0000"
+    },
+    "done": true
+  },
+  "master_cutter:recipes/stone/blackstone": {
+    "criteria": {
+      "requirement": "2025-10-04 03:57:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-10-04 03:57:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blackstone_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-10-04 03:57:26 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/blackstone_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-10-04 03:57:26 +0000"
+    },
+    "done": true
+  },
+  "yungscavebiomes:recipes/building_blocks/brittle_sandstone": {
+    "criteria": {
+      "has_sand": "2025-10-04 04:38:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2025-10-04 04:51:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2025-10-04 04:52:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2025-10-04 04:51:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-10-04 04:51:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal_from_smelting_coal_ore": {
+    "criteria": {
+      "has_coal_ore": "2025-10-04 04:50:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2025-10-04 04:52:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall": {
+    "criteria": {
+      "has_stone_bricks": "2025-10-04 04:51:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2025-10-04 04:52:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2025-10-04 04:51:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-10-04 04:51:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_tag": "2025-10-04 04:51:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal_from_blasting_coal_ore": {
+    "criteria": {
+      "has_coal_ore": "2025-10-04 04:50:15 +0000"
+    },
+    "done": true
+  },
+  "master_cutter:recipes/stone/stone_bricks": {
+    "criteria": {
+      "requirement": "2025-10-04 04:51:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-10-04 04:51:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-10-04 04:51:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2025-10-04 04:38:03 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:adventure/find_pillager_outpost": {
+    "criteria": {
+      "minecraft:pillager_outpost": "2025-10-04 04:39:52 +0000"
     },
     "done": true
   },

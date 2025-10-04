@@ -1823,3 +1823,37 @@ BCLib - The End  BiomeSource (16f8b4a5)
 [06:06:22] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
 [06:06:22] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
 [06:06:22] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/das/servidor_minecraft/bclib-sync (allowDelete=true)
+[06:07:22] [Server thread/INFO]: [Pikel_03: Teleported Pikel_03 to -1291.500000, 71.500000, 288.500000]
+[06:07:28] [Server thread/INFO]: [Pikel_03: Teleported Pikel_03 to DinokoMC]
+[06:07:51] [Server thread/INFO]: [DinokoMC: Set own game mode to Survival Mode]
+[06:08:04] [Server thread/INFO]: [Pikel_03: Applied effect Bad Omen to Pikel_03]
+[06:09:10] [Server thread/INFO]: [Pikel_03: Set own game mode to Creative Mode]
+[06:09:18] [Server thread/INFO]: [Pikel_03: Set own game mode to Survival Mode]
+[06:09:32] [Server thread/INFO]: [Pikel_03: Applied effect Bad Omen to DinokoMC]
+[06:10:19] [Server thread/INFO]: [Pikel_03: Set own game mode to Creative Mode]
+[06:10:23] [Server thread/INFO]: [DinokoMC: Set own game mode to Creative Mode]
+[06:10:31] [Server thread/INFO]: [DinokoMC: Set own game mode to Survival Mode]
+[06:11:10] [Server thread/INFO]: Villager class_1646['Armorer'/110649, l='ServerLevel[world]', x=-87.30, y=62.50, z=-3025.30] died, message: 'Armorer was slain by DinokoMC'
+[06:11:14] [Server thread/INFO]: [DinokoMC: Set own game mode to Creative Mode]
+[06:11:21] [Server thread/INFO]: [Pikel_03: Set own game mode to Survival Mode]
+[06:11:22] [Server thread/INFO]: [Pikel_03: Set own game mode to Creative Mode]
+[06:12:00] [Server thread/INFO]: [DinokoMC: Set own game mode to Survival Mode]
+[06:12:01] [Server thread/INFO]: [Pikel_03: Set own game mode to Survival Mode]
+[06:12:04] [Server thread/INFO]: [Pikel_03: Applied effect Bad Omen to DinokoMC]
+[06:12:41] [Server thread/INFO]: [Pikel_03: Applied effect Bad Omen to Pikel_03]
+[06:13:37] [Server thread/INFO]: [Pikel_03: Applied effect Bad Omen to Pikel_03]
+[06:13:56] [Server thread/INFO]: [DinokoMC: Set own game mode to Creative Mode]
+[06:14:18] [Server thread/INFO]: [DinokoMC: Set own game mode to Survival Mode]
+[06:15:14] [Server thread/INFO]: DinokoMC was killed
+[06:15:14] [Server thread/INFO]: Created new backpack backup file for DinokoMC with unique ID travelersbackpack.skeleton_04.10.2025-06.15.14.dat
+[06:15:14] [Server thread/INFO]: [STDOUT]: Player class_3222['DinokoMC'/108811, l='ServerLevel[world]', x=-88.70, y=189.00, z=-3019.54] died. Death ID: 11
+[06:15:14] [Server thread/INFO]: [DinokoMC: Killed DinokoMC]
+[06:15:16] [Server thread/INFO]: Async chunk loading for player DinokoMC completed
+[06:15:23] [Server thread/INFO]: [DinokoMC: Teleported DinokoMC to -88.500000, 189.500000, -3019.500000]
+[06:15:48] [Server thread/INFO]: [Pikel_03: Set own game mode to Creative Mode]
+[06:16:07] [Server thread/INFO]: [Pikel_03: Set own game mode to Survival Mode]
+[06:16:58] [Server thread/INFO]: DinokoMC was killed
+[06:16:58] [Server thread/INFO]: [STDOUT]: Player class_3222['DinokoMC'/108811, l='ServerLevel[world]', x=-101.27, y=62.17, z=-3010.01] died. Death ID: 12
+[06:16:58] [Server thread/INFO]: [DinokoMC: Killed DinokoMC]
+[06:16:59] [Server thread/INFO]: Async chunk loading for player DinokoMC completed
+[06:17:08] [Server thread/INFO]: [DinokoMC: Teleported DinokoMC to -101.500000, 61.500000, -3009.500000]
